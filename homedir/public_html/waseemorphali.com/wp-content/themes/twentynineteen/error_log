@@ -1,0 +1,1 @@
+[05-Jun-2020 22:11:04 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentynineteen/functions.php on line 16

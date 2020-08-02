@@ -1,0 +1,15 @@
+[14-Sep-2018 04:53:49 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[15-Oct-2018 13:57:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-May-2019 05:01:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-May-2019 20:01:10 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 15:17:21 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[15-Jun-2019 02:27:59 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 13:21:15 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Jul-2019 22:39:17 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 14:02:09 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 00:21:40 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2019 05:51:30 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-Oct-2019 19:27:06 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2019 16:53:02 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[03-Dec-2019 20:43:15 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[12-Dec-2019 17:38:38 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

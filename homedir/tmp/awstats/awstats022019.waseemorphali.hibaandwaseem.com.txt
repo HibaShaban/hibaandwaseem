@@ -1,0 +1,478 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201902 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.waseemorphali.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2714                
+POS_VISITOR 9161                
+POS_DAY 11663               
+POS_DOMAIN 3526                
+POS_LOGIN 3921                
+POS_ROBOT 4076                
+POS_WORMS 4580                
+POS_EMAILSENDER 4711                
+POS_EMAILRECEIVER 4854                
+POS_SESSION 12394               
+POS_SIDER 12592               
+POS_FILETYPES 4989                
+POS_DOWNLOADS 5297                
+POS_OS 5400                
+POS_BROWSER 5608                
+POS_SCREENSIZE 6086                
+POS_UNKNOWNREFERER 6160                
+POS_UNKNOWNREFERERBROWSER 6393                
+POS_ORIGIN 6563                
+POS_SEREFERRALS 6704                
+POS_PAGEREFS 6871                
+POS_SEARCHWORDS 7092                
+POS_KEYWORDS 7244                
+POS_MISC 2377                
+POS_ERRORS 7303                
+POS_CLUSTER 3777                
+POS_SIDER_404 7485                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190301014726 138 26622 15771698353726
+FirstTime 20190201015700
+LastTime 20190228233721
+LastUpdate 20190301062712 138 0 137 0 0
+TotalVisits 227                 
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 66                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 21 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 24703 307 311 284215
+1 7 7 0 306 309 68148
+2 9 9 24703 298 302 35767
+3 17 36 706245 283 289 26879
+4 10 30 343162 360 375 258573
+5 4 31 814533 283 289 284074
+6 13 13 34783 307 325 424711
+7 12 12 46046 311 326 925786
+8 10 10 10616 275 277 54809
+9 5 5 3360 274 282 197496
+10 8 8 26389 305 314 197224
+11 16 16 98850 313 315 68728
+12 10 10 28063 307 313 65152
+13 8 8 22902 327 332 59555
+14 386 836 38081397 310 316 154111
+15 89 92 75308 287 287 47442
+16 211 259 8532409 276 291 289266
+17 26 26 26012 260 262 55301
+18 3 3 0 222 224 30448
+19 154 392 7693113 330 403 3318261
+20 8 11 78835 241 245 165272
+21 6 7 1810 242 246 125470
+22 11 11 10616 267 268 93669
+23 8 8 24703 313 313 27696
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 983 1692 53213083
+ru 20 20 67200
+ua 13 13 66798
+cn 9 90 2525871
+ca 3 3 58612
+ie 2 21 678182
+gb 2 2 6720
+kz 1 1 3360
+pl 1 1 3360
+hu 1 1 21343
+fr 1 1 21343
+de 1 1 21343
+gr 1 1 21343
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+spider 94 3096602 20190228191658 0
+Googlebot/ 70 839599 20190227165738 28
+bingbot/ 40 1658041 20190225075009 6
+bot[\s_+:,\.\;\/\\-] 5 106715 20190215103508 0
+unknown 4 268 20190217045151 4
+facebookexternalhit/ 1 67 20190207032722 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 15926 20190216144615 0
+SafeDNSBot 1 67 20190228031212 1
+DuckDuckGo\-Favicons\-Bot/ 1 1561 20190202105709 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+gif 4 41668 0 0
+html 133 3205251 0 0
+woff2 9 659536 0 0
+jpg 23 357733 0 0
+Unknown 34 95097 0 0
+xml 13 13585 0 0
+svg 6 23644 0 0
+php 848 27835084 0 0
+jpeg 2 31226 0 0
+css 207 5136009 0 0
+png 131 6125523 0 0
+woff 1 18720 0 0
+js 436 13165482 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+//wp-content/plugins/elementor/readme.txt 19 0 2228567
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+Unknown 197 177
+win7 293 133
+win10 1204 684
+macosx 1 0
+macosx12 4 4
+ios_iphone 117 9
+winlong 27 27
+macosx10 1 1
+linuxandroid 1 1
+macosx11 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+msie9.0 286 126
+edge17 21 2
+chrome65.0.3325.181 1 1
+firefox47.0 2 2
+chrome63.0.3239.132 2 2
+mozilla 2 2
+chrome72.0.3626.109 654 394
+chrome53.0.2785.143 6 6
+chrome64.0.3282.186 3 3
+chrome31.0.1650.57 4 4
+chrome61.0.3163.100 4 4
+safari 31 4
+Unknown 195 175
+safari11.0 86 5
+firefox59.0 1 1
+chrome41.0.2272.89 1 1
+chrome45.0.2454.94 1 1
+firefox61.0 1 1
+chrome72.0.3626.119 517 276
+firefox40.1 1 1
+firefox34.0 27 27
+firefox64.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/5.0.3;_http://waseemorphali.com 20190228233721
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190207111259
+di-cloud-parser 20190217045200
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/5.0.3;_http://waseemorphali.com 20190228233721
+di-cloud-parser 20190217045200
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 66 89
+From1 0 0
+From2 125 285
+From3 2 2
+From4 845 1471
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 125 285
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.facebook.com 1 1
+https://brandnewblogs.com/site-browser/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+500 1 2936
+403 738 103672
+302 8 0
+400 1 1
+406 26 5876
+404 85 928704
+301 123 927
+409 5986 496755
+405 8 336
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 46
+/cache_.php 1 -
+/installer.php 1 -
+/images/ 1 -
+/wp-content/plugins/userpro/scripts/scripts.min.js 1 -
+/pma/ 1 -
+/myadmin/ 1 -
+/phpMyAdmin/ 1 -
+/sitemap.xml 1 -
+/wp-upload-class.php 1 -
+/.git/HEAD 4 -
+/admin.php 2 -
+/a 3 -
+/phpmyadmin/ 1 -
+/education/ 1 http://waseemorphali.com/
+/th1s_1s_a_4o4.html 28 -
+/administrator/ 2 http://waseemorphali.com/administrator/
+/sql/ 1 -
+/new_license.php 1 -
+/.well-known/wp-craft-report.php.suspected 1 -
+/wp-content/plugins/totaldonations/css/mg_progress-bar.css 1 -
+/ads.txt 2 -
+/installer-backup.php 1 -
+/searchreplacedb2.php 1 -
+/wp-includes/js/query.js.php 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/.well-known/wp-bk-report.php 1 -
+/wp-includes/js/swfupload/query.js.php 1 -
+/Jwlsjd_baaqifg.php 1 waseemorphali.com
+/.well-known/wp-build-report.php 1 -
+/header-cache.php 1 -
+/contact/ 3 -
+/mysqladmin/ 1 -
+/.well-known/wp-build-report.php.suspected 1 -
+/newsleter.php 1 -
+/Education 1 http://waseemorphali.com/
+/wp-ajax-hook.php 1 -
+/wp-xml.php 1 -
+/content-post.php 1 -
+/blog/wp-login.php 1 -
+/education 2 http://waseemorphali.com/
+/.well-known/wp-bk-report.php.suspected 1 -
+/.well-known/wp-craft-report.php 2 -
+/utility.php 1 -
+/license.php 1 -
+/wp-content/plugins/simple-social-buttons/assets/css/front.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 66
+73.84.246.107 397 684 24122427 20190226213132
+107.77.90.48 276 517 23231789 20190227145137
+108.167.181.242 175 175 0 20190228233721
+184.154.139.16 48 94 1722402 20190227192034
+184.154.76.18 39 96 1782776 20190224191814
+67.212.188.154 27 66 1113519 20190228191651
+173.236.59.218 8 25 644717 20190219192343
+52.53.201.78 4 4 85372 20190226143245
+91.210.145.184 4 4 34950 20190211161120
+184.154.164.186 3 4 45936 20190202191651
+52.165.150.117 3 3 60554 20190227152241
+167.114.157.79 3 3 58612 20190207111300
+194.28.144.117 2 2 6720 20190227095632
+42.236.10.84 2 18 344834 20190214194543
+36.24.34.162 2 2 22388 20190219140124
+91.210.145.144 2 2 7256 20190217111806
+42.236.10.75 2 27 775827 20190214194543
+91.210.147.130 2 2 7256 20190219085037
+60.191.38.77 2 2 40885 20190228115957
+91.210.146.26 2 2 7256 20190212221034
+85.15.175.81 1 1 3360 20190225051530
+89.179.85.118 1 1 3360 20190227021021
+195.177.126.6 1 1 3360 20190226064105
+188.187.106.32 1 1 3360 20190226124426
+51.7.73.43 1 1 3360 20190228110844
+31.13.127.19 0 4 198681 
+31.13.127.7 0 4 92211 
+31.13.127.6 0 3 134694 
+99.177.91.194 1 1 19542 20190228135521
+91.201.0.25 1 1 3360 20190226063824
+42.236.10.92 0 10 407939 
+42.236.10.117 0 4 221227 
+100.25.26.208 0 10 169901 
+46.48.88.122 1 1 3360 20190228143714
+42.236.10.114 1 7 116343 20190214194604
+31.13.127.10 0 4 30996 
+31.13.127.18 1 2 114254 20190207034254
+178.17.177.12 1 1 3360 20190226063533
+109.127.191.97 1 1 3360 20190225112852
+31.13.127.8 1 4 107346 20190207034302
+42.236.10.78 0 15 471556 
+109.184.202.239 1 1 3360 20190227042903
+216.145.17.190 1 1 21343 20190209002932
+95.79.111.8 1 1 3360 20190225155438
+31.207.74.143 1 1 3360 20190227033535
+178.128.170.60 1 1 21343 20190204234627
+91.244.113.21 1 1 3360 20190225113119
+62.210.111.66 1 1 21343 20190225020105
+5.164.182.158 1 1 3360 20190226074609
+212.192.121.130 1 1 3360 20190226232153
+206.180.165.147 1 1 21343 20190221031910
+88.198.27.52 1 1 21343 20190223123730
+95.24.158.174 1 1 3360 20190228121053
+194.165.18.133 1 1 3360 20190226221732
+212.46.18.231 1 1 3360 20190225113106
+107.15.69.81 0 1 1561 
+79.173.66.93 1 1 3360 20190228100854
+94.25.233.135 1 1 3360 20190227035144
+5.35.137.11 1 1 3360 20190227004530
+178.249.245.55 1 1 3360 20190226063115
+178.43.132.95 1 1 3360 20190227134441
+46.39.46.19 1 1 3360 20190226104332
+178.164.146.45 1 1 21343 20190216065803
+2.133.70.49 1 1 3360 20190226170628
+54.175.215.143 0 10 169901 
+42.236.10.124 0 5 124872 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20190201 9 11 26876 7
+20190202 8 9 45936 6
+20190203 9 10 138132 3
+20190204 10 11 121149 7
+20190205 10 18 283137 5
+20190206 9 13 148150 5
+20190207 15 38 780801 9
+20190208 10 15 124686 7
+20190209 15 18 168188 10
+20190210 6 9 78835 2
+20190211 12 16 81811 6
+20190212 17 22 174837 10
+20190213 7 17 224771 5
+20190214 17 109 2966106 11
+20190215 10 16 232598 6
+20190216 10 19 276348 7
+20190217 12 39 770180 6
+20190218 7 13 428196 3
+20190219 14 20 213539 9
+20190220 9 16 119262 6
+20190221 10 23 354196 6
+20190222 12 22 207845 6
+20190223 8 10 84102 6
+20190224 13 20 210604 6
+20190225 25 59 1108206 17
+20190226 432 702 23675498 24
+20190227 301 548 23544220 19
+20190228 21 24 120349 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 201
+30mn-1h 14
+15mn-30mn 5
+5mn-15mn 2
+1h+ 4
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/wp-admin/admin-ajax.php 579 568925 1 2
+/wp-cron.php 175 0 140 140
+/wp-login.php 63 213288 30 58
+/ 58 1422268 37 20
+/wp-json/oembed/1.0/embed 19 42577 6 0
+/linkedin-profile/ 19 302594 4 0
+/wp-includes/wlwmanifest.xml 13 13585 2 1
+/comments/feed/ 12 8808 1 0
+/wp-json/ 12 879024 2 0
+/wp-admin/post.php 12 24322363 0 0
+/feed/ 11 11627 2 0
+/wp-admin/load-scripts.php 9 1203808 0 0
+/wp-json/wp/v2/users/ 7 3997 0 0
+/wp-json/wp/v2/taxonomies 7 19600 0 0
+/wp-admin/edit.php 6 446061 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 6 462960 1 4
+/wp-admin/ 6 394462 1 0
+/education/ 5 170173 0 1
+/wp-json/wp/v2/pages/11 3 30342 0 0
+/wp-admin/load-styles.php 2 1007338 0 0
+/wp-json/wp/v2/blocks 2 4 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 2 119416 0 0
+/wp-json/wp/v2/types/wp_block 2 704 0 0
+/search/To+search+type+and+hit+enter/feed/rss2/ 2 2476 0 0
+/xmlrpc.php 1 425 0 0
+/wp-json/wp/v2/pages/117 1 1870 0 0
+/wp-content/themes/boxstyle/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/author/waseem/ 1 9822 0 1
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 18720 0 0
+/wp-admin/themes.php 1 72876 0 0
+END_SIDER

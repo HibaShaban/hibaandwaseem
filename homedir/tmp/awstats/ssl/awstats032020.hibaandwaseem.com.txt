@@ -1,0 +1,371 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202003 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/ssl/awstats.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2699                
+POS_VISITOR 7737                
+POS_DAY 9024                
+POS_DOMAIN 3451                
+POS_LOGIN 3860                
+POS_ROBOT 4015                
+POS_WORMS 4384                
+POS_EMAILSENDER 4515                
+POS_EMAILRECEIVER 4658                
+POS_SESSION 9736                
+POS_SIDER 9918                
+POS_FILETYPES 4793                
+POS_DOWNLOADS 4979                
+POS_OS 5050                
+POS_BROWSER 5248                
+POS_SCREENSIZE 5624                
+POS_UNKNOWNREFERER 5698                
+POS_UNKNOWNREFERERBROWSER 5992                
+POS_ORIGIN 6167                
+POS_SEREFERRALS 6305                
+POS_PAGEREFS 6509                
+POS_SEARCHWORDS 6689                
+POS_KEYWORDS 6841                
+POS_MISC 2363                
+POS_ERRORS 6900                
+POS_CLUSTER 3716                
+POS_SIDER_404 7054                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200401025032 20 4540 14738780982427
+FirstTime 20200301045530
+LastTime 20200331234709
+LastUpdate 20200401033919 20 0 19 0 0
+TotalVisits 137                 
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 2 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 15606 6 57 620527
+1 5 5 57302 5 49 3293529
+2 9 11 1244567 8 21 842486
+3 9 9 57302 12 60 895513
+4 12 14 1074976 4 14 1159151
+5 3 4 579307 6 20 1060679
+6 14 16 1205432 9 51 985778
+7 9 13 2397939 10 22 157654
+8 4 4 0 10 27 1197756
+9 13 13 16052 14 58 1518120
+10 7 11 1207328 9 23 1637844
+11 4 4 0 6 13 72360
+12 6 8 1177722 8 20 594519
+13 6 6 0 11 58 1189144
+14 8 8 16728 13 109 888294
+15 3 3 0 6 22 822730
+16 12 102 1404382 14 29 853718
+17 7 11 2396796 8 17 673109
+18 11 11 17512 22 68 972893
+19 2 2 0 6 13 225317
+20 6 6 0 14 63 1251841
+21 8 8 15606 12 58 2622929
+22 3 9 2659282 15 54 486245
+23 11 14 1753527 14 52 807258
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 134 138 2395258
+cn 25 30 1376902
+de 10 100 1378292
+ca 4 4 114604
+za 3 3 23409
+fr 2 2 57302
+ch 0 2 1158614
+hk 0 2 1158614
+in 0 6 3475842
+pk 0 2 944766
+id 0 1 579307
+gb 0 5 2896535
+my 0 3 1737921
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 522 4299834 20200331171718 68
+bot[\s_+:,\.\;\/\\-] 127 19556495 20200328234403 2
+unknown 112 7504 20200331234659 112
+link 43 737574 20200330074506 40
+[\s_+:,\.\;\/\\-]bot 6 46818 20200320053233 0
+java 4 31212 20200318224316 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+jpg 6 1732942 0 0
+png 24 13903368 0 0
+js 52 639882 0 0
+txt 2 17502 0 0
+html 54 758202 0 0
+css 36 245470 0 0
+php 124 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/license.txt 2 0 17502
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 17 14
+ios_iphone 9 0
+macosx 2 0
+win7 10 4
+macosx5 2 2
+win10 15 9
+macosx9 2 0
+macosx11 11 11
+Unknown 136 136
+linux 94 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome46.0.2490.80 4 4
+safari 2 0
+chrome79.0.3945.130 2 0
+android 17 14
+firefox47.0 11 11
+chrome80.0.3987.132 10 0
+firefox15.0.1 2 2
+chrome67.0.3396.87 2 0
+Unknown 132 132
+firefox62.0 2 0
+chrome77.0.3865.120 3 3
+firefox71.0 2 2
+chrome40.0.2214.85 4 4
+iphone 1 0
+safari13.0.4 4 0
+mozilla 4 4
+firefox50.0 92 2
+safari13.0.5 4 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go-http-client/1.1 20200325060013
+WordPress/4.9.13;_https://hibaandwaseem.com 20200331234709
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200310105837
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.9.13;_https://hibaandwaseem.com 20200331234709
+Go-http-client/1.1 20200325060013
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 146
+From1 0 0
+From2 0 24
+From3 4 4
+From4 124 124
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_ch 0 2
+www_google_com_my 0 2
+www_google_com 0 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://108.167.181.242:443 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+301 64 0
+400 9 260
+406 15 3390
+403 4 536
+409 3 249
+404 18 118638
+500 49 26884
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/.well-known/assetlinks.json 10 -
+/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/images/coins/paid.png 2 -
+/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/images/coins/litecoin.png 2 -
+/wordpress/license.txt 2 -
+/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/images/coins/bitcoin.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+108.167.181.242 124 124 0 20200331234709
+60.191.38.77 11 11 315161 20200328010506
+137.226.113.27 4 4 31212 20200310105837
+114.119.166.167 4 4 32334 20200330143230
+138.246.253.15 3 3 0 20200326090110
+163.198.6.153 3 3 23409 20200311074358
+114.119.163.63 2 2 17512 20200330185046
+198.27.80.123 2 2 57302 20200317031049
+114.119.160.171 2 2 22266 20200329175705
+54.189.160.152 2 2 15606 20200312060210
+114.119.160.200 2 2 15606 20200327213837
+134.122.55.155 2 2 15606 20200326003441
+137.226.113.21 2 92 1347080 20200305165558
+18.237.22.37 2 2 15606 20200307040120
+114.119.160.228 2 4 361162 20200324122818
+176.31.105.112 2 2 57302 20200324040720
+54.213.247.44 2 2 15606 20200322061654
+198.27.85.233 2 2 57302 20200303070230
+35.162.203.197 2 2 15606 20200325060013
+114.119.167.109 2 3 595359 20200327091708
+138.246.253.5 1 1 0 20200321025226
+75.130.110.152 0 2 1158614 
+118.136.39.124 0 1 579307 
+2.221.114.209 0 3 1737921 
+219.77.118.147 0 2 1158614 
+74.110.61.74 0 2 1158614 
+119.160.100.12 0 2 944766 
+178.197.225.76 0 2 1158614 
+106.15.38.40 0 2 17502 
+103.46.234.187 0 2 1158614 
+103.50.6.195 0 2 1158614 
+81.111.60.17 0 2 1158614 
+103.18.0.18 0 1 579307 
+103.110.170.236 0 2 1158614 
+175.138.208.155 0 2 1158614 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200301 3 5 1215916 2
+20200302 2 2 0 2
+20200303 6 8 1231522 4
+20200304 1 1 0 1
+20200305 4 94 1347080 3
+20200306 3 3 0 3
+20200307 4 6 1174220 3
+20200308 3 5 1158614 3
+20200309 4 4 0 4
+20200310 6 9 1753527 4
+20200311 8 13 1778832 5
+20200312 3 3 15606 2
+20200313 6 11 2079975 6
+20200314 2 2 0 1
+20200315 1 1 0 1
+20200316 1 3 1158614 1
+20200317 10 13 1881176 7
+20200318 4 6 1002068 3
+20200319 4 4 0 3
+20200320 3 3 0 3
+20200321 10 10 57302 8
+20200322 5 5 15606 4
+20200323 2 2 0 2
+20200324 11 11 76410 8
+20200325 13 13 15606 9
+20200326 17 17 15606 15
+20200327 14 14 47264 10
+20200328 9 11 1215916 6
+20200329 4 4 22266 3
+20200330 10 10 34240 7
+20200331 5 5 0 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30mn-1h 10
+0s-30s 123
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/wp-cron.php 124 0 109 109
+/ 42 650930 22 22
+/wedding-invitation/ 2 19108 1 1
+/weather/ 2 16728 1 1
+/registry/ 2 16052 1 1
+/getting-there/ 2 17512 1 1
+/gallery/ 2 15606 1 1
+/wedding-itinerary/ 2 22266 1 1
+END_SIDER

@@ -1,0 +1,4 @@
+[16-Apr-2019 21:49:15 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-May-2019 21:13:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 07:55:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 05:29:57 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentysixteen/404.php on line 10

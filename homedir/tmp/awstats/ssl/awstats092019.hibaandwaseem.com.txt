@@ -1,0 +1,446 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/ssl/awstats.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2695                
+POS_VISITOR 9499                
+POS_DAY 11587               
+POS_DOMAIN 3437                
+POS_LOGIN 3846                
+POS_ROBOT 4001                
+POS_WORMS 4352                
+POS_EMAILSENDER 4483                
+POS_EMAILRECEIVER 4626                
+POS_SESSION 12112               
+POS_SIDER 12319               
+POS_FILETYPES 4761                
+POS_DOWNLOADS 4940                
+POS_OS 4988                
+POS_BROWSER 5106                
+POS_SCREENSIZE 5317                
+POS_UNKNOWNREFERER 5391                
+POS_UNKNOWNREFERERBROWSER 5802                
+POS_ORIGIN 6094                
+POS_SEREFERRALS 6231                
+POS_PAGEREFS 6375                
+POS_SEARCHWORDS 6555                
+POS_KEYWORDS 6707                
+POS_MISC 2359                
+POS_ERRORS 6766                
+POS_CLUSTER 3702                
+POS_SIDER_404 6946                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001030159 2 233 17943901064515
+FirstTime 20190903121436
+LastTime 20190929232623
+LastUpdate 20191001073029 2 0 1 0 0
+TotalVisits 137                 
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 2 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 10 86859 22 28 2124282
+1 5 5 61218 114 164 1023148
+2 10 10 15692 22 28 2040116
+3 9 99 1353322 15 59 2392270
+4 6 6 32412 18 48 6034330
+5 9 99 1337630 17 23 16582
+6 8 8 73598 55 67 419842
+7 9 103 1348718 10 38 228792
+8 5 5 0 46 90 448078
+9 7 7 0 22 86 670766
+10 10 10 48104 49 58 1495741
+11 38 38 247316 83 87 132344
+12 9 9 15692 8 8 1866
+13 8 8 0 10 12 15270
+14 6 6 0 8 12 695950
+15 4 4 15692 8 8 58760
+16 33 33 231624 72 72 105954
+17 9 99 1337630 105 107 15426
+18 56 152 1772884 63 145 831546
+19 7 7 15692 9 11 14322
+20 3 3 0 153 153 2568157
+21 6 6 0 7 7 588
+22 7 7 0 9 9 115946
+23 41 41 131504 167 167 219259
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 183 279 2016182
+gb 54 54 260536
+sg 30 30 231624
+de 19 383 5408684
+ru 6 6 31384
+ma 4 4 0
+ca 4 4 0
+tr 3 3 32412
+fr 3 3 57906
+br 2 2 0
+jp 2 2 57906
+cn 1 1 28953
+ar 1 1 0
+bg 1 1 0
+nl 1 1 0
+my 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 346 2793706 20190928143017 42
+Googlebot\-Image/ 26 14242602 20190928143024 0
+bot[\s_+:,\.\;\/\\-] 12 347436 20190927201103 0
+unknown 2 134 20190906185247 2
+(firefox/)([0-9]\.|[0-1][0]\.) 1 0 20190928022710 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+woff2 2 154320 0 0
+js 276 3187248 0 0
+html 69 1319779 0 0
+jpg 10 2230610 0 0
+php 244 10312 0 0
+css 174 1223318 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx 100 4
+Unknown 88 88
+linux 376 12
+win7 211 211
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome74.0.3694.0 100 4
+chrome36.0.1985.143 117 117
+mozilla 6 6
+chrome76.0.3809.100 4 4
+Unknown 82 82
+firefox50.0 372 8
+chrome40.0.2214.85 3 3
+firefox64.0 91 91
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WordPress/4.9.11;_https://hibaandwaseem.com 20190929232625
+Go-http-client/2.0 20190929232623
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190920110930
+WordPress/4.9.10;_https://hibaandwaseem.com 20190904190823
+WordPress/4.9.11;_http://hibaandwaseem.com 20190918052443
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/2.0 20190929232623
+WordPress/4.9.11;_https://hibaandwaseem.com 20190929232625
+WordPress/4.9.11;_http://hibaandwaseem.com 20190918052443
+WordPress/4.9.10;_https://hibaandwaseem.com 20190904190823
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 228 592
+From1 0 0
+From2 0 0
+From3 6 6
+From4 81 177
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://108.167.181.242:443 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+409 7 581
+403 450 60300
+406 116 26216
+302 6 0
+404 201 4150029
+400 128 475
+301 99 0
+206 2 4
+500 89 47852
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 83
+/wp-content/cache/log/000000/minify.log 1 -
+/dev/rss/catalog/notifystock 2 -
+/wp-content/plugins/sam-pro-free/sam-pro-ajax-admin.php 2 -
+/test/rss/catalog/notifystock 2 -
+/wp-content/themes/urbancity/lib/scripts/download.php 2 -
+/demo/rss/order/new 2 -
+/demo/errors/503.php 2 -
+/dev/downloader/ 2 -
+/wp-config-backup.txt 2 -
+/demo/downloader/ 2 -
+/store/rss/catalog/notifystock 2 -
+/staging/rss/catalog/notifystock 2 -
+/demo/rss/catalog/review 2 -
+/wp-content/uploads/wp-config-backup.txt 2 -
+/staging/rss/catalog/review 2 -
+/store/rss/order/new 2 -
+/vb/ 2 -
+/rss/catalog/notifystock 2 -
+/store/rss/catalog/review 2 -
+/staging/rss/order/new 2 -
+/shop/rss/catalog/notifystock 2 -
+/demo/rss/catalog/notifystock 2 -
+/vb5/ 2 -
+/demo/admin/ 2 -
+/wp-content/themes/epic/includes/download.php 2 -
+/wp-content/cache/log/000000/varnish.log 1 -
+/downloader/ 2 -
+/dump.tar.gz 1 -
+/dev/rss/catalog/review 2 -
+/old/errors/503.php 2 -
+/wp-config.inc 2 -
+/old/rss/order/new 2 -
+/wp-content/plugins/wp-hide-security-enhancer/router/file-process.php 2 -
+/.well-known/assetlinks.json 16 -
+/magento/admin/ 2 -
+/staging/errors/503.php 2 -
+/store/downloader/ 2 -
+/staging/downloader/ 2 -
+/dev/admin/ 2 -
+/cgi-bin.gz 1 -
+/vbulletin/ 2 -
+/magento/downloader/ 2 -
+/old/rss/catalog/review 2 -
+/old/rss/catalog/notifystock 2 -
+/_wpeprivate/config.json 2 -
+/test/rss/catalog/review 2 -
+/magento/errors/503.php 2 -
+/test/downloader/ 2 -
+/staging/admin/ 2 -
+/shop/admin/ 2 -
+/store/admin/ 2 -
+/wp-content/force-download.php 2 -
+/old/admin/ 2 -
+/test/errors/503.php 2 -
+/test/rss/order/new 2 -
+/magento/rss/catalog/notifystock 2 -
+/.env 2 -
+/wp-content/cache/log/000000/pagecache.log 1 -
+/forums/ 2 -
+/dev/rss/order/new 2 -
+/magento/rss/order/new 2 -
+/dev/errors/503.php 2 -
+/wp-content/themes/cafesalivation/download.php 2 -
+/wp-config.xml 2 -
+/wp-content/cache/log/000000/dbcache.log 1 -
+/store/errors/503.php 2 -
+/shop/rss/order/new 2 -
+/shop/errors/503.php 2 -
+/errors/503.php 2 -
+/2 16 -
+/3 16 -
+/master.gz 1 -
+/rss/catalog/review 2 -
+/magento/rss/catalog/review 2 -
+/vbulletin5/ 2 -
+/forum/ 2 -
+/rss/order/new 2 -
+/shop/rss/catalog/review 2 -
+/old/downloader/ 2 -
+/shop/downloader/ 2 -
+/test/admin/ 2 -
+/wp-content/uploads/file-manager/log.txt 2 -
+/wp-config.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+108.167.181.242 74 74 0 20190929232625
+162.243.165.84 49 49 260577 20190929231350
+51.15.51.186 45 45 260536 20190922181723
+112.140.187.98 30 30 231624 20190911160732
+159.203.86.82 19 19 86859 20190929231445
+137.226.113.34 6 276 4012890 20190923172144
+137.226.113.26 6 6 47076 20190920110930
+34.221.221.125 4 100 1512348 20190906185246
+51.158.72.203 4 4 0 20190917220839
+162.241.175.243 4 4 0 20190918022952
+35.185.80.198 3 3 0 20190917223058
+138.68.28.46 3 3 61218 20190915013133
+45.252.249.142 3 3 0 20190917132258
+213.128.89.176 3 3 32412 20190925100447
+132.148.27.189 3 3 0 20190917194008
+51.38.38.1 3 3 0 20190918052432
+138.246.253.5 3 3 0 20190928134714
+142.44.151.107 3 3 0 20190917182136
+54.188.153.182 2 2 15692 20190906021146
+104.238.72.132 2 2 0 20190918004934
+149.202.215.42 2 2 57906 20190910002650
+212.227.132.232 2 2 0 20190917175029
+137.226.113.21 2 96 1348718 20190928073643
+153.126.194.159 2 2 57906 20190910060939
+45.55.60.129 2 2 0 20190917144533
+162.243.41.54 1 1 0 20190917095212
+175.139.199.53 1 1 0 20190917233829
+45.32.104.33 1 1 0 20190917214550
+45.252.249.240 1 1 0 20190917175144
+50.63.162.9 1 1 0 20190918020516
+192.95.14.196 1 1 0 20190917180734
+188.43.23.61 1 1 0 20190917212346
+78.142.211.111 1 1 0 20190917141318
+128.199.200.225 1 1 0 20190917132140
+138.197.202.34 1 1 0 20190917161047
+54.149.210.254 2 2 15692 20190913033201
+204.48.24.34 1 1 0 20190917095343
+92.63.111.27 2 2 15692 20190929150319
+82.202.161.133 2 2 15692 20190920122229
+188.166.188.152 1 1 0 20190918055158
+104.238.99.130 1 1 0 20190917074502
+46.105.92.10 1 1 0 20190917104423
+192.169.159.241 1 1 0 20190918002535
+186.202.161.191 2 2 0 20190917173435
+51.68.204.149 1 1 0 20190917185839
+91.134.140.200 1 1 0 20190917135510
+222.73.242.180 1 1 28953 20190910002655
+167.99.232.64 1 1 0 20190917220716
+54.245.51.131 2 2 15692 20190929232623
+200.32.54.97 1 1 0 20190918002728
+159.65.155.168 2 2 32412 20190926043441
+45.55.41.191 1 1 0 20190917182024
+64.64.4.142 1 1 0 20190917091821
+54.201.73.62 2 2 15692 20190922065032
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20190903 3 3 0 2
+20190904 3 3 15692 2
+20190905 4 4 0 4
+20190906 9 105 1528040 5
+20190907 5 95 1337630 4
+20190909 2 2 0 2
+20190910 6 6 144765 4
+20190911 61 61 463248 3
+20190913 5 5 15692 4
+20190914 1 1 0 1
+20190915 5 5 61218 3
+20190917 66 156 1353322 52
+20190918 14 14 0 12
+20190920 7 7 31384 5
+20190922 48 48 276228 3
+20190923 3 93 1337630 2
+20190924 3 3 0 1
+20190925 7 7 32412 6
+20190926 6 6 32412 5
+20190927 3 3 0 3
+20190928 12 106 1348718 8
+20190929 42 42 147196 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 7
+2mn-5mn 3
+5mn-15mn 2
+15mn-30mn 2
+1h+ 5
+30s-2mn 3
+0s-30s 115
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/wp-admin/admin-post.php 167 0 52 50
+/wp-cron.php 74 0 60 60
+/ 69 1319779 25 23
+/wp-login.php 3 10312 0 3
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 2 154320 0 1
+END_SIDER

@@ -1,0 +1,11 @@
+[25-Apr-2019 08:37:08 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/locale.php on line 10
+[23-Mar-2020 05:37:43 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/functions.php on line 8
+[23-Mar-2020 05:37:43 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/functions.php on line 8
+[23-Mar-2020 05:37:43 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php56/lib/php') in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/functions.php on line 8
+[30-Jul-2020 12:09:32 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 03:35:55 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 03:36:01 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 10:34:21 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 14:00:35 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:00:39 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 21:24:25 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/hibawaseem/public_html/waseemorphali.com/wp-includes/locale.php on line 10

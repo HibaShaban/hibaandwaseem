@@ -1,0 +1,575 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201810 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2683                
+POS_VISITOR 10670               
+POS_DAY 14972               
+POS_DOMAIN 3502                
+POS_LOGIN 4086                
+POS_ROBOT 4241                
+POS_WORMS 4799                
+POS_EMAILSENDER 4930                
+POS_EMAILRECEIVER 5073                
+POS_SESSION 15806               
+POS_SIDER 16016               
+POS_FILETYPES 5208                
+POS_DOWNLOADS 5501                
+POS_OS 5604                
+POS_BROWSER 5878                
+POS_SCREENSIZE 6980                
+POS_UNKNOWNREFERER 7054                
+POS_UNKNOWNREFERERBROWSER 7379                
+POS_ORIGIN 7641                
+POS_SEREFERRALS 7785                
+POS_PAGEREFS 7967                
+POS_SEARCHWORDS 8235                
+POS_KEYWORDS 8387                
+POS_MISC 2347                
+POS_ERRORS 8446                
+POS_CLUSTER 3942                
+POS_SIDER_404 8585                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181101002513 86 23378 12841585967692
+FirstTime 0
+LastTime 20181031194652
+LastUpdate 20181101070535 86 0 85 0 0
+TotalVisits 311                 
+TotalUnique 100                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 111                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 23 986698 28 30 59006
+1 13 32 1184286 30 31 72849
+2 11 12 74751 32 40 181041
+3 7 9 44090 25 26 80121
+4 8 9 14073 30 37 630711
+5 19 24 274706 53 62 244578
+6 24 30 526213 55 60 76082
+7 20 24 385870 48 50 60564
+8 13 25 606692 43 44 93345
+9 34 40 653658 44 50 114555
+10 11 12 4184 40 43 141638
+11 14 39 922025 26 36 113906
+12 2117 2176 3934324 32 51 531300
+13 967 979 737478 34 35 119961
+14 11 11 88133 28 34 199235
+15 80 114 3096913 80 102 1781116
+16 61 86 1481591 72 83 1235404
+17 55 83 4170594 70 87 1418903
+18 68 113 1928127 78 94 1336090
+19 27 35 718223 30 37 192637
+20 15 24 309938 29 31 110339
+21 16 38 1304087 54 56 489860
+22 28 77 5816369 44 46 314951
+23 22 39 3801592 29 35 138258
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 3525 3837 21183718
+ca 32 32 761428
+kr 24 30 501112
+sy 11 36 1437320
+ua 9 9 67320
+it 8 12 213832
+ru 6 6 92170
+cn 6 6 22392
+hu 5 5 145990
+id 3 3 12638
+gr 3 7 194370
+in 2 39 6814154
+pl 2 2 8368
+ae 2 4 87872
+nl 2 2 65790
+co 1 1 4227
+ar 1 1 4227
+mu 1 10 876524
+zz 1 1 29198
+vn 1 1 4227
+br 1 1 4184
+gb 1 1 29198
+cl 1 1 4227
+sa 1 3 45553
+ph 1 1 4227
+eg 0 2 446122
+th 1 1 4227
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+spider 106 4000435 20181031152707 0
+Googlebot/ 76 1720379 20181031194657 26
+bingbot/ 38 591112 20181029233726 16
+Uptimebot/ 11 469 20181029181908 7
+unknown 8 536 20181023072045 8
+(firefox/)([0-9]\.|[0-1][0]\.) 6 19642 20181031175713 0
+bot[\s_+:,\.\;\/\\-] 2 58396 20181030020636 0
+curl 1 29198 20181016103548 0
+CFNetwork 1 9846 20181011143513 0
+facebookexternalhit/ 1 67 20181016023640 1
+bingpreview 1 12026 20181024125855 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpg 68 10453345 0 0
+jpeg 5 245195 0 0
+png 44 5305818 0 0
+Unknown 33 55164 0 0
+woff 2 98024 0 0
+gif 4 3388 0 0
+html 283 8308766 0 0
+css 120 2112097 0 0
+php 3301 2140257 0 0
+woff2 12 519088 0 0
+js 162 3802573 0 0
+xml 20 20900 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+//wp-content/plugins/elementor/readme.txt 27 0 2740473
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+win8 4 4
+linuxandroid 99 57
+Unknown 277 275
+win2000 4 4
+win7 212 165
+macosx 5 5
+winlong 6 6
+ios_iphone 273 61
+ios_ipad 1 1
+win2003 4 4
+win8.1 3 3
+winxp 9 9
+linux 18 6
+macosx12 4 4
+win10 3132 3044
+macosx4 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+opera44.5.0342.6614 1 1
+firefox52.57.10 1 1
+chrome68.0.3440.91 16 5
+chrome70.0.3538.77 15 2
+msie9.0 205 158
+chrome34.0.1847.116 2 2
+safari5.4.9 1 1
+chrome64.0.3282.186 1 1
+firefox34.0 2 2
+chrome59.0.3071.125 2 0
+chrome45.0.2454.94 3 3
+opera11.10 1 1
+mozilla 31 31
+firefox59.0 2 2
+firefox29.0 6 6
+chrome61.0.3163.100 4 4
+safari 60 12
+opera44.5.0843.5115 2 2
+safari5.2.7 2 2
+safari12.0 179 41
+chrome56.0.2924.87 1 0
+chrome29.0.1547.66 1 1
+safari10.0 2 1
+firefox45.75.28 1 1
+safari11.0.3 1 1
+chrome57.0.2987.133 1 1
+edge34 4 4
+firefox63.0 22 0
+firefox52.51.08 3 3
+chrome34.0.1847.76 1 0
+chrome69.0.3497.100 85 44
+chrome57.4.9191.4829 1 1
+chrome54.8.3802.8174 1 1
+chrome65.0.3325.181 1 1
+edge16 1 1
+firefox45.62.09 1 1
+opera42.9.4353.9081 1 1
+safari11.0 32 7
+opera42.0.5040.9777 1 1
+Unknown 248 246
+firefox55.0 2 2
+android 6 3
+firefox45.66.13 1 1
+safari5.5.0 2 2
+safari4.6.1 2 2
+firefox61.0 21 9
+chrome34.0.1847.114 30 24
+chrome53.7.2823.8195 1 1
+firefox62.0 29 3
+chrome70.0.3538.64 5 1
+chrome63.0.3239.132 3008 3008
+chrome11.0.696.71 1 1
+firefox28.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Dataprovider.com) 20181014232419
+python-requests/2.18.4 20181002154357
+WhatsApp/2.18.327_A 20181030122409
+Scrapy/1.5.1_(_https://scrapy.org) 20181010064448
+WordPress/4.9.8;_http://hibaandwaseem.com 20181031194652
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.18.4 20181002154357
+WhatsApp/2.18.327_A 20181030122409
+Scrapy/1.5.1_(_https://scrapy.org) 20181010064448
+WordPress/4.9.8;_http://hibaandwaseem.com 20181031194652
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3122 3158
+From1 1 1
+From2 160 207
+From3 5 7
+From4 363 681
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 1 1
+www_google_com 159 206
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://brandnewblogs.com/site-browser-2/ 3 3
+https://brandnewblogs.com/site-browser-new 2 2
+http://www.iphider.org 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 115 0
+405 3 126
+404 142 3179867
+406 36 8136
+403 652 106215
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 40
+/apple-touch-icon-120x120.png 1 -
+/phpmyadmin/ 1 https://google.com
+/ 29 http://hibaandwaseem.com/
+/wp-content/themes/default/404.php 1 -
+/payload.php 1 -
+/modules/mod_feed/tmpl/mod_feed.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/registry%5C/%5C%22 1 http://www.google.com/url
+/wp-content/themes/agregado/404.php 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/announcement/all-aboard-the-starship-ii-at-430/skype:YourUsername 1 -
+/console/css/dashboard-min.css 13 -
+/.git/index 1 -
+/media/media.php 1 -
+/author/hiba/skype:YourUsername 1 -
+/wp-content/themes/twentytwelve/404.php 1 -
+/wp-content/themes/classic/404.php 1 -
+/th1s_1s_a_4o4.html 31 -
+/1/skype:YourUsername 1 -
+/sitemap.xml 3 -
+/wp-admin/includes/menustype.php 1 -
+/wp-content/themes/advancesettings/404.php 1 -
+/scripts/setup.php 3 -
+/admin.php 1 -
+/wp-content/themes/CherryFramework/404.php 1 -
+/interst.php 1 -
+/status 13 -
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%7B%7B=it.link 1 -
+/skype:YourUsername 1 -
+/wp-content/themes/sketch/404.php 1 -
+/.git/HEAD 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/getting-there%5C/%5C%22 1 http://www.google.com/url
+/bea_wls_deployment_internal 6 -
+/pma/ 1 https://google.com
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%7B%7B=it.author_link 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/announcement%5C/%d8%b9%d8%b1%d8%a7%d8%b6%d8%a9-%d8%b4%d8%a7%d9%85%d9%8a%d8%a9-at-4-pm%5C/%5C%22 1 http://www.google.com/url
+/ads.txt 3 -
+/announcement/start-of-wedding-ceremony/skype:YourUsername 1 -
+/.DS_Store 10 -
+/announcement/%d8%b9%d8%b1%d8%a7%d8%b6%d8%a9-%d8%b4%d8%a7%d9%85%d9%8a%d8%a9-at-4-pm/skype:YourUsername 1 -
+/jQuery-File-Upload/js/jquery.fileupload.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 111
+65.52.65.167 3008 3008 1877649 20181008130939
+108.167.181.242 239 239 0 20181031194652
+184.154.164.186 45 60 1014975 20181022173058
+184.154.139.16 38 49 1059799 20181030153354
+173.236.59.218 35 46 721818 20181026152602
+184.154.76.18 18 20 508403 20181031152706
+67.212.188.154 16 21 362834 20181016175454
+211.56.145.140 12 15 250556 20181012125611
+167.114.172.225 12 12 305689 20181004091156
+175.196.127.153 12 15 250556 20181001183914
+158.69.116.77 11 11 209837 20181003222357
+131.247.70.28 9 41 859237 20181031123850
+66.177.184.249 9 16 521120 20181003192252
+158.69.225.34 9 9 245902 20181014232422
+128.235.121.21 9 19 552802 20181013121024
+73.84.246.107 9 42 4050221 20181027052207
+184.154.139.51 6 9 237893 20181018153129
+206.125.57.226 6 27 1329743 20181030122257
+77.44.204.190 6 10 175386 20181005063618
+174.217.2.131 6 24 1172460 20181008224314
+94.47.132.173 6 8 193893 20181004071542
+76.107.191.171 5 12 206899 20181013133613
+64.202.160.250 5 5 163979 20181010064448
+52.13.80.42 4 16 407092 20181016164025
+174.141.146.197 4 14 186156 20181019111612
+52.165.148.51 3 3 87594 20181023024236
+66.249.81.30 0 1 9846 
+186.0.205.233 1 1 4227 20181014164358
+23.89.16.16 1 1 29198 20181020061659
+83.238.48.190 1 1 4184 20181019073345
+138.118.173.123 1 1 4184 20181018141111
+31.9.129.110 0 1 9846 
+176.205.27.194 1 2 43936 20181018220116
+46.152.136.42 0 1 9846 
+206.223.249.88 1 1 29198 20181012073242
+73.9.228.43 1 3 53782 20181029000556
+154.127.59.154 1 10 876524 20181003000601
+182.23.103.146 1 1 4227 20181017072800
+94.21.92.223 1 1 29198 20181006051335
+190.171.133.35 1 1 4227 20181020094211
+174.235.14.64 2 10 212977 20181022200255
+77.72.82.146 2 2 29399 20181017180416
+107.194.4.181 1 1 29198 20181002212821
+5.0.0.67 0 2 10665 
+35.237.107.164 1 1 29198 20181011035750
+188.133.38.97 2 5 86500 20181005054939
+77.234.68.195 3 3 87594 20181028145621
+209.141.45.212 1 1 25553 20181010143231
+207.62.145.77 0 1 8229 
+94.21.145.177 1 1 29198 20181003053549
+173.171.48.86 2 8 63102 20181031180937
+46.101.80.192 2 2 65790 20181023231449
+66.249.81.28 3 4 88137 20181004091620
+146.168.67.99 2 26 815266 20181002114246
+181.57.185.11 1 1 4227 20181021062426
+188.133.2.215 1 2 107870 20181004063804
+94.47.154.24 1 2 10093 20181009014610
+107.77.76.128 1 13 489900 20181016084057
+113.161.173.14 1 1 4227 20181016114933
+41.40.51.70 0 1 223061 
+104.130.124.209 1 1 29198 20181006203923
+222.217.221.179 2 2 7464 20181021090528
+167.99.70.244 1 1 4227 20181023005514
+31.9.145.96 1 1 35707 20181004062724
+31.41.88.158 1 1 4184 20181016112957
+101.255.44.58 1 1 4227 20181015130833
+59.51.156.133 2 2 7464 20181031170721
+70.127.99.24 3 26 758761 20181023181349
+24.186.155.114 0 1 9846 
+66.249.81.26 1 2 30083 20181004091252
+71.85.54.160 1 1 0 20181009123343
+94.47.152.74 1 2 9846 20181004160432
+77.72.82.12 3 3 58587 20181011185140
+129.255.230.112 1 1 29198 20181011143510
+170.52.92.137 2 4 336028 20181010195304
+195.242.80.128 1 1 26152 20181009204628
+35.199.96.12 1 1 4184 20181020184224
+217.164.54.57 1 2 43936 20181019002205
+98.26.110.161 1 1 29198 20181004194041
+128.235.159.0 1 2 29198 20181013120655
+35.175.247.6 1 1 3237 20181022123727
+31.166.239.206 1 1 35707 20181004055237
+107.72.162.81 1 1 35707 20181007120411
+103.116.16.131 1 38 6809927 20181008234130
+5.0.1.78 1 1 35707 20181005022540
+103.194.240.54 1 1 4227 20181022031256
+107.77.76.29 1 6 520808 20181030121449
+52.53.201.78 4 4 116792 20181024201401
+52.173.241.248 3 3 87594 20181029080138
+107.72.162.34 4 21 1704200 20181018155719
+59.51.153.93 2 2 7464 20181031170110
+77.44.207.2 3 21 1170009 20181010011238
+108.28.14.200 2 2 35814 20181006091154
+166.137.252.91 1 5 43098 20181025132604
+195.234.148.219 1 1 4184 20181020013322
+37.99.173.126 0 1 0 
+163.172.4.153 1 1 29198 20181031082025
+66.249.93.5 0 2 9846 
+122.49.214.202 1 1 4227 20181018193003
+188.190.200.55 1 1 3237 20181030135807
+173.95.184.88 0 1 8229 
+74.126.37.72 1 1 4184 20181017204539
+107.77.70.115 1 4 143200 20181030091156
+41.40.25.163 0 1 223061 
+117.74.125.192 1 1 4184 20181021102145
+193.106.30.98 3 3 174 20181015135731
+176.192.72.146 1 1 4184 20181014172418
+1.10.186.173 1 1 4227 20181018045503
+185.6.187.199 2 2 29389 20181001210856
+79.133.196.146 1 1 4184 20181015131616
+72.188.116.155 4 4 36028 20181010135009
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20181001 25 28 444273 6
+20181002 22 51 1086057 13
+20181003 34 51 1710758 11
+20181004 43 53 891669 17
+20181005 23 30 426318 8
+20181006 15 16 130289 10
+20181007 16 18 243286 8
+20181008 3027 3064 6613306 10
+20181009 17 23 226762 11
+20181010 28 49 1764161 14
+20181011 18 18 187659 10
+20181012 21 24 376058 7
+20181013 33 66 1249910 7
+20181014 21 22 320997 10
+20181015 11 13 126775 6
+20181016 21 47 1072602 10
+20181017 18 21 145762 11
+20181018 38 83 5418392 16
+20181019 17 21 197196 9
+20181020 22 22 209925 13
+20181021 19 20 184154 10
+20181022 13 21 287174 9
+20181023 23 46 1068616 11
+20181024 9 11 246410 8
+20181025 10 15 107300 5
+20181026 19 46 1891837 10
+20181027 13 16 161849 10
+20181028 11 12 99416 6
+20181029 14 17 238930 10
+20181030 20 60 4801196 12
+20181031 30 70 1135578 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 10
+0s-30s 243
+1h+ 8
+30s-2mn 7
+30mn-1h 25
+5mn-15mn 12
+2mn-5mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/xmlrpc.php 3008 1849078 0 3
+/wp-cron.php 239 0 170 170
+/ 58 1631443 52 34
+/wp-login.php 51 186641 26 39
+/wedding-invitation/ 39 1392573 20 15
+/wedding-itinerary/ 29 957551 5 5
+/getting-there/ 26 861016 4 7
+/registry/ 26 782158 9 6
+/wp-json/oembed/1.0/embed 24 54061 4 5
+/gallery/ 24 769296 7 2
+/wp-includes/wlwmanifest.xml 20 20900 2 1
+/feed/ 16 18032 2 3
+/wp-json/ 13 774176 2 1
+/comments/feed/ 10 7430 1 1
+/announcement/start-of-wedding-ceremony/ 10 274085 1 1
+/wp-json/contact-form-7/v1/contact-forms/83/feedback 9 1103 1 3
+/announcement/all-aboard-the-starship-ii-at-430/ 8 219479 0 1
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 8 210448 0 2
+/announcement/%d8%b9%d8%b1%d8%a7%d8%b6%d8%a9-%d8%b4%d8%a7%d9%85%d9%8a%d8%a9-at-4-pm/ 8 221252 0 1
+/author/hiba/ 7 183094 1 4
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 4 308640 0 2
+/announcement/%D8%B9%D8%B1%D8%A7%D8%B6%D8%A9-%D8%B4%D8%A7%D9%85%D9%8A%D8%A9-at-4-pm/ 3 82967 0 0
+/1/ 3 92516 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff 2 98024 2 2
+/wp-load.php 1 0 1 1
+/wp-content/themes/twentyseventeen/404.php 1 174 1 1
+/1/feed/ 1 2585 0 0
+/wp-admin/load-styles.php 1 104364 0 0
+/author/hiba/feed/ 1 1165 0 1
+/search/1/feed/rss2/ 1 37948 0 0
+END_SIDER

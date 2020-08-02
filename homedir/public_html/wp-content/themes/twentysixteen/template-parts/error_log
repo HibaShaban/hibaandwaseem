@@ -1,0 +1,6 @@
+[05-Dec-2018 03:42:13 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/hibawaseem/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 03:43:37 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/hibawaseem/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 04:09:31 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/hibawaseem/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:14:44 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/hibawaseem/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:26:36 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/hibawaseem/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:37:06 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/hibawaseem/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

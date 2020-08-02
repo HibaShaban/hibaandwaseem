@@ -1,0 +1,64 @@
+; cPanel first:11.70.0.54 (update_time):1543602989 Cpanel::ZoneFile::VERSION:1.3 hostname:gator4199.hostgator.com latest:11.70.0.62
+; Zone file for hibaandwaseem.com
+$TTL 14400
+hibaandwaseem.com.	86400	IN	SOA	ns8397.hostgator.com.	root.gator4199.hostgator.com.	(
+						2018113002 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400	)
+
+hibaandwaseem.com.	86400	IN	NS	ns8397.hostgator.com.
+hibaandwaseem.com.	86400	IN	NS	ns8398.hostgator.com.
+
+
+hibaandwaseem.com.	14400	IN	A	108.167.181.242
+
+localhost	14400	IN	A	127.0.0.1
+
+hibaandwaseem.com.	14400	IN	MX	0	mail.hibaandwaseem.com.
+
+mail	14400	IN	A	108.167.181.242
+www	14400	IN	CNAME	hibaandwaseem.com.
+ftp	14400	IN	CNAME	hibaandwaseem.com.
+
+cpanel	14400	IN	CNAME	hibaandwaseem.com.
+webmail	14400	IN	CNAME	hibaandwaseem.com.
+
+hibaandwaseem.com.	14400	IN	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+whm	14400	IN	A	108.167.181.242
+autodiscover	14400	IN	A	108.167.181.242
+_carddav._tcp	14400	IN	SRV	0	0	2079	gator4199.hostgator.com.
+_carddav._tcp	14400	IN	TXT	path=/
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+autoconfig	14400	IN	A	108.167.181.242
+cpcontacts	14400	IN	A	108.167.181.242
+_caldav._tcp	14400	IN	SRV	0	0	2079	gator4199.hostgator.com.
+_caldav._tcp	14400	IN	TXT	path=/
+_carddavs._tcp	14400	IN	SRV	0	0	2080	gator4199.hostgator.com.
+_carddavs._tcp	14400	IN	TXT	path=/
+_caldavs._tcp	14400	IN	SRV	0	0	2080	gator4199.hostgator.com.
+_caldavs._tcp	14400	IN	TXT	path=/
+webdisk	14400	IN	A	108.167.181.242
+cpcalendars	14400	IN	A	108.167.181.242
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxaGKjk6hxPR7mCNBAGf61+qO6Tgu9RPllgLBuHQ04hJcvhwFWaeFtU5/uGH+1Osc/Ks0sIY4qVhd3i4Cs/TIs0pZKWNPOj2OKEOBTX/rp15k5cyvzeabsGN3qPxzLEuIS1X3Yi83wm9RXmwsccF3NujVXWBRJOPXFpbpr1SSLnavl7YvUmT8o3A0G2LWdZ9NA" bg5tABfVFUHj1+H5tmZsD3GV2y1+2LxxSztIxtMIH7YhqVYAD43qCnoMAWCS5zwLtjcRjQkzQLSLi/xek6NZnLWoT16QhFEWvmklcVewMzb899swwsBWXG7yXLQIzLdIFnYOZ/LfjVSk1WVnFiYsQIDAQAB\;
+waseemorphali	14400	IN	A	108.167.181.242
+www.waseemorphali	14400	IN	A	108.167.181.242
+default._domainkey.waseemorphali	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7n9D147aF0zLhBMh0/UGWqVJJZkXnhofIHC2YoExqD+eH0O0Z7TvvlwgOe45cFzX94Jq3dzrqxgwazLgIsjePFm+Dl05aibeL/0cjwa2FLyb8aLlXAzY+NFslNENlVnUDf0BY1t98PAspwqnbWoTgbq7s1sk/WGpnY+KvmxIKoYvP0XcfXdazLs5uwRSlc1Zb" AZaLrTkYsbJ++SSAMhiBe62AMTB9mYm0+AHXpwjgiGFzWyKP8J43xLXKsFluKDwWgs5LGSmxpZ/UthHRn4nf3p09Z7YqLNFw81yfSpsCXDKApXuOmsFFro/R6YaBnZT5m0XzotjcAq6moYaN8qGnQIDAQAB\;
+autodiscover.waseemorphali	14400	IN	A	108.167.181.242
+_autodiscover._tcp.waseemorphali	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+_carddav._tcp.waseemorphali	14400	IN	SRV	0	0	2079	gator4199.hostgator.com.
+_carddav._tcp.waseemorphali	14400	IN	TXT	path=/
+_caldavs._tcp.waseemorphali	14400	IN	SRV	0	0	2080	gator4199.hostgator.com.
+_caldavs._tcp.waseemorphali	14400	IN	TXT	path=/
+cpcontacts.waseemorphali	14400	IN	A	108.167.181.242
+whm.waseemorphali	14400	IN	A	108.167.181.242
+_caldav._tcp.waseemorphali	14400	IN	SRV	0	0	2079	gator4199.hostgator.com.
+_caldav._tcp.waseemorphali	14400	IN	TXT	path=/
+cpcalendars.waseemorphali	14400	IN	A	108.167.181.242
+webmail.waseemorphali	14400	IN	A	108.167.181.242
+_carddavs._tcp.waseemorphali	14400	IN	SRV	0	0	2080	gator4199.hostgator.com.
+_carddavs._tcp.waseemorphali	14400	IN	TXT	path=/
+cpanel.waseemorphali	14400	IN	A	108.167.181.242
+autoconfig.waseemorphali	14400	IN	A	108.167.181.242
+webdisk.waseemorphali	14400	IN	A	108.167.181.242

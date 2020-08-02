@@ -1,0 +1,708 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201808 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2691                
+POS_VISITOR 9973                
+POS_DAY 17379               
+POS_DOMAIN 3531                
+POS_LOGIN 4026                
+POS_ROBOT 4181                
+POS_WORMS 4854                
+POS_EMAILSENDER 4985                
+POS_EMAILRECEIVER 5128                
+POS_SESSION 17972               
+POS_SIDER 18185               
+POS_FILETYPES 5263                
+POS_DOWNLOADS 5591                
+POS_OS 5694                
+POS_BROWSER 5932                
+POS_SCREENSIZE 6842                
+POS_UNKNOWNREFERER 6916                
+POS_UNKNOWNREFERERBROWSER 7489                
+POS_ORIGIN 7820                
+POS_SEREFERRALS 7962                
+POS_PAGEREFS 8127                
+POS_SEARCHWORDS 8275                
+POS_KEYWORDS 8427                
+POS_MISC 2354                
+POS_ERRORS 8486                
+POS_CLUSTER 3882                
+POS_SIDER_404 8652                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180901000438 6 920 9320591279508
+FirstTime 20180812075941
+LastTime 20180831234951
+LastUpdate 20180901235137 6 0 5 0 0
+TotalVisits 397                 
+TotalUnique 180                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 193                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 13 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 18 86672 36 37 7793
+1 8 9 50181 45 45 9802
+2 14 14 89635 64 65 35364
+3 11 26 493302 63 64 41305
+4 73 73 103419 71 71 61750
+5 31 46 1136066 60 63 12723
+6 25 28 303486 68 70 14448
+7 6 6 6747 53 60 833102
+8 294 544 70643613 84 89 121317
+9 419 726 48847980 64 67 13156
+10 135 140 4586279 44 48 53414
+11 167 211 6660660 54 58 9921
+12 383 618 46306978 65 69 67177
+13 312 454 47571860 54 82 896565
+14 296 607 79845104 62 64 10822
+15 207 524 28130385 154 205 2647802
+16 283 591 111687420 40 41 6494
+17 204 363 38807381 34 47 142724
+18 230 364 29578921 35 42 82227
+19 23 86 2698677 37 42 56319
+20 228 502 60931458 39 44 26806
+21 362 963 92563000 59 63 31577
+22 100 252 11512984 48 51 15866
+23 26 33 803365 47 47 8948
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 3733 7017 680638809
+ru 77 77 249249
+ca 21 22 484646
+kz 3 3 9711
+pl 2 2 6474
+ua 2 2 6474
+pt 2 2 6474
+br 2 2 4282
+cz 1 1 3237
+it 1 1 3237
+sg 1 1 27403
+eu 1 1 27403
+th 1 1 3237
+dz 1 1 3237
+az 1 1 3237
+tr 1 1 27310
+gb 1 1 29198
+be 1 1 3237
+cn 1 41 1384924
+jo 0 2 19692
+sa 0 18 504102
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 76 977665 20180829150805 24
+spider 73 1914815 20180831152035 1
+unknown 13 737 20180828175344 13
+facebookexternalhit/ 12 168632 20180820134933 0
+Googlebot\-Image/ 7 831129 20180818073229 0
+DomainSONOCrawler/ 6 201 20180818151621 6
+Google[\x20]Web[\x20]Preview 2 33798 20180812155129 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 67 20180828175341 2
+java 1 24213 20180812212800 0
+GrapeshotCrawler/ 1 67 20180818052613 1
+CFNetwork 1 9846 20180831125449 0
+SafeDNSBot 1 67 20180831134058 1
+robot 1 67 20180815173233 1
+Wget/ 1 0 20180820151713 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 1086 22515395 0 0
+html 876 36574140 0 0
+png 237 25049573 0 0
+jpeg 18 476802 0 0
+woff 11 138832 0 0
+gif 52 358548 0 0
+Unknown 106 72744 0 0
+woff2 56 3624384 0 0
+svg 66 451375 0 0
+js 1593 50096258 0 0
+jpg 293 131539573 0 0
+php 2796 412539589 0 0
+xml 8 8360 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+//wp-content/plugins/elementor/readme.txt 13 0 1313723
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+winlong 98 98
+win7 129 108
+linuxandroid 211 45
+win8 1 1
+macosx7 2 2
+linux 89 7
+ios_iphone 563 171
+ios_ipad 8 5
+macosx12 21 21
+Unknown 346 343
+win10 194 70
+macosx 5536 2982
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+chrome29.0.1547.62 2 2
+chrome63.0.3239.83 1 1
+chrome51.0.2704.106 1 1
+msie8.0 1 1
+mozilla 19 19
+firefox14.0.1 2 2
+safari10.0 5 5
+chrome41.0.2272.118 43 1
+chrome41.0.2227.0 1 1
+firefox40.1 1 1
+firefox55.0 8 8
+Unknown 328 325
+firefox61.0 209 46
+firefox61.0.2 1 0
+chrome59.0.3071.125 21 1
+msie9.0 91 70
+chrome65.0.3325.162 1 1
+firefox51.0 1 1
+chrome56.0.2924.87 1 1
+chrome50.0.2661.94 17 17
+safari11.0 93 49
+chrome65.0.3325.181 4 4
+chrome36.0.1985.67 1 1
+chrome68.0.3440.91 186 41
+chrome63.0.3239.132 1 1
+msie11.0 4 4
+chrome45.0.2454.94 1 1
+safari 473 122
+chrome68.0.3440.84 46 30
+chrome49.0.2623.75 1 1
+firefox52.0 4 4
+chrome61.0.3163.100 3 3
+safari11.1.2 44 1
+chrome68.0.3440.106 5425 2969
+safari11.0.3 1 1
+chrome58.0.3029.110 17 17
+android 1 1
+firefox34.0 93 93
+chrome67.0.3364.0 40 0
+firefox57.0 1 1
+chrome11.0.696.71 1 1
+chrome56.0.2924.76 1 1
+netscape 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+WhatsApp/2.18.81_i 20180821084654
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180813135025
+WordPress/4.9.8;_http://hibaandwaseem.com 20180831234952
+Cpanel-HTTP-Client/1.0 20180831042848
+okhttp/2.5.0 20180821095446
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20180813042521
+Mozilla 20180814151214
+WordPress/4.9.4;_http://hibaandwaseem.com 20180812080550
+Mozilla/5.0_(compatible;_ips-agent) 20180817203956
+WhatsApp/2.18.203_A 20180828211936
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WordPress/4.9.4;_http://hibaandwaseem.com 20180812080550
+WordPress/4.9.8;_http://hibaandwaseem.com 20180831234952
+WhatsApp/2.18.81_i 20180821084654
+okhttp/2.5.0 20180821095446
+Cpanel-HTTP-Client/1.0 20180831042848
+WhatsApp/2.18.203_A 20180828211936
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 375 391
+From1 2 2
+From2 71 92
+From3 0 0
+From4 3405 6713
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 71 92
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 2 7195
+500 1 0
+406 1004 226904
+403 30 24545
+302 111 188638
+404 52 795120
+301 124 3716
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/wp-admin/admin-ajax.php 15 http://hibaandwaseem.com/wp-admin/customize.php
+/author/hiba/skype:YourUsername 1 -
+/apple-touch-icon-120x120.png 1 -
+/wp-admin 1 -
+/th1s_1s_a_4o4.html 18 -
+/announcement/%d8%b9%d8%b1%d8%a7%d8%b6%d8%a9-%d8%b4%d8%a7%d9%85%d9%8a%d8%a9-at-4-pm/skype:YourUsername 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/%5C%22 1 http://www.google.com/url
+/admin.php 1 -
+/ads.txt 1 -
+/administrator/ 2 http://hibaandwaseem.com/administrator/
+/wp-content/themes/oceanwp/assets/css/devs/font-awesome.min.css 1 http://hibaandwaseem.com/wp-admin/customize.php
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%7B%7B=it.author_link 1 -
+/skype:YourUsername 2 -
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%7B%7B=it.link 1 -
+/announcement/all-aboard-the-starship-ii-at-430/skype:YourUsername 1 -
+/sitemap.xml 1 -
+/announcement/start-of-wedding-ceremony/skype:YourUsername 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/1/skype:YourUsername 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 193
+76.109.160.4 2677 4603 509803513 20180826163403
+99.177.91.194 353 1068 131542711 20180827163548
+108.167.181.242 324 324 3649 20180831234952
+107.72.164.79 45 136 9780605 20180820142605
+173.95.184.88 30 47 592476 20180814222747
+184.154.139.16 23 41 900380 20180824152415
+104.192.74.31 19 19 388073 20180814151214
+184.154.76.18 17 18 383921 20180830151611
+174.141.146.197 14 29 501396 20180830165843
+99.168.121.103 13 97 6462886 20180820174955
+67.212.188.154 13 15 329645 20180825152102
+184.154.164.186 12 12 335101 20180831152024
+158.69.117.141 11 11 294245 20180813135028
+97.104.158.253 10 62 2756701 20180820143324
+98.198.29.199 10 12 249330 20180829082136
+73.32.134.39 10 17 340864 20180826142244
+206.125.57.226 9 39 854065 20180823142346
+162.243.1.35 9 9 281720 20180831101125
+72.188.122.59 8 11 219276 20180821212210
+209.126.106.147 8 8 96751 20180815065548
+75.43.51.5 7 20 822275 20180815215236
+107.72.164.111 6 6 372 20180812102049
+138.68.11.201 6 6 191382 20180831101132
+174.141.133.195 6 83 2487316 20180814220427
+24.7.233.83 5 5 144880 20180823144257
+85.26.232.50 1 1 3237 20180831184356
+176.59.202.129 1 1 3237 20180831225932
+88.147.151.150 1 1 3237 20180830000321
+198.199.92.66 1 1 27403 20180814023028
+24.250.187.68 0 1 9846 
+178.90.252.208 1 1 3237 20180831113454
+188.18.251.122 2 2 6474 20180831163237
+76.78.91.23 4 4 95041 20180826114319
+31.173.84.234 1 1 3237 20180831173326
+68.205.120.233 2 2 354 20180815201134
+95.152.63.136 1 1 3237 20180831143347
+201.22.57.163 1 1 1045 20180815170431
+66.64.239.242 1 1 26725 20180827110818
+188.162.166.153 1 1 3237 20180830010029
+81.247.47.151 1 1 3237 20180831152136
+85.140.2.77 1 1 3237 20180830234350
+66.41.56.6 0 1 9846 
+149.154.152.163 1 1 27403 20180812220619
+35.237.163.186 1 1 29198 20180828100728
+176.115.51.168 1 1 3237 20180830142729
+85.140.93.45 1 1 3237 20180829122551
+108.28.14.200 1 1 31445 20180816181048
+95.152.63.201 1 1 3237 20180831112259
+66.249.93.9 5 9 458473 20180814204814
+52.165.150.117 3 3 85706 20180831004634
+107.77.85.26 1 43 1390436 20180826180007
+5.143.126.17 1 1 3237 20180830230235
+72.50.212.10 1 1 32538 20180823143914
+71.163.125.30 0 1 9846 
+178.217.76.104 1 1 3237 20180831030825
+83.139.159.110 1 1 3237 20180830232630
+87.255.31.119 1 1 3237 20180831143502
+171.33.252.94 1 1 3237 20180829121507
+35.167.95.40 1 1 27310 20180826084225
+188.162.166.137 1 1 3237 20180830125131
+94.137.61.214 1 1 3237 20180830221324
+78.36.252.77 1 1 3237 20180830015658
+41.105.215.234 1 1 3237 20180831165938
+5.143.80.144 1 1 3237 20180831175636
+142.205.241.254 4 4 126174 20180823144603
+46.47.6.13 1 1 3237 20180831121721
+172.58.175.61 1 1 107 20180815224232
+85.26.232.144 1 1 3237 20180831024338
+98.26.110.161 2 16 363451 20180827195631
+91.232.217.48 1 1 3237 20180830043151
+69.58.178.58 2 2 62473 20180817203956
+94.233.225.175 1 1 3237 20180830031207
+104.239.149.11 1 1 27387 20180819012117
+172.58.96.99 1 3 48890 20180828211822
+107.77.70.17 1 1 107 20180826190623
+64.74.215.164 1 1 27310 20180824025828
+142.93.98.199 2 2 0 20180813200503
+104.196.12.180 1 1 27310 20180821095755
+206.180.165.147 1 1 27387 20180818123755
+73.171.143.175 3 3 105258 20180825132406
+109.195.149.23 1 1 3237 20180830005717
+178.67.86.53 1 1 3237 20180831144753
+218.241.108.76 1 1 27403 20180814020854
+212.175.157.62 1 1 27310 20180825054807
+176.59.150.210 1 1 3237 20180831232601
+107.77.90.110 0 1 9846 
+94.75.31.115 1 1 3237 20180831213717
+93.37.176.253 1 1 3237 20180830060016
+172.58.200.248 1 1 26745 20180815203811
+170.52.92.137 1 1 27009 20180823165819
+94.233.225.186 1 1 3237 20180831072242
+66.249.81.28 3 17 751276 20180831161555
+65.35.133.128 2 2 26895 20180815204119
+68.59.108.74 1 1 26768 20180815213034
+145.255.179.6 1 1 3237 20180830201856
+188.162.84.250 2 2 6474 20180830233627
+176.65.112.152 1 1 3237 20180829124005
+86.62.78.48 1 1 3237 20180831042453
+95.32.16.116 1 1 3237 20180829120008
+94.25.168.48 1 1 3237 20180831203249
+92.126.22.83 1 1 3237 20180829200113
+37.28.166.250 1 1 3237 20180830002948
+109.252.13.69 1 1 3237 20180831124736
+52.173.241.248 2 2 54620 20180825043120
+87.103.96.209 1 1 3237 20180831105603
+83.139.159.24 1 1 3237 20180830012447
+31.167.80.148 0 1 9846 
+72.140.103.123 1 2 36840 20180823150211
+188.162.166.154 1 1 3237 20180831031829
+94.24.244.182 1 1 3237 20180830001914
+66.177.184.249 3 7 655190 20180826211048
+46.242.12.145 1 1 3237 20180831091811
+78.36.84.40 1 1 3237 20180831144219
+77.35.9.249 1 1 3237 20180831234951
+185.3.35.240 2 2 6474 20180831140335
+73.207.196.154 4 4 96894 20180826095256
+52.53.201.78 2 2 56508 20180828233519
+188.247.77.188 0 2 19692 
+107.77.76.58 1 1 27310 20180822112515
+173.171.48.86 1 1 29163 20180819210700
+107.77.106.89 2 2 59281 20180830113042
+95.181.2.93 1 1 3237 20180830224549
+37.23.171.246 1 1 3237 20180831224757
+54.202.150.82 1 1 24526 20180812164809
+176.213.76.189 1 1 3237 20180831135548
+85.140.2.197 1 1 3237 20180830111559
+176.107.245.97 1 1 3237 20180830135549
+94.233.224.179 1 1 3237 20180831060448
+68.41.45.35 0 7 85475 
+50.249.3.225 2 3 45660 20180828081349
+176.210.251.127 1 1 3237 20180830222248
+66.133.109.36 3 3 261 20180813042521
+66.249.81.30 2 23 472331 20180814061853
+31.163.173.123 1 1 3237 20180830222208
+91.217.2.241 1 1 3237 20180831165113
+142.93.102.0 2 2 0 20180812145137
+79.173.127.45 1 1 3237 20180831220239
+78.137.229.46 1 1 3237 20180830144527
+83.220.237.29 1 1 3237 20180831063639
+70.140.180.211 1 1 29198 20180829094556
+104.238.248.15 1 1 19140 20180812140249
+167.88.9.78 1 1 1045 20180820021345
+62.133.162.21 1 1 3237 20180831160918
+5.142.59.114 1 1 3237 20180831201716
+166.137.10.81 1 1 35707 20180831125443
+31.42.124.252 2 2 6474 20180831130449
+2.73.211.250 1 1 3237 20180831095223
+5.129.86.220 1 1 3237 20180829050609
+176.213.12.61 1 1 3237 20180830154312
+66.102.8.58 0 18 499783 
+206.225.80.193 2 2 0 20180816030856
+173.236.59.218 5 5 96427 20180829151644
+46.229.66.54 1 1 3237 20180830225324
+37.131.207.168 1 1 3237 20180830231846
+213.172.79.146 1 1 3237 20180830011135
+66.102.8.60 1 12 454985 20180812213706
+178.34.150.38 1 1 3237 20180831084352
+163.172.4.153 1 1 29198 20180829124511
+66.249.81.26 2 14 375169 20180814061919
+203.211.155.2 1 1 27403 20180815041209
+80.83.238.122 1 1 3237 20180831062119
+83.4.188.91 1 1 3237 20180831092055
+178.67.60.194 1 1 3237 20180830200622
+107.77.106.87 0 1 10665 
+176.210.192.171 1 1 3237 20180830045222
+178.67.40.23 1 1 3237 20180830025624
+35.231.200.128 1 1 27387 20180817061131
+78.36.80.190 1 1 3237 20180829142655
+83.220.237.170 1 1 3237 20180831000311
+87.255.1.35 1 1 3237 20180831071514
+110.164.210.151 1 1 3237 20180830233943
+66.249.93.7 3 8 402558 20180813163604
+83.220.238.235 1 1 3237 20180831130321
+92.50.223.125 1 1 3237 20180831142909
+66.249.93.5 4 12 672756 20180817111244
+5.110.106.76 0 2 10665 
+177.17.96.174 1 1 3237 20180829164549
+128.75.173.116 1 1 3237 20180831172302
+76.107.191.171 2 7 621285 20180824040540
+72.185.243.7 3 4 85386 20180815201104
+38.100.25.114 2 2 54620 20180821234054
+18.232.141.183 1 1 15556 20180812101406
+158.69.229.134 1 1 27387 20180816003300
+66.102.8.62 0 13 652874 
+185.29.84.73 1 1 3237 20180831134044
+107.77.76.129 1 1 27310 20180827162222
+111.231.227.67 0 40 1357521 
+107.72.162.95 1 45 1663748 20180820091837
+92.54.78.143 1 1 3237 20180831111129
+66.249.88.3 1 1 24317 20180812123931
+87.117.189.89 1 1 3237 20180831000749
+93.170.175.144 1 1 3237 20180831144423
+5.108.54.98 0 15 483591 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20180812 2525 3842 441986043 13
+20180813 128 457 24990283 19
+20180814 150 375 14888380 27
+20180815 262 804 64817131 30
+20180816 23 29 255173 12
+20180817 29 40 1057391 13
+20180818 19 24 215534 12
+20180819 27 51 2667129 14
+20180820 71 328 19747969 13
+20180821 29 34 543477 12
+20180822 18 18 244656 10
+20180823 29 76 2156769 15
+20180824 71 263 13351119 15
+20180825 32 40 558464 15
+20180826 43 113 2464569 19
+20180827 179 481 92129327 14
+20180828 20 24 281269 13
+20180829 28 28 152662 19
+20180830 70 70 354653 47
+20180831 100 101 583575 65
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 15
+15mn-30mn 16
+5mn-15mn 17
+0s-30s 295
+1h+ 20
+30mn-1h 23
+2mn-5mn 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 124
+/wp-admin/admin-ajax.php 1846 5480119 2 8
+/ 306 16216475 68 46
+/wp-cron.php 265 0 126 128
+/wp-admin/post.php 168 339388637 2 0
+/wedding-invitation/ 151 5542478 23 24
+/wp-login.php 121 388543 95 93
+/wp-admin/load-scripts.php 111 7019443 0 1
+/getting-there/ 84 2857881 7 12
+/registry/ 84 2679721 12 15
+/wedding-itinerary/ 73 2362579 9 3
+/gallery/ 67 2421896 7 16
+/wp-admin/edit.php 66 3842628 0 0
+/wp-admin/load-styles.php 46 3474464 0 0
+/wp-admin/async-upload.php 38 65307 0 0
+/wp-admin/ 38 2574019 0 0
+/wp-admin/admin.php 37 2843529 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 20 1129200 0 0
+/wp-json/contact-form-7/v1/contact-forms/83/feedback 19 2445 6 7
+/wp-admin/customize.php 16 42594999 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 15 1157400 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 15 1157400 0 0
+/announcement/start-of-wedding-ceremony/ 15 398244 3 6
+/announcement/%d8%b9%d8%b1%d8%a7%d8%b6%d8%a9-%d8%b4%d8%a7%d9%85%d9%8a%d8%a9-at-4-pm/ 15 402084 4 4
+/wp-json/oembed/1.0/embed 14 31663 4 5
+/announcement/all-aboard-the-starship-ii-at-430/ 14 374832 4 5
+/.well-known/acme-challenge/1KZZEKR0X0JH9_E6FNS6FP52YCI7GUVP 1 64 0 0
+/.well-known/acme-challenge/NYCR_WJ_TFOUKYTU7NT022AIG35HT_TU 1 64 1 0
+/.well-known/acme-challenge/L31Z_236FDWFD04G-QLSST1YE3751O0B 1 64 1 0
+/.well-known/acme-challenge/OFOU52CMBORPI3QNJ1A1YG686M-1F_F1 1 64 0 0
+/.well-known/acme-challenge/4-XETL1HWTK7V8F6_AEAF6LPRWMSV067 1 64 1 0
+/.well-known/acme-challenge/SRJWG0KDDMQGCBYTKMKK5F6_OS0Z3C20 1 64 1 0
+/wp-admin/options-media.php 1 43128 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 8 1665616 0 0
+/.well-known/acme-challenge/XA4XRVS1ADW86UJDRM7N-JGLAPNGNIRV 1 64 0 1
+/.well-known/acme-challenge/SDN0J3VJWB58NZ71XYMI_GET0L2NY5AL 1 64 1 0
+/.well-known/acme-challenge/EvhE7Za4D2f65NzCeaalcbnt6UXkf7mPYoWS6s0HpbE 1 87 0 0
+/author/hiba/ 1 25529 0 0
+/.well-known/acme-challenge/E4NRTQI0T-N6GT3Y867TXAETENXQMQ3R 1 64 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 2 2112 0 0
+/.well-known/acme-challenge/FS2R10_U22-RQ8E63Y7QHCY7TZ5NLYJP 1 64 0 0
+/.well-known/acme-challenge/T7ZY6L0TI8ILL_P63BKPECP9KH-U6BN1 1 64 0 0
+/.well-known/acme-challenge/JF-WRVU3-K_07Y_0W18T0KFDEQPBK8NH 1 64 0 1
+/wp-admin/post-new.php 13 2485618 0 0
+/.well-known/acme-challenge/LLMM1OHRIU0426TYZUK_VKFM787VD7CX 1 64 0 1
+/search/1/feed/rss2/ 4 135580 0 4
+/.well-known/acme-challenge/2Y-IK-YC4NADTR3-UOU_L_H27ZJ1N-3Q 1 64 1 0
+/wp-json/ 7 416864 4 0
+/.well-known/acme-challenge/095-KPP0PSJQKQ9M38LZLY3BZCXRDVK_ 1 64 1 0
+/feed/ 7 7889 1 1
+/author/hiba/feed/ 1 1165 0 0
+/.well-known/acme-challenge/DRRTV9OSYEYEUXTXWQ4XINZS73PGQBZU 1 64 0 0
+/.well-known/acme-challenge/9N2IC3SWXO7LV46BFJXA5WQ_HQDW6NCK 1 64 0 1
+/wp-admin/options-writing.php 1 44897 0 0
+/.well-known/acme-challenge/M3CDRIL7HNAF9Z43F_0CBU9RLZQU8IDI 1 64 0 0
+/contact-us/ 1 25243 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 7 131040 0 0
+/.well-known/acme-challenge/Z-QFR01F-J4X1X7C2PHJ7BOQHB1XA72K 1 64 0 0
+/.well-known/acme-challenge/-C7_76K6E3350BU6M-Q9HNSL9TXYPSEU 1 64 0 0
+/.well-known/acme-challenge/9X3A-P_25086L2HXM_RQ2HCCQJZ4-1-H 1 64 0 0
+/hello-world/ 1 63630 0 0
+/.well-known/acme-challenge/_C_3FCRARJ6N8ELZ4ZPMD2FXPEAAI60V 1 64 0 0
+/wp-admin/widgets.php 1 312812 0 0
+/.well-known/acme-challenge/QKC0KFYYZDB_8U_7NAWXOZY-ULV4I42C 1 64 0 0
+/wp-includes/wlwmanifest.xml 8 8360 3 3
+/.well-known/acme-challenge/9KOUBKG9ADAEJGQ9-K0IH_78NTRBJBX_ 1 64 0 0
+/wp-admin/update.php 2 31131 0 0
+/wp-json/contact-form-7/v1/contact-forms/83 12 31931 0 0
+/1/ 1 30194 0 0
+/wp-admin/options-discussion.php 1 52089 0 0
+/.well-known/acme-challenge/PRD1809T89G1AZPQ70CULIKDF8CJNM4D 1 64 0 0
+/wp-admin/options-permalink.php 3 112983 0 0
+/.well-known/acme-challenge/SJ01KI4NY0TD5CLJRV4DHFY101OMUY8- 1 64 1 0
+/.well-known/acme-challenge/A5V7E-WHOJOZN1O29G44Y0SQADRJAG8E 1 64 1 0
+/wp-admin/tools.php 2 81916 0 1
+/.well-known/acme-challenge/F5YSCDP2FFJ3ES39KBAQBSDE7PZECNHG 1 64 0 1
+/.well-known/acme-challenge/2I4CG66JG-A2B8D3_1XEZ0VJTZJ3O0V1 1 64 0 1
+/comments/feed/ 4 2972 0 0
+/.well-known/acme-challenge/SW64K1-NLZFKKO4IRXS7JM29K1VYATYU 1 64 0 0
+/wp-admin/options-reading.php 1 45631 0 0
+/.well-known/acme-challenge/TFTAONC3CHTXE6PH3WS_70_2YHXWOIFV 1 64 0 1
+/wp-admin/options-general.php 2 162796 0 0
+/.well-known/acme-challenge/P_LROVBNRP0O8BJEKYFE3PY-16SX7QD7 1 64 0 0
+/1/feed/ 1 2585 0 0
+/.well-known/acme-challenge/ZO06-3FTYVTZM4_BOBE2OHFZTWMQZQBJ 1 64 0 1
+/.well-known/acme-challenge/-K9C4XDMW38R1YZ39HPO0X5SPJ2JF9JG 1 64 0 0
+/.well-known/acme-challenge/158JX1IT8Q01WCG9KGMW2L3-_ZVWGPZV 1 64 0 0
+/.well-known/acme-challenge/3UZATN995L1VL750YVCBZS1853NTBTBA 1 64 1 0
+/.well-known/acme-challenge/3GLA0S8OJX25YXG6N8CZU1YBQ7QM0BIL 1 64 0 0
+/.well-known/acme-challenge/R8-EWD51O1DSPCZUI6_HBUA4_WJYGQ3N 1 64 1 0
+/.well-known/acme-challenge/7M3PGIQS8A0E_9CF9XREW01J89OEKVMT 1 64 0 0
+/.well-known/acme-challenge/S-9W90NBHAM7CQOZTHSKBAHALWBV-BGG 1 64 0 0
+/wp-json/contact-form-7/v1/contact-forms/82 1 2796 0 0
+/.well-known/acme-challenge/QG54STDX6UI7-YLRPAJXVEMGMBNLSKOQ 1 64 0 0
+/.well-known/acme-challenge/ZUO98S16SN0OZHG3Y_XPWZSM-H3JCP_8 1 64 1 0
+/wp-admin/theme-install.php 2 82482 0 0
+/.well-known/acme-challenge/K97VY3YK6KHHY3SQOU7H4Y328ZVBYZTG 1 64 0 1
+/wp-admin/update-core.php 10 410963 0 0
+/.well-known/acme-challenge/R4b3rklCaOUOzl-O9Nt0TkOB2IuWHu1-WMjRNZ8i9rI 1 87 1 0
+/.well-known/acme-challenge/DY92Q33ZJH9PJX463XOCZ8Y7HETG4-J_ 1 64 1 0
+/wp-admin/nav-menus.php 1 55545 0 0
+/.well-known/acme-challenge/2HVSALCX0VPNKWDDRQIS2GBVVCZ5EO3N 1 64 0 0
+/wp-admin/themes.php 7 291037 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 6 180384 0 0
+/.well-known/acme-challenge/SCM3LJ7IA9P2CTOL4S6DL-HT5MVOVBME 1 64 1 0
+/.well-known/acme-challenge/E122H05451JITH_G5G0S1S8EFFUVA3BX 1 64 0 1
+/.well-known/acme-challenge/VVRHDSXRBU3KS6U8AG3WYFQ4ZYJ_0DOF 1 64 1 0
+/.well-known/acme-challenge/XDL5AW5-NQ-AZ5BX02_6-9M8SLIIKXIT 1 64 0 0
+/.well-known/acme-challenge/D6LDB-QUYF4K3F9LLE5CMZ4AHNM4S4_F 1 64 1 0
+/wp-admin/upgrade.php 1 1 0 0
+/.well-known/acme-challenge/D84VCSMD5H-7YLJNJ_MS95JVQ5FJFFOZ 1 64 0 0
+/wp-admin/plugin-install.php 8 595137 0 0
+/.well-known/acme-challenge/4NGXP99HDCXL27BN__PR1R_UOP3XD2J4 1 64 0 0
+/.well-known/acme-challenge/_V6I8JB3C-X7XY9KNTJ1ETB1G_QHP69O 1 64 0 1
+/wp-admin/privacy.php 1 41795 0 0
+/.well-known/acme-challenge/ybAk6QFHI_48vH8V_HBMJCJy8tAMQrawMEzKhyvwIpk 1 87 0 1
+/wp-admin/plugins.php 13 712319 0 0
+/wp-admin/profile.php 3 154064 0 0
+/announcement/all-aboard-the-starship-ii-at-430-pm/ 1 32280 0 0
+/wp-content/plugins/optinmonster/assets/fonts/archie.woff 2 5680 0 0
+/.well-known/acme-challenge/R58IWLFK2VC363IBT_T0U9YWD7IXX6R1 1 64 0 1
+/.well-known/acme-challenge/1LUAO7QYZQD26J6VURMT6_XCCM0L6EKC 1 64 0 0
+/wp-admin/edit-comments.php 1 59960 0 0
+/.well-known/acme-challenge/77UT7ONA8HYQXFW9BLPIEVWV33UGR_56 1 64 0 1
+/.well-known/acme-challenge/QPPN5_B7UMPXSZ3D7UYNW-ESVVI6AV9I 1 64 0 1
+END_SIDER

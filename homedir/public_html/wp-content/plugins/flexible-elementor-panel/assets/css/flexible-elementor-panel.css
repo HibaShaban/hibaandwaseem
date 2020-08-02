@@ -1,0 +1,113 @@
+/*-----------------------------------------------------------------------------------
+1 - Panel
+2 - Flex Grid element
+3 - Vertical toggle
+4 - Exit button
+-----------------------------------------------------------------------------------*/
+
+
+
+/*--------------------------------------------------------------------------------------
+
+1 - Panel
+
+--------------------------------------------------------------------------------------*/
+#elementor-panel:not(.ui-resizable-resizing), #elementor-preview:not(.ui-resizable-resizing), #elementor-panel, #elementor-preview {
+  transition: all 0.10s;
+}
+.cws-preview-full #elementor-preview {
+  left: 0px!important;
+}
+.elementor-panel .ui-resizable-all {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  left: 100%;
+  cursor: nwse-resize;
+  background-color: transparent;
+  border-right: 2px solid deeppink;
+  border-bottom: 2px solid deeppink;
+  margin-left: -20px;
+  margin-top: -20px;
+}
+#elementor-panel-saver-button-save-options {
+  position: relative;
+}
+
+
+/*--------------------------------------------------------------------------------------
+
+2 - Flex Grid element
+
+--------------------------------------------------------------------------------------*/
+.fep-elementor-grid-ruler .elementor-panel .elementor-panel-category-title {
+  padding: 20px 0 10px 10px;
+}
+.fep-elementor-grid-ruler .elementor-panel .elementor-panel-category-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+.fep-elementor-grid-ruler .elementor-panel .elementor-element-wrapper {
+  max-width: 90px;
+  padding: 3px;
+}
+.fep-elementor-grid-ruler .elementor-panel .elementor-element .icon {
+  font-size: 26px;
+  padding-top: 10px;
+}
+.fep-elementor-grid-ruler .elementor-panel .elementor-element .elementor-element-title-wrapper {
+  padding: 0px 2px;
+}
+
+/*--------------------------------------------------------------------------------------
+
+3 - Vertical toggle
+
+--------------------------------------------------------------------------------------*/
+#elementor-panel-header-wrapper {
+    position: relative;
+    z-index: 1;
+}
+.fep-collapse-vertical-wrapper {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+.fep-collapse-vertical-wrapper #elementor-vertical-mode-switcher-preview-input {
+    position: absolute;
+    opacity: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.fep-collapse-vertical-wrapper .fep-toggle-panel-icon {
+  cursor: pointer;
+  font-size: 18px;
+}
+
+
+/*--------------------------------------------------------------------------------------
+
+4 - Exit button
+
+--------------------------------------------------------------------------------------*/
+.fep-exit-wrapper {
+    color: #a4afb7;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+.fep-exit-wrapper:hover {
+    color: #d5dadf;
+}
+.fep-exit-wrapper a, .fep-exit-wrapper a:hover {
+    color: inherit;
+}

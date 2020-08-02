@@ -1,0 +1,753 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.waseemorphali.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2711                
+POS_VISITOR 14174               
+POS_DAY 19006               
+POS_DOMAIN 3576                
+POS_LOGIN 4087                
+POS_ROBOT 4242                
+POS_WORMS 4737                
+POS_EMAILSENDER 4868                
+POS_EMAILRECEIVER 5011                
+POS_SESSION 19862               
+POS_SIDER 20073               
+POS_FILETYPES 5146                
+POS_DOWNLOADS 5492                
+POS_OS 5595                
+POS_BROWSER 5870                
+POS_SCREENSIZE 6668                
+POS_UNKNOWNREFERER 6742                
+POS_UNKNOWNREFERERBROWSER 7225                
+POS_ORIGIN 7723                
+POS_SEREFERRALS 7867                
+POS_PAGEREFS 8049                
+POS_SEARCHWORDS 8306                
+POS_KEYWORDS 8458                
+POS_MISC 2374                
+POS_ERRORS 8517                
+POS_CLUSTER 3943                
+POS_SIDER_404 8707                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401001557 65 15751 59778526410384
+FirstTime 20190301014726
+LastTime 20190331224218
+LastUpdate 20190401072144 65 0 64 0 0
+TotalVisits 390                 
+TotalUnique 120                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 126                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 29 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 50 50 50567 103 105 64511
+1 48 50 82031 64 74 65830
+2 43 43 37572 41 44 4999
+3 43 43 70189 68 75 172855
+4 49 49 114030 61 69 383313
+5 49 107 1790134 54 61 74843
+6 39 39 6577 497 500 398253
+7 45 45 38368 55 62 277278
+8 62 89 1365265 64 66 317624
+9 571 964 39084620 60 75 99106
+10 514 935 43761978 67 78 255387
+11 117 315 16389487 115 123 406144
+12 156 407 14796538 36 43 41322
+13 422 694 27267447 44 60 435002
+14 96 96 73427 75 104 1629261
+15 185 429 22475151 62 79 400933
+16 124 233 2894259 81 89 264815
+17 290 471 10481327 77 94 265735
+18 146 288 10383013 61 96 744792
+19 575 1344 46359303 195 252 4901384
+20 273 573 14900667 57 62 109802
+21 371 645 38919316 72 80 831732
+22 176 198 903511 79 97 996132
+23 78 78 107501 163 246 1591221
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 4404 7964 288621122
+kr 27 36 481428
+ca 22 56 1025510
+ua 12 12 55497
+ru 9 9 44362
+nl 7 7 138309
+fr 5 5 100119
+eu 4 4 6948
+cn 4 62 1768055
+it 4 4 1612
+de 4 4 806
+gb 3 3 20348
+in 3 3 25381
+ch 2 2 806
+ie 2 4 39612
+sg 2 2 806
+vg 2 2 806
+md 1 1 19542
+lu 1 1 403
+gr 1 1 0
+tr 1 1 403
+cz 1 1 403
+pl 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Apache\-HttpClient/ 445 192443 20190317065517 0
+Googlebot/ 155 2246009 20190331224224 61
+spider 83 3670316 20190331192609 0
+bingbot/ 52 2697645 20190331144851 4
+Googlebot\-Image/ 15 1820959 20190317233806 0
+unknown 13 871 20190323122824 13
+bot[\s_+:,\.\;\/\\-] 2 39264 20190311113006 0
+LinkedInBot/ 2 4314 20190315101805 0
+Python\-urllib/ 1 1116 20190320043429 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+js 1995 65773309 0 0
+jpg 403 32350254 0 0
+woff2 32 2207340 0 0
+php 3830 137953664 0 0
+gif 41 261506 0 0
+Unknown 85 688251 0 0
+jpeg 94 4242077 0 0
+woff 18 661812 0 0
+svg 25 698819 0 0
+html 534 15505730 0 0
+eot 7 440958 0 0
+png 486 18329922 0 0
+xml 16 16720 0 0
+css 619 13221916 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+//wp-content/plugins/elementor/readme.txt 28 0 3284204
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+macosx 58 8
+Unknown 410 410
+win10 7140 3757
+macosx11 1 1
+win8 3 3
+winlong 8 8
+linux 20 20
+ios_ipad 9 7
+win7 304 230
+ios_iphone 129 12
+winxp 5 5
+linuxandroid 76 39
+linuxubuntu 1 1
+macosx12 5 5
+winunknown 16 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+firefox65.0 37 3
+chrome60.0.3112.101 1 1
+firefox29.0 4 4
+chrome65.0.3325.181 4 4
+firefox58.0 1 1
+safari11.0 60 2
+chrome31.0.1650.57 3 3
+firefox28.0 2 2
+chrome72.0.3626.121 4190 2383
+firefox50.0 1 1
+chrome72.0.3607.0 1 1
+chrome53.0.2785.143 8 8
+firefox47.0 1 1
+safari 78 17
+chrome34.0.1847.116 3 3
+Unknown 421 421
+mozilla 5 5
+chrome40.0.2214.85 3 1
+chrome68.0.3440.106 3 3
+chrome64.0.3282.186 2 2
+chrome34.0.1847.114 36 27
+chrome72.0.3626.109 1 1
+firefox59.0 3 3
+edge16 1 1
+firefox64.0 15 15
+chrome71.0.3578.80 2 2
+firefox31.0 3 3
+msie9.0 246 174
+msie11.0 35 9
+firefox62.0 17 17
+firefox36.0 11 11
+chrome72.0.3626.119 2916 1350
+chrome61.0.3163.100 4 4
+chrome36.0.1985.143 22 22
+chrome41.0.2272.89 4 4
+chrome71.0.3578.99 40 12
+chrome69.0.3497.81 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190316095733
+panscient.com 20190322095211
+WordPress/5.0.3;_http://waseemorphali.com 20190312203943
+python-requests/2.9.1 20190322080812
+Go-http-client/1.1 20190329023105
+WordPress 20190331213712
+WordPress/5.0.4;_http://waseemorphali.com 20190331224218
+python-requests/2.18.4 20190319131557
+python-requests/2.21.0 20190319070039
+Poster 20190331182837
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Go-http-client/1.1 20190329023105
+Microsoft_Office_Word_2014 20190318155501
+python-requests/2.9.1 20190322080812
+WordPress/5.0.4;_http://waseemorphali.com 20190331224218
+WordPress 20190331213712
+Poster 20190331182837
+python-requests/2.21.0 20190319070039
+python-requests/2.18.4 20190319131557
+panscient.com 20190322095211
+Windows_Live_Writter 20190331104634
+WordPress/5.0.3;_http://waseemorphali.com 20190312203943
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 232 278
+From1 0 0
+From2 189 261
+From3 5 5
+From4 4096 7641
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 1 1
+www_google_com 188 260
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://hundejo.com 2 2
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+500 2 5872
+404 367 3893950
+302 16 0
+400 100 100
+405 14 588
+409 205 17015
+406 108 24408
+301 181 618
+403 844 116786
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 170
+/contact/ 1 -
+/sitemap.xml 1 -
+/wp-content/plugins/woocommerce-abandoned-cart/assets/js/abandoncart_plugin_button.js 1 -
+/wp.zip 1 -
+/new/wp-admin/install.php 1 -
+/wp-content/plugins/alx-extensions/js/+this.options.defaultUrl+ 2 -
+/wordpress/wp-admin/install.php 2 -
+/education/www.njit.edu/ 5 http://www.google.com/url
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/%5C%22 6 http://www.google.com/url
+/wp-craft-report.php 1 http://www.google.com
+/quick_install_archive.tar.gz 1 -
+/mambots/editors/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/site.sql 1 -
+/wp-json/wp/v2/posts/None 4 -
+/cache_.php 1 -
+/master.gz 1 -
+/wp-admin.tar.gz 1 -
+/wp-admin/%7b%7b%20thumbnail%20%7d%7d 1 http://waseemorphali.com/wp-admin/post.php
+/backup/wp-admin/install.php 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/searchreplacedb2.php 1 -
+/newsleter.php.suspected 1 -
+/files.sql 1 -
+/wp-admin/formcheck.php 1 -
+/waseemorphali.com.sql 1 -
+/sql.sql 1 -
+/quick_install_archive.zip 1 -
+/database.sql 1 -
+/wp-content/uploads/2019/03/settings_auto.php 4 -
+/wp.tar.gz 1 -
+/quick_install_archive.gz 1 -
+/wp-content/plugins/easy-wp-smtp/js/script.js 5 -
+/joomla/robots.txt 1 -
+/master.tar.gz 1 -
+/InCreate-FullPackage.gz 2 -
+/wp/wp-admin/install.php 4 -
+/main.sql 1 -
+/tmp/ 6 -
+/installer-backup.php 2 -
+/wp-content/plugins/category-page-icons/css/menu.css 4 -
+/wp-content.zip 1 -
+/blog/robots.txt 1 -
+/fullwebsite.sql 1 -
+/templates/system/css/system.css 4 -
+/file.sql 1 -
+/wp-includes/js/tinymce/query.js.php 1 -
+/OMC_template.tar.gz 1 -
+/jm-ajax/upload_file/ 4 -
+/v2/ 6 -
+/installer-data.sql.gz 1 -
+/expireince/ 1 -
+/user/register/ 1 -
+/installer-data.sql.tar.gz 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/wordpress/ 6 -
+/ads.txt 1 -
+/wordpress.zip 1 -
+/silcharlive.zip 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/linkedin-profile%5C/%5C%22 1 http://www.google.com/url
+/license.php.suspected 1 -
+/header-cache.php.suspected 1 -
+/installer.gz 1 -
+/installer-log.txt 1 -
+/test/ 6 -
+/wp-ajax-hook.php 1 -
+/wp-content/plugins/hd-webplayer/playlist.php 4 -
+/wp-admin.gz 1 -
+/wp-content/plugins/woo-confirmation-email/assets/js/woo-confirmation-email-admin.js 1 -
+/.well-known.gz 1 -
+/wp-admin.zip 1 -
+/wp-xml.php.suspected 1 -
+/new_license.php 1 -
+/wp-xml.php 1 -
+/wp-upload-class.php 1 -
+/a 1 -
+/wp-admin/admin-ajax.php 2 http://waseemorphali.com/wp-admin/customize.php
+/hook-filters.php 1 -
+/mysql.sql 1 -
+/public_html.tar.gz 1 -
+/backup/ 6 -
+/dup-installer/main.installer.php 1 -
+/installer.zip 1 -
+/installer.tar.gz 1 -
+/wordpress.tar.gz 1 -
+/wastech.net.zip 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/cache_.php.suspected 1 -
+/wastech.net.tar.gz 1 -
+/website.sql 1 -
+/OMC_template.zip 1 -
+/.well-known.tar.gz 1 -
+/wp-content/plugins/wp-mobile-detector/resize.php 4 -
+/mambots/editors/fckeditor/editor/filemanager/upload/php/upload.php 1 -
+/old/ 6 -
+/rt18_archive.tar.gz 1 -
+/linkedin-profile/ 1 -
+/archive.tar.gz 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 4 -
+/new/ 6 -
+/veggiedog.gz 1 -
+/demo/wp-admin/install.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 8 -
+/OMC_template.gz 1 -
+/backup.sql 1 -
+/dump.sql 1 -
+/admin/login.php 4 -
+/wp-content/plugins/wordfence/images/logo.png 1 -
+/db.sql 2 -
+/v1/ 6 -
+/waseemorphali.sql 1 -
+/cgi-bin.zip 1 -
+/InCreate-FullPackage.tar.gz 2 -
+/site/ 6 -
+/Skills 3 http://waseemorphali.com/
+/public_html.gz 1 -
+/installer.php 2 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 4 -
+/InCreate-FullPackage.zip 3 -
+/wp-content/plugins/barclaycart/uploadify/settings_auto.php 4 -
+/demo/ 6 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/education%5C/%5C%22 1 http://www.google.com/url
+/wp-content/plugins/downloads-manager/img/unlock.gif 4 -
+/.well-known.zip 1 -
+/public_html.zip 1 -
+/wp-content.gz 1 -
+/rt18_archive.gz 1 -
+/phpmyadmin/ 2 -
+/wp-ajax-hook.php.suspected 1 -
+/content-post.php.suspected 1 -
+/backup.gz 1 -
+/rt18_archive.zip 1 -
+/education/www.kfupm.edu.sa/ 3 http://www.google.com/url
+/wastech.net.gz 1 -
+/archive.gz 1 -
+/cms/ 6 -
+/backup.zip 1 -
+/wp-content/plugins/viral-optins/api/uploader/file-uploader.php 4 -
+/license.php 1 -
+/admin/images/cal_date_over.gif 4 -
+/cgi-bin.tar.gz 1 -
+/main/ 6 -
+/new_license.php.suspected 1 -
+/wp-content/uploads/2019/03/tbl_status.php 4 -
+/testimonials/ 1 -
+/veggiedog.tar.gz 1 -
+/wordpress.gz 1 -
+/cgi-bin.gz 1 -
+/header-cache.php 1 -
+/wp.gz 1 -
+/wp-upload-class.php.suspected 1 -
+/backups.sql 1 -
+/blog/ 6 -
+/archive.zip 1 -
+/content-post.php 1 -
+/silcharlive.tar.gz 1 -
+/wp-content/plugins/userpro/scripts/scripts.min.js 1 -
+/silcharlive.gz 1 -
+/installer-data.sql.zip 1 -
+/newsleter.php 1 -
+/th1s_1s_a_4o4.html 31 -
+/veggiedog.zip 1 -
+/wp/ 6 -
+/database_backup.sql 1 -
+/backup.tar.gz 1 -
+/wp-content.tar.gz 1 -
+/wp-content/uploads/elementor/css/post-13.css 1 http://waseemorphali.com/3d-graphics-project/
+/ 15 -
+/fullbackup.sql 1 -
+/wp-content/plugins/totaldonations/css/mg_progress-bar.css 1 -
+/master.zip 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 126
+73.84.246.107 3281 5892 193403354 20190324205855
+166.137.10.32 435 910 64366872 20190303170528
+108.167.181.242 364 364 74592 20190331224218
+184.154.139.16 54 74 1150909 20190330191831
+75.104.64.158 51 453 25076985 20190309191142
+173.236.59.218 47 52 827476 20190327192202
+184.154.164.186 38 70 1423725 20190326192005
+211.56.145.140 27 36 481428 20190318150604
+184.154.76.18 21 28 791333 20190331192613
+67.212.188.154 14 22 498949 20190324192220
+185.173.104.45 6 6 33423 20190324144932
+52.165.166.139 5 5 139533 20190325042457
+100.35.75.170 5 5 131392 20190322095211
+158.69.225.34 5 5 131392 20190316095733
+35.204.17.74 5 5 0 20190324231523
+192.169.159.241 5 5 0 20190326175617
+158.69.112.202 5 5 21149 20190321235334
+52.53.201.78 4 4 119901 20190326093931
+94.23.255.34 4 4 66696 20190326231617
+192.99.0.107 4 4 66696 20190326114047
+35.178.29.212 4 4 62357 20190314235437
+178.62.74.48 4 4 6948 20190321005031
+46.101.9.216 3 3 60276 20190308101024
+166.137.10.109 3 3 141 20190318104703
+138.197.202.34 3 3 0 20190323091409
+69.12.66.222 2 2 6664 20190322114607
+50.62.176.38 1 1 403 20190327062319
+184.168.200.15 1 1 403 20190326212645
+69.12.66.232 2 2 6664 20190322183313
+89.252.186.201 1 1 403 20190326173934
+180.163.220.66 1 29 1049065 20190319054051
+128.65.195.130 1 1 403 20190322202530
+198.71.235.23 1 1 403 20190327113358
+193.106.30.98 1 1 0 20190319131557
+52.165.148.51 1 1 33423 20190331053616
+180.163.220.4 0 4 79877 
+213.135.242.153 1 1 403 20190325191704
+18.218.85.232 1 1 3332 20190322190139
+18.237.176.124 1 1 33423 20190329023105
+69.12.66.216 2 2 6664 20190322172532
+42.236.10.84 1 6 287276 20190319052611
+184.168.200.95 1 1 403 20190327185052
+148.72.201.46 1 1 403 20190328231922
+89.46.105.158 1 1 403 20190331182837
+51.68.11.239 1 1 403 20190321191616
+199.26.84.122 2 2 806 20190331085903
+18.223.152.69 1 1 3332 20190330124721
+69.163.211.196 1 1 403 20190326041503
+182.50.132.61 1 1 403 20190327220053
+64.91.226.161 1 1 403 20190325024528
+213.133.124.141 1 1 403 20190321075137
+207.174.214.206 1 1 403 20190320025031
+18.188.251.44 1 1 3332 20190329040321
+69.12.66.210 2 2 6664 20190322041758
+34.211.171.29 2 2 7611 20190331083317
+165.227.48.147 3 3 0 20190323212456
+31.13.115.7 0 2 19618 
+173.82.106.23 1 1 403 20190319172559
+69.12.66.223 2 2 6664 20190322161750
+188.40.131.167 1 1 0 20190319153736
+103.21.58.244 1 1 403 20190319132052
+104.152.168.15 1 1 403 20190320152823
+91.210.146.7 2 2 7256 20190309004650
+45.79.140.12 1 1 403 20190320085048
+54.147.4.124 2 2 7611 20190331212021
+103.129.98.13 1 1 403 20190321024418
+148.72.232.53 1 1 403 20190331125512
+178.216.249.91 1 1 403 20190327014300
+46.22.139.65 1 1 403 20190327170925
+54.198.253.213 1 1 3332 20190331124048
+80.88.87.116 1 1 403 20190331153357
+89.46.106.218 1 1 403 20190330142039
+42.236.10.75 0 3 29421 
+3.8.158.193 2 2 7658 20190330101752
+91.210.145.66 2 2 7200 20190328102148
+91.210.147.241 3 3 13750 20190308104016
+52.199.140.155 1 1 19632 20190306085101
+185.104.29.62 1 1 403 20190326140939
+95.216.145.1 1 1 19632 20190314172113
+144.76.220.52 1 1 0 20190319090009
+62.210.111.56 1 1 33423 20190317181023
+198.255.44.98 1 1 19542 20190302053525
+34.222.48.158 2 2 7658 20190329182935
+42.236.10.92 0 2 34167 
+178.128.223.82 1 1 0 20190319122024
+96.70.31.155 1 1 19542 20190301014725
+184.107.179.26 2 2 806 20190320214020
+54.172.118.182 1 1 0 20190321234412
+54.174.88.225 1 1 3332 20190325201343
+42.236.10.78 0 5 124116 
+130.161.3.204 2 2 44207 20190305115203
+207.148.7.33 2 2 0 20190322052959
+91.210.145.222 2 2 7256 20190306124658
+185.182.57.71 1 1 403 20190322074640
+178.175.148.161 1 1 19542 20190302180754
+52.165.150.117 2 2 39174 20190303120442
+119.28.70.217 1 1 403 20190331104634
+180.163.220.5 0 11 130307 
+185.104.120.3 1 1 19542 20190301161824
+18.237.203.96 1 1 33423 20190316033545
+185.2.4.104 1 1 403 20190323042213
+84.16.67.102 1 1 403 20190323183446
+188.209.49.164 1 1 33423 20190316170639
+91.219.210.101 1 1 0 20190321234234
+91.206.14.10 2 2 10536 20190313174450
+198.100.147.118 3 37 805064 20190303162944
+104.196.117.137 1 1 1116 20190319070039
+18.223.29.98 2 2 6664 20190331063433
+173.232.44.73 3 3 100307 20190322080812
+54.188.142.240 1 1 33423 20190317091308
+148.66.145.141 1 1 403 20190326110702
+148.251.77.55 1 1 403 20190319214513
+51.159.16.68 1 1 403 20190324031646
+75.98.175.110 1 1 403 20190329230448
+31.13.115.8 1 1 19591 20190308010902
+95.216.151.38 1 1 403 20190324134056
+184.168.200.173 1 1 403 20190326080552
+107.180.117.248 1 1 403 20190329095443
+52.32.123.20 1 1 19632 20190307011548
+69.12.66.243 2 2 6664 20190323085633
+60.191.38.77 1 1 33423 20190326224636
+45.114.37.130 1 1 24575 20190311152504
+208.91.198.167 1 1 403 20190321132419
+52.173.241.248 3 3 100269 20190330171652
+148.72.232.158 1 1 403 20190331213712
+182.50.132.99 1 1 403 20190328013621
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190301 13 16 161066 9
+20190302 21 34 443751 11
+20190303 459 995 66058470 13
+20190304 125 264 8607327 10
+20190305 14 14 67858 8
+20190306 12 12 49535 8
+20190307 15 15 235185 7
+20190308 30 35 315924 12
+20190309 66 469 25201500 9
+20190310 796 1403 38939747 8
+20190311 9 11 115814 7
+20190312 119 296 9344652 10
+20190313 301 471 9706917 9
+20190314 1129 2019 78673179 6
+20190315 933 1367 41835789 6
+20190316 20 20 235998 14
+20190317 31 92 2164551 15
+20190318 54 156 4102023 14
+20190319 34 93 1914909 24
+20190320 22 23 192209 13
+20190321 31 31 180151 17
+20190322 45 89 1440250 23
+20190323 25 25 203347 12
+20190324 31 31 214644 14
+20190325 18 20 173122 10
+20190326 42 42 266336 22
+20190327 24 25 159802 15
+20190328 24 24 176978 15
+20190329 22 28 462114 15
+20190330 22 29 357609 13
+20190331 35 36 351521 21
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 306
+15mn-30mn 14
+1h+ 23
+30s-2mn 3
+5mn-15mn 10
+30mn-1h 33
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 67
+/wp-admin/admin-ajax.php 3148 4025892 7 12
+/wp-cron.php 362 0 208 209
+/ 251 8249489 61 36
+/wp-login.php 76 327730 27 49
+/wp-admin/post.php 61 121386846 1 0
+/education/ 58 1832953 2 3
+/xmlrpc.php 45 18157 45 44
+/wp-admin/async-upload.php 36 57892 0 0
+/wp-json/wp/v2/taxonomies 34 95200 0 0
+/wp-json/wp/v2/users/ 34 19414 0 0
+/wp-admin/admin-post.php 30 0 10 12
+/wp-json/oembed/1.0/embed 29 64693 4 0
+/wp-admin/edit.php 28 2291465 0 0
+/wp-admin/load-scripts.php 26 4369185 0 0
+/experience/ 24 851191 2 2
+/implementation-of-cyclic-redundancy-check-on-fpga/ 23 613982 2 4
+/implementation-of-tree-pattern-matching/ 21 599051 2 2
+/feed/ 20 20460 4 0
+/visually-servoed-rc-toy-car/ 20 570038 1 1
+/wp-includes/wlwmanifest.xml 16 16720 2 2
+/Experience/ 16 662718 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 15 895620 0 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 14 1080240 2 1
+/comments/feed/ 14 9894 3 0
+/wp-json/ 13 951928 1 0
+/author/waseem/ 3 30512 0 2
+/wp-content/themes/boxstyle/fonts/titillium-semibold-webfont.eot 1 21238 0 0
+/search/To+search+type+and+hit+enter/feed/rss2/ 1 1238 0 0
+/wp-content/themes/boxstyle/fonts/fontawesome-webfont.eot 1 165742 0 0
+/wp-json/wp/v2/pages/11 2 20424 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 9 168480 0 0
+/wp-content/themes/boxstyle/fonts/fontawesome-webfont.woff2 3 231480 1 0
+/wp-json/wp/v2/users 1 571 1 0
+/wp-json/wp/v2/pages/209/autosaves 2 17385 0 0
+/wp-json/wp/v2/pages/213 2 3940 0 0
+/wp-admin/ 9 582729 0 0
+/wp-json/wp/v2/pages/123 1 1873 0 0
+/wp-json/wp/v2/pages/119 1 1867 0 0
+/wp-admin/load-styles.php 10 3632026 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff 1 71772 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff 2 196048 0 1
+/wp-admin/themes.php 2 145752 0 1
+/wp-json/wp/v2/posts/ 4 8 0 2
+//wp-json/wp/v2/users/ 1 571 0 1
+/Projects/ 5 178996 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot 1 165742 0 0
+/wp-content/themes/boxstyle/fonts/titillium-lightitalic-webfont.woff 1 26760 0 0
+/wp-content/themes/boxstyle/fonts/titillium-regular-webfont.eot 1 21232 0 0
+/wp-json/wp/v2/pages/117 1 16930 0 0
+/wp-admin/install.php 1 1116 1 1
+/wp-content/themes/boxstyle/fonts/titillium-lightitalic-webfont.eot 1 22955 0 0
+/wp-content/themes/boxstyle/fonts/titillium-light-webfont.woff 1 24712 0 0
+/wp-json/wp/v2/pages/211 2 4060 0 0
+/wp-json/wp/v2/pages/209 2 4160 0 0
+/wp-admin/post-new.php 3 691008 0 0
+/wp-content/themes/boxstyle/fonts/titillium-regularitalic-webfont.woff 1 26588 0 0
+/linkedin-profile/ 12 209857 2 2
+/wp-admin/customize.php 2 1006595 0 0
+/home/ 2 66884 1 2
+/wp-content/themes/boxstyle/fonts/fontawesome-webfont.woff 1 98024 0 0
+/wp-content/themes/boxstyle/fonts/titillium-light-webfont.eot 1 21236 0 0
+/projects/ 3 53817 0 0
+/wp-content/themes/boxstyle/fonts/titillium-regular-webfont.woff 1 24696 0 0
+/wp-json/wp/v2/taxonomies/post_tag 3 4080 0 0
+/wp-content/themes/boxstyle/fonts/titillium-regularitalic-webfont.eot 1 22813 0 0
+/wp-content/themes/boxstyle/fonts/titillium-semibold-webfont.woff 1 24732 0 0
+/wp-json/wp/v2/pages 5 453068 0 0
+END_SIDER

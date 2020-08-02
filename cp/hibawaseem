@@ -1,0 +1,44 @@
+# cPanel -- If you edit this file directly you must run /usr/local/cpanel/scripts/updateuserdomains afterwards to rebuild the system caches.
+# If you edit MAX_EMAIL_PER_HOUR or MAX_EMAIL_PER_HOUR-[domain] you must run /usr/local/cpanel/scripts/updateuserdomains'
+
+BACKUP=1
+BWLIMIT=0
+CONTACTEMAIL=hibaashaban@gmail.com
+CONTACTEMAIL2=
+DEMO=0
+DISK_BLOCK_LIMIT=1023998976
+DNS=hibaandwaseem.com
+DNS1=waseemorphali.hibaandwaseem.com
+DNS2=waseemorphali.com
+FEATURELIST=default
+HASCGI=1
+HASDKIM=1
+HASSPF=0
+IP=108.167.181.242
+LEGACY_BACKUP=0
+LOCALE=en
+MAILBOX_FORMAT=maildir
+MAXADDON=999
+MAXFTP=unlimited
+MAXLST=25
+MAXPARK=999
+MAXPOP=unlimited
+MAXSQL=unlimited
+MAXSUB=100
+MAX_EMAILACCT_QUOTA=unlimited
+MTIME=1543602989
+MXCHECK-hibaandwaseem.com=0
+OWNER=root
+PLAN=Baby Croc
+PUSHBULLET_ACCESS_TOKEN=
+RS=hostgator
+STARTDATE=1534038258
+USER=hibawaseem
+notify_account_authn_link=1
+notify_account_authn_link_notification_disabled=1
+notify_contact_address_change=1
+notify_contact_address_change_notification_disabled=1
+notify_disk_limit=1
+notify_email_quota_limit=1
+notify_password_change=1
+notify_password_change_notification_disabled=1

@@ -1,0 +1,294 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201902 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/ssl/awstats.waseemorphali.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2035                
+POS_TIME 2713                
+POS_VISITOR 6750                
+POS_DAY 7254                
+POS_DOMAIN 3367                
+POS_LOGIN 3625                
+POS_ROBOT 3780                
+POS_WORMS 3993                
+POS_EMAILSENDER 4124                
+POS_EMAILRECEIVER 4267                
+POS_SESSION 7791                
+POS_SIDER 7961                
+POS_FILETYPES 4402                
+POS_DOWNLOADS 4553                
+POS_OS 4601                
+POS_BROWSER 4727                
+POS_SCREENSIZE 4900                
+POS_UNKNOWNREFERER 4974                
+POS_UNKNOWNREFERERBROWSER 5419                
+POS_ORIGIN 5593                
+POS_SEREFERRALS 5728                
+POS_PAGEREFS 5872                
+POS_SEARCHWORDS 6052                
+POS_KEYWORDS 6204                
+POS_MISC 2377                
+POS_ERRORS 6263                
+POS_CLUSTER 3481                
+POS_SIDER_404 6408                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190301020219 43 8835 10078995524498
+FirstTime 20190201032639
+LastTime 20190228234112
+LastUpdate 20190301062712 43 0 42 0 0
+TotalVisits 95                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 21401 8 8 179954
+1 8 8 40998 6 6 158387
+2 8 38 896624 13 13 158779
+3 6 6 21401 9 10 376310
+4 6 6 41125 8 8 316984
+5 6 6 21401 7 8 168750
+6 2 2 21401 4 4 27813
+7 0 0 0 3 3 316967
+8 2 2 0 8 9 327258
+9 4 4 21401 6 6 156
+10 4 34 832421 4 5 10328
+11 6 6 42802 6 6 104
+12 7 7 21401 13 13 518112
+13 3 3 0 10 10 158596
+14 4 4 0 5 5 21453
+15 4 4 0 7 7 179919
+16 3 3 0 10 10 633845
+17 5 5 0 11 11 180997
+18 8 8 21401 11 11 21975
+19 1 1 0 2 2 0
+20 6 6 0 13 14 169089
+21 6 65 1638144 4 4 158466
+22 1 1 0 5 5 70
+23 8 8 0 11 11 475409
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 98 98 105201
+de 8 127 3388590
+cn 7 7 148130
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+bot[\s_+:,\.\;\/\\-] 8 171208 20190225180732 0
+Googlebot/ 5 335 20190228202432 5
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+js 64 1555060 0 0
+png 11 513874 0 0
+php 93 0 0 0
+html 20 358532 0 0
+css 44 1214455 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 99 99
+win7 3 3
+macosx12 2 2
+macosx11 7 7
+linux 121 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+firefox47.0 7 7
+firefox50.0 121 2
+mozilla 3 3
+Unknown 94 94
+chrome40.0.2214.85 3 3
+chrome61.0.3163.100 2 2
+netscape5.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190219050616
+Mozilla/5.0_zgrab/0.x 20190202022056
+Go-http-client/2.0 20190228010115
+WordPress/5.0.3;_https://waseemorphali.com 20190228234112
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190220034102
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/5.0.3;_https://waseemorphali.com 20190228234112
+Go-http-client/2.0 20190228010115
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 132
+From1 0 0
+From2 0 0
+From3 5 5
+From4 95 95
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://108.167.181.242:443 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 7 1582
+403 1 134
+401 50 4333857
+400 25 1300
+301 88 0
+404 5 51305
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/.well-known/assetlinks.json 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+108.167.181.242 93 93 0 20190228234112
+60.191.38.77 7 7 148130 20190227042654
+138.246.253.5 3 3 0 20190220211510
+13.57.233.99 2 2 42802 20190212124140
+137.226.113.34 2 121 3324387 20190228212959
+171.67.70.38 1 1 21401 20190202022056
+137.226.113.28 1 1 21401 20190213022845
+137.226.113.26 1 1 21401 20190220034102
+34.220.195.109 1 1 19597 20190228010115
+171.67.70.36 1 1 21401 20190201111828
+137.226.113.27 1 1 21401 20190219050616
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20190201 8 8 21401 5
+20190202 4 4 21401 4
+20190204 3 3 0 3
+20190205 7 7 21401 4
+20190206 5 35 853822 3
+20190207 8 8 21401 7
+20190208 4 4 0 4
+20190209 2 2 21401 2
+20190211 3 3 0 2
+20190212 7 7 21401 5
+20190213 2 2 21401 2
+20190214 8 38 853822 7
+20190215 9 9 21401 8
+20190218 4 4 0 4
+20190219 5 5 21401 5
+20190220 4 4 21401 4
+20190221 4 34 853822 4
+20190222 5 5 21401 5
+20190223 3 3 0 2
+20190224 1 1 0 1
+20190225 3 3 0 2
+20190226 3 3 0 2
+20190227 4 4 19724 3
+20190228 7 36 825320 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 13
+15mn-30mn 4
+0s-30s 78
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/wp-cron.php 93 0 75 75
+/ 20 358532 20 20
+END_SIDER

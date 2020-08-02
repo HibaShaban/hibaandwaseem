@@ -1,0 +1,819 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2695                
+POS_VISITOR 19552               
+POS_DAY 25266               
+POS_DOMAIN 3537                
+POS_LOGIN 4072                
+POS_ROBOT 4227                
+POS_WORMS 4862                
+POS_EMAILSENDER 4993                
+POS_EMAILRECEIVER 5136                
+POS_SESSION 26073               
+POS_SIDER 26283               
+POS_FILETYPES 5271                
+POS_DOWNLOADS 5488                
+POS_OS 5645                
+POS_BROWSER 5932                
+POS_SCREENSIZE 7340                
+POS_UNKNOWNREFERER 7414                
+POS_UNKNOWNREFERERBROWSER 7790                
+POS_ORIGIN 7964                
+POS_SEREFERRALS 8106                
+POS_PAGEREFS 8273                
+POS_SEARCHWORDS 8468                
+POS_KEYWORDS 8620                
+POS_MISC 2359                
+POS_ERRORS 8679                
+POS_CLUSTER 3928                
+POS_SIDER_404 8852                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200301005907 11 2326 11750073937748
+FirstTime 20200201030757
+LastTime 20200229235058
+LastUpdate 20200301220513 11 0 10 0 0
+TotalVisits 416                 
+TotalUnique 135                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 148                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 132294 69 102 364735
+1 15 15 76054 42 58 360203
+2 18 18 161088 73 75 602826
+3 54 106 1357263 49 69 367466
+4 31 31 101504 83 154 952772
+5 31 31 242432 44 61 391755
+6 22 58 617386 37 106 807604
+7 27 27 39670 97 111 462100
+8 22 22 202540 66 81 545281
+9 17 17 57138 87 101 970173
+10 12 12 15604 116 223 3432621
+11 18 18 57138 85 124 654986
+12 58 58 376905 84 96 787486
+13 52 52 415718 85 131 1071504
+14 42 80 1823622 360 395 777843
+15 335 1016 30596025 484 841 18295346
+16 21 21 111488 54 97 467578
+17 35 35 354056 79 121 887194
+18 38 70 1524096 85 122 603084
+19 37 37 392908 111 129 856953
+20 27 27 195202 70 84 278494
+21 70 130 610033 136 164 468063
+22 27 27 213686 67 83 364258
+23 20 20 161088 68 105 847203
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 830 1603 33525241
+gb 40 128 1784768
+fr 33 33 532380
+cn 28 66 1911702
+ca 25 25 643129
+ua 20 20 364886
+ru 20 20 300327
+ee 7 7 129798
+bg 6 6 80362
+pl 4 4 72742
+nl 4 4 72742
+ro 4 4 72742
+ma 4 4 114276
+ar 2 2 57138
+at 2 2 57138
+cz 2 2 7614
+rw 2 2 57138
+in 2 2 382
+kg 2 2 7620
+vg 2 2 7620
+tr 1 1 3312
+it 1 1 3312
+ch 1 1 28569
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+spider 392 13703775 20200229151728 0
+Googlebot/ 385 3249239 20200227234528 52
+bot[\s_+:,\.\;\/\\-] 225 930664 20200229235055 112
+bingpreview 92 2941002 20200223102408 0
+bingbot/ 87 554450 20200226091420 22
+unknown 14 938 20200218031140 14
+Python\-urllib/ 7 62651 20200224075730 0
+msnbot/ 6 2124 20200223102732 2
+curl 4 0 20200201072323 0
+Baiduspider/ 4 114276 20200211184948 0
+no_user_agent 3 57138 20200226203331 0
+java 2 15604 20200221230411 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 57138 20200228132604 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 411 239175 0 0
+css 317 9601810 0 0
+png 8 78166 0 0
+html 589 12041614 0 0
+xml 24 23918 0 0
+Unknown 18 38264 0 0
+jpg 8 1488774 0 0
+js 566 16323217 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+//wp-content/plugins/elementor/readme.txt 24 0 2706984
+/wp-content/plugins/elementor/readme.txt 24 0 2706984
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+Unknown 526 438
+win8 4 0
+win8.1 41 9
+macosx8 2 2
+macosx10 4 4
+linuxandroid 4 4
+winxp 19 9
+win7 982 323
+winlong 2 2
+macosx 89 57
+ios_ipad 2 2
+ios_iphone 2 2
+macosx11 86 26
+macosx9 10 4
+macosx12 8 0
+win10 98 98
+linux 62 62
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 68
+chrome43.0.2357.124 4 0
+chrome76.0.3809.100 4 4
+chrome78.0.3904.97 2 2
+safari7.0 2 2
+chrome55.0.2883.95 8 0
+msie6.0 4 4
+chrome68.0.3440.84 2 2
+firefox49.0 2 2
+chrome56.0.2924.87 2 0
+chrome79.0.3945.59 33 33
+chrome78.0.3904.87 48 48
+chrome67.0.3396.79 2 2
+chrome74.0.3729.157 4 4
+firefox36.0 23 3
+chrome48.0.2564.109 4 4
+chrome70.0.3538.77 2 2
+firefox50.0 14 2
+firefox67.0 4 4
+chrome58.0.1145.75 2 2
+firefox66.0 2 2
+safari7.0.3 6 0
+chrome45.0.2454.94 2 2
+firefox62.0 4 4
+chrome63.0.3239.132 10 10
+chrome75.0.3770.100 2 2
+Unknown 399 399
+firefox64.0 4 4
+chrome26.0.1410.65 2 2
+chrome53.0.2785.104 6 0
+chrome74.0.3729.169 6 6
+firefox47.0 12 12
+msie9.0 873 280
+chrome67.0.3396.87 2 2
+chrome37.0.2049.0 10 0
+mozilla 154 62
+chrome74.0.3729.131 6 6
+msie10.0 14 0
+chrome56.0.2896.3 2 2
+chrome31.0.1650.57 4 4
+chrome5.0.375.99 2 2
+msie8.0 7 7
+chrome45.0.2454.101 8 0
+chrome76.0.3809.132 2 2
+firefox56.0 4 4
+chrome67.0.3396.62 39 7
+firefox72.0 6 6
+msie11 2 0
+chrome20.0.1132.11 2 2
+chrome72.0.3626.121 4 4
+firefox60.0 11 11
+firefox54.0 2 2
+chrome65.0.3325.181 3 3
+firefox59.0 2 2
+firefox52.0 75 15
+firefox33.0 3 3
+chrome35.0.1916.47 4 4
+opera62.0.3331.99 22 22
+opera12.16 4 0
+edge13 2 2
+chrome41.0.2228.0 16 0
+firefox28.0 8 8
+chrome75.0.3770.142 8 8
+chrome34.0.1847.131 2 2
+firefox63.0 3 3
+chrome61.0.3163.100 2 2
+opera12.0 4 0
+chrome23.0.1271.95 6 0
+firefox58.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200219152513
+Mozilla/5.0_(compatible;_ips-agent) 20200209040758
+Go-http-client/1.1 20200227081652
+Mozilla/5.0_(compatible;_AffiliateLabz/1.0;__https://affiliatelabz.com/) 20200206175554
+WordPress/4.9.13;_http://hibaandwaseem.com 20200229235058
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20200227081652
+WordPress/4.9.13;_http://hibaandwaseem.com 20200229235058
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 335 483
+From1 2 2
+From2 282 868
+From3 4 4
+From4 419 584
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 282 868
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.facebook.net 2 2
+http://site.ru 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+406 683 154132
+403 657 88038
+301 174 0
+404 715 13669523
+409 173 14359
+500 2 2474
+302 3 0
+400 3 3
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 243
+/wp-admin/vuln.htm 1 -
+/assets/images/wp-console.php 2 -
+/wp-content/plugins/profile-builder/assets/css/serial-notice.css 2 hibaandwaseem.com
+/tmp/ 2 -
+/wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 1 -
+/wp-admin/gallery.php 1 http://site.ru
+/cms/ 2 -
+/wp-includes/wp-info.php 2 http://site.ru
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+//wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 1 -
+/new/ 2 -
+/jss.php 1 -
+/r.php 2 http://site.ru
+/layouts/libraries/cms/html/bootstrap/endtab.php 1 -
+/o.php 4 http://site.ru
+/wp-content/wp-info.php 8 http://site.ru
+/wp.zip 1 -
+/wp-content/plugins/hd-webplayer/playlist.php 1 -
+/wp-content/plugins/brizy/public/static/css/style.css 2 hibaandwaseem.com
+/members/ 1 -
+/wp-config-backup2.txt 2 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/themes/wp-update.php 2 hibaandwaseem.com
+/wp-content/_input_3_vuln.htm 1 -
+/wp-content/plugins/mm-forms/includes/doajaxfileupload.php 2 http://www.google.com/
+/wp-content/plugins/flexible-checkout-fields/assets/css/admin.min.css 2 hibaandwaseem.com
+/wp-config.txt 2 -
+/wp/ 2 -
+/wp-includes/SimplePie/Content/Type/images.php 4 http://site.ru
+/wordpress/wp-admin/install.php 3 -
+/wp-config 6 -
+/backup.php 4 http://site.ru
+/wp-config.phpnew 2 -
+/seter.php 2 http://site.ru
+/adminer/ 2 hibaandwaseem.com
+/wp-json/trx_addons/v2/get/sc_layout 1 hibaandwaseem.com
+/wp-content/plugins/blnmrpb/log.txt 6 -
+/wp-config.data 2 -
+//wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 1 -
+/wp-includes/Requests/Auth/images.php 2 http://site.ru
+/wp-config.phptmp 2 -
+/_input_3_vuln.htm 1 -
+/1.php 2 http://site.ru
+/wp-includes/css/hi.php 1 -
+/wp-logs.php 6 http://site.ru
+//wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/searchreplace.php 2 -
+/temp/ 2 -
+//wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%7B%7B=it.author_link 4 -
+/backup/ 2 -
+/gallery.php 2 http://site.ru
+/wp-content/plugins/profile-builder/assets/css/style-front-end.css 16 -
+/blog/ 2 -
+/searchreplacedb.php 2 -
+/avtogear_ru_cron_k.php 1 -
+/wordpress/ 2 -
+/logs/error.php 1 -
+/wp-includes/theme-compat/sidebar-embed.php 4 http://site.ru
+/wp-admin/vuln.php 1 -
+/hibaandwaseem.zip 1 -
+//_input_3_vuln.htm 1 -
+/wp-admin/wp-info.php 1 http://site.ru
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/registry%5C/%5C%22 1 http://www.google.com/url
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%url% 2 -
+/wp-content/plugins/omni-secure-files/plupload/examples/upload.php 2 http://www.google.com/
+/wp-content/plugins/indeed-membership-pro/assets/css/templates.css 14 -
+/wp-config.phpb 2 -
+/wp-content/plugins/background-image-cropper/header-cache.php.suspected 6 http://site.ru
+//wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 1 -
+/wp-admin/img.php 1 http://site.ru
+//wp-content/_input_3_vuln.htm 1 -
+/feal.php.suspected 8 http://site.ru
+/wp-content/plugins/themegrill-demo-importer/assets/js/admin/demo-importer.js 4 -
+/wp-content/plugins/background-image-cropper/content-post.php.suspected 4 http://site.ru
+/wp-content/plugins/css-ready-sel/r.php 2 http://site.ru
+/wp-content/plugins/background-image-cropper/wp-console.php.suspected 2 http://site.ru
+/img.php 4 http://site.ru
+/wp-content/plugins/background-image-cropper/wp-console.php 4 http://site.ru
+/wpdemos.php 6 -
+/wp-admin/maint/images.php 5 http://site.ru
+/blog/wp-json/ 2 -
+/wp-content/plugins/strong-testimonials/templates/modern/content.css 6 -
+/404.php 2 -
+//shell.php 1 -
+/pas.php 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/wedding-itinerary%5C/%5C%22 1 http://www.google.com/url
+//wp-json/wp/v2/posts/None 1 -
+/wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-config.phpOLD 2 -
+/replace.php 12 -
+/feal.php 2 http://site.ru
+/install.php 2 -
+/wp-content/plugins/sploit/mini.php 2 http://site.ru
+/wp-info.php/wp-info.php 2 hibaandwaseem.com
+/www.zip 1 -
+/wp-includes/indeh.php 2 http://site.ru
+/wp-config.phpn 2 -
+/wp-config-backup4.txt 2 -
+/wp-admin/doc.php 1 http://site.ru
+/wp-config-backup5.txt 2 -
+/doc.php 2 http://site.ru
+/assets/images/s_eval.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/prv8.php 2 -
+/wp-config.html 2 -
+/wp-config%20fix.txt 2 -
+/installer-backup.php 6 -
+/config.php~~ 2 -
+/wp-includes/js/include.php 2 http://site.ru
+/wp-config.phpold 2 -
+/wp-content/gallery.php 4 http://site.ru
+/site/ 2 -
+/wp-info.php 2 http://site.ru
+/.aws/credentials 2 -
+/wp-content/plugins/linklove/linklove.php 2 hibaandwaseem.com
+/a.php 2 http://site.ru
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/weather%5C/%5C%22 1 http://www.google.com/url
+/a 6 -
+/wp-config.phpa 2 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/info/license.txt 2 -
+/wp-content/plugins/batchmove/js/batch.js 6 -
+/wp-content/themes/oceanwp/assets/js/third/%url% 1 -
+/wp-content/plugins/freedom/file.php 2 http://site.ru
+/wp-content/plugins/category-page-icons/css/menu.css 1 -
+/installer.php 4 -
+/wp-config-sample.php~~ 2 -
+/config.phpnew 2 -
+/wp-admin/includes/images.php 1 http://site.ru
+/wp-config.phpc 2 -
+/newsleter.php 2 http://site.ru
+/wp-cofigs.php 2 http://site.ru
+/wp-includes/pomo/wp-info.php 2 http://site.ru
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 1 -
+/// 1 -
+/400.shtml 5 -
+//fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+//wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 1 -
+/main/ 2 -
+/wp-content/themes/aemi1/footer1.php 2 http://site.ru
+//wp-content/plugins/downloads-manager/img/unlock.gif 1 -
+/config 4 -
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 1 -
+/cli/finder_indexer.php 1 -
+/wp-json/trx_addons/v2/get/sc_layout/ 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 1 -
+/backup.zip 1 -
+/wp-content/plugins/profile-builder-pro/assets/css/style-front-end.css 14 -
+//wp-content/plugins/category-page-icons/css/menu.css 1 -
+/wp-content/plugins/sfwd-lms/wpml-config.xml 2 -
+/config-backup 2 -
+/config.data 2 -
+/skype:YourUsername 2 -
+/wp-content/plugins/accessally/resource/backend/css/accessally-manage.css 6 -
+/wp-content/ww-te.php 2 http://site.ru
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%7B%7B=it.link 6 -
+/wp-config.cfg 2 -
+/wp-content/themes/oceanwp/assets/js/third/%25url%25 1 -
+/wp-config.local.php 2 -
+/wp-content/plugins/wp-time-capsule/css/opentip.css 2 -
+/th1s_1s_a_4o4.html 56 -
+/wp-remote-upload.php 2 http://www.facebook.net/
+/wp-includes/Requests/Cookie/images.php 2 http://site.ru
+//wp-content/plugins/hd-webplayer/playlist.php 1 -
+/searchreplacedb2.php 16 -
+/wp-content/plugins/e-preview.php 2 http://www.facebook.net/
+//ldskflks 1 -
+/wp-content/plugins/gallery-plugin/upload/php.php 2 http://www.google.com/
+/magento_version 2 -
+/wp-content/plugins/gravityforms/css/admin.css 2 -
+/wp-content/plugins/themegrill-demo-importer/assets/css/_animation.scss 2 hibaandwaseem.com
+/wp-content/plugins/background-image-cropper/content-post.php 2 http://site.ru
+/index2.php 2 http://www.facebook.net/
+/wp-interst.php 2 http://www.facebook.net/
+/web/ 2 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 1 -
+/old/ 2 -
+/check.php 2 http://site.ru
+/blog/license.txt 2 -
+/wp-content/plugins/downloads-manager/img/unlock.gif 1 -
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 1 -
+/sl.php 2 http://site.ru
+/wp-config.phpe 2 -
+/wp-config.phpo 2 -
+/register/ 2 -
+/shell.php 3 -
+/wp-config-backup.txt 2 -
+/login/ 8 hibaandwaseem.com
+/wp-content/plugins/wordpress-database-reset/assets/css/bsmselect.css 6 -
+/wp-config.php1 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/wedding-invitation%5C/%5C%22 1 http://www.google.com/url
+/wp-includes/SimplePie/Pattern.php 2 http://site.ru
+/wp-content/themes/oceanwp/thumb.php 2 -
+//wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 1 -
+//vendor/phpunit/phpunit/build.xml 1 -
+//jm-ajax/upload_file/ 1 -
+/wp-content/plugins/sid/wp-info.php 2 http://site.ru
+/wp-includes/Text/Diff/Engine/images.php 2 http://site.ru
+/wp-content/plugins/CCSlider/includes/upload.php 2 http://www.google.com/
+/wp-content/plugins/background-image-cropper/blackhat.php 2 http://site.ru
+/bitrix/admin/search.php 1 -
+/htdocs 1 -
+/wp-admin/output.php 1 -
+/test/ 2 -
+/sitemap.xml 2 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/ldskflks 1 -
+//wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/themes/mantra/uploads/upload.php 2 hibaandwaseem.com
+//htdocs 1 -
+/wp-config-backup 2 -
+/wp-config-backup3.txt 2 -
+/wp-includes/Requests/Response/images.php 2 http://site.ru
+/wp-includes/css/404.php 4 http://site.ru
+/wp-content/themes/oceanwp/timthumb.php 2 -
+/uv-config.php.public 2 -
+/wp-crons.php 2 http://site.ru
+/ads.txt 2 -
+/dev/ 2 -
+//wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/themes/twentysixteen/inc/css/css/css/css/css/simple.php5 6 http://site.ru
+/searchrep.php 2 -
+/wp-content/plugins/background-image-cropper/blackhat.php.suspected 2 http://site.ru
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 2 -
+/demo/ 2 -
+/wp-admin/network/post.php 3 http://site.ru
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/%5C%22 1 http://www.google.com/url
+/wp-admin/user/user-profile.php 2 http://site.ru
+/ 91 -
+/jm-ajax/upload_file/ 1 -
+/util/login.aspx 2 -
+//wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 1 -
+//wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 1 -
+/portal/ 2 -
+/wp-config-backup1.txt 2 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 1 -
+/cli/deletefiles.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/hibaandwaseem.com%5C/gallery%5C/%5C%22 1 http://www.google.com/url
+/cli/update_cron.php 1 -
+/wp-config.htm 2 -
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/%25url%25 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 148
+108.167.181.242 361 361 0 20200229235058
+184.154.139.48 84 259 9499705 20200223152214
+184.154.139.46 66 197 6020600 20200229151724
+184.154.139.47 43 149 5050424 20200218152306
+184.154.76.23 36 105 3649689 20200228151907
+184.154.139.25 32 98 3078900 20200226152045
+184.154.139.24 19 65 1743507 20200227152613
+51.68.152.26 18 18 140436 20200227033657
+158.69.117.141 17 17 547163 20200218031153
+104.199.52.189 14 74 312334 20200208210510
+69.58.178.59 14 14 124102 20200207211918
+60.191.38.77 12 12 342828 20200228172116
+62.210.144.171 11 11 70162 20200223140856
+123.148.145.57 10 10 25838 20200211215405
+159.253.20.65 7 7 129798 20200203055444
+3.16.101.77 7 7 129798 20200202081639
+88.208.250.185 7 7 129798 20200202134527
+51.136.54.119 6 6 88346 20200216225853
+35.231.145.250 6 6 46812 20200215181156
+54.147.248.244 6 6 46812 20200227081652
+69.58.178.57 6 6 50748 20200209040758
+23.83.89.6 5 37 1267230 20200225182111
+185.84.137.111 4 4 72742 20200213062339
+91.134.248.230 4 4 72742 20200216173551
+188.240.223.5 4 4 72742 20200213011423
+54.68.147.111 0 4 28094 
+34.204.185.218 2 2 15604 20200213122807
+50.63.197.211 2 2 7620 20200227185824
+100.26.3.115 2 2 15604 20200202134730
+13.59.94.230 2 2 15604 20200204125105
+35.229.118.29 3 3 23406 20200219191524
+195.5.143.59 1 1 28569 20200201120026
+18.218.143.69 2 2 15604 20200209133011
+194.147.34.144 1 1 28569 20200214213424
+34.233.170.90 2 2 15604 20200221131414
+157.97.36.143 2 2 7620 20200219211044
+51.77.246.201 2 90 1345300 20200219152509
+3.227.233.95 2 2 15604 20200225125511
+172.245.254.190 2 2 15604 20200225182057
+62.210.140.4 2 2 57138 20200219033907
+188.163.104.143 2 2 15604 20200227035752
+162.243.69.215 2 2 15604 20200201193440
+13.76.228.48 1 1 540 20200205035837
+35.167.96.165 2 2 15604 20200224063142
+81.20.17.4 2 2 7620 20200211044709
+104.227.246.106 2 2 57138 20200220182705
+18.208.200.78 2 2 15604 20200223132821
+54.185.254.166 0 4 85212 
+46.119.119.33 2 2 57138 20200215132933
+220.177.50.195 2 2 57138 20200201120003
+13.59.227.144 2 2 15604 20200206130430
+142.93.144.66 2 2 57138 20200214213232
+37.187.39.196 4 4 72742 20200213233144
+64.246.165.160 2 2 15604 20200210072429
+193.106.30.99 4 4 0 20200224212713
+167.172.248.82 3 3 23406 20200228151832
+52.116.140.41 2 2 15604 20200214235457
+45.40.166.166 2 2 7620 20200215212640
+52.33.145.241 2 2 15604 20200211065030
+195.154.62.232 2 2 57138 20200201134004
+54.201.120.82 2 2 15604 20200225145208
+34.208.95.141 0 12 84730 
+18.188.180.247 2 2 15604 20200211122746
+207.180.234.123 1 1 59552 20200206175554
+3.234.212.125 2 2 15604 20200212125437
+5.105.0.135 2 2 57138 20200225125934
+91.121.79.16 4 4 114112 20200219195838
+18.205.38.63 2 2 15604 20200210123924
+5.255.174.141 4 4 114276 20200223222349
+144.91.78.58 2 2 57138 20200208110237
+45.224.105.214 2 2 57138 20200202023837
+62.210.79.40 2 2 57138 20200216000232
+62.210.115.146 4 4 72742 20200212184455
+34.221.169.229 0 10 71274 
+159.203.81.93 1 1 14576 20200201193441
+62.109.4.125 1 1 0 20200212074309
+167.172.192.43 2 2 57138 20200217153241
+34.204.191.252 2 2 15604 20200205130532
+52.40.71.169 0 18 317982 
+208.91.199.89 2 2 7620 20200229040723
+93.89.232.46 1 1 3312 20200208010000
+195.242.80.62 2 2 52528 20200207174839
+54.202.74.120 0 4 95842 
+3.224.60.96 2 2 15604 20200221000722
+87.251.76.139 2 2 15604 20200214045451
+3.91.68.165 2 2 15604 20200216131009
+35.172.165.249 2 2 15604 20200226123836
+52.38.176.104 0 4 11498 
+107.174.141.93 2 2 57138 20200209081818
+104.245.144.58 2 2 15604 20200201212258
+18.219.201.42 2 2 15604 20200228125108
+180.97.118.219 2 40 1470294 20200206143955
+54.213.54.63 0 10 71128 
+40.76.79.103 2 2 57138 20200212175759
+35.237.81.99 3 3 23406 20200223194430
+162.244.225.30 2 2 57138 20200211141813
+34.227.102.210 2 2 15604 20200229051931
+199.244.88.131 4 4 31208 20200228220824
+200.89.178.182 2 2 57138 20200214143512
+188.166.86.158 4 4 72742 20200213191214
+35.227.96.253 3 3 23406 20200207151442
+192.254.214.135 2 2 7620 20200224164904
+82.202.204.118 4 4 128980 20200216192653
+68.65.122.182 2 2 7620 20200214073131
+18.207.133.91 2 2 15604 20200203123424
+54.213.16.161 0 6 119216 
+71.233.39.51 2 2 1146 20200223052239
+34.220.123.136 0 4 18652 
+91.134.169.211 2 2 7620 20200221040002
+58.17.6.9 2 2 15604 20200227031731
+185.219.83.43 4 4 72742 20200212230205
+85.118.128.45 2 2 7614 20200212181635
+67.207.197.191 2 2 15604 20200209172253
+188.163.104.113 2 2 15604 20200216215535
+45.224.105.192 2 2 57138 20200202155825
+3.20.221.166 2 2 15604 20200217124804
+194.87.98.107 4 4 31208 20200211155836
+34.204.169.120 2 2 15604 20200218121631
+37.140.192.105 2 2 7620 20200203052454
+173.249.1.160 1 1 59552 20200203003949
+3.231.219.218 2 2 15604 20200219120550
+3.18.221.70 2 2 15604 20200224131013
+34.73.211.60 3 3 23406 20200211171054
+213.242.20.29 2 2 15604 20200205035955
+3.12.241.33 2 2 15604 20200220124335
+52.3.252.109 2 2 15604 20200215163203
+46.32.240.35 2 2 344 20200224171733
+34.208.11.106 0 2 7494 
+104.196.158.145 3 3 23406 20200227201741
+107.150.169.50 2 2 15604 20200215035721
+18.218.218.190 2 2 15604 20200207130010
+46.243.106.66 2 2 57138 20200202090653
+103.82.235.2 2 2 382 20200229202837
+54.184.107.148 0 2 85532 
+3.6.56.25 4 4 16446 20200225074352
+52.15.36.180 2 2 15604 20200214130852
+62.210.83.78 4 4 31208 20200225131708
+104.245.145.25 2 2 15604 20200202154603
+34.239.162.38 2 2 15604 20200227121119
+54.69.19.241 2 2 15604 20200211033948
+195.242.80.89 2 2 52598 20200224222101
+18.237.84.51 2 2 15604 20200222023200
+212.162.68.194 1 1 3312 20200226061302
+18.188.176.197 2 2 15604 20200221125213
+72.43.36.242 4 4 72742 20200212142447
+34.219.60.105 0 8 153352 
+104.238.95.46 2 2 57056 20200212053856
+197.243.48.18 2 2 57138 20200201193403
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200201 38 60 1155789 17
+20200202 40 60 1529895 14
+20200203 37 62 1181604 16
+20200204 22 41 573387 11
+20200205 23 46 862432 8
+20200206 20 68 2159883 11
+20200207 44 64 1133491 12
+20200208 28 102 1508044 9
+20200209 42 58 1507891 16
+20200210 52 113 2862656 11
+20200211 56 119 1522399 20
+20200212 47 65 1185465 21
+20200213 51 71 1590817 19
+20200214 47 73 1428696 17
+20200215 34 60 1254573 14
+20200216 39 63 1437148 18
+20200217 20 40 1073778 11
+20200218 40 62 1482654 10
+20200219 33 133 2393106 15
+20200220 34 56 1635840 15
+20200221 24 24 54432 13
+20200222 29 49 1090380 11
+20200223 49 69 1179110 18
+20200224 33 93 1755890 17
+20200225 41 93 2479146 20
+20200226 30 50 1144664 12
+20200227 38 58 748560 17
+20200228 29 51 1029968 13
+20200229 22 38 873240 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 46
+15mn-30mn 15
+30s-2mn 4
+2mn-5mn 2
+1h+ 19
+5mn-15mn 5
+0s-30s 325
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/wp-cron.php 361 0 238 238
+/ 354 5941262 154 119
+/gallery/ 42 1257250 0 3
+/getting-there/ 36 1100088 0 12
+/wp-login.php 30 107707 13 17
+/weather/ 26 708266 0 0
+/registry/ 26 652892 0 1
+/wedding-itinerary/ 26 921158 0 1
+/wp-includes/wlwmanifest.xml 24 23918 0 2
+/wedding-invitation/ 20 560194 0 1
+/feed/ 20 21450 1 3
+/wp-json/oembed/1.0/embed 18 38264 1 2
+/comments/feed/ 16 11904 0 3
+/wp-json/ 12 624672 3 4
+/xmlrpc.php 10 25838 1 1
+/author/hiba/ 6 119944 2 2
+/wp-admin/admin-post.php 3 0 0 3
+/search/1/feed/rss2/ 2 114506 0 0
+/wp-content/themes/twentyfifteen/404.php 2 344 1 1
+/wp-links-opml.php 2 382 1 1
+//wp-json/wp/v2/users/ 1 253 0 1
+// 1 7773 0 0
+/wp-admin/load-styles.php 1 104364 0 0
+//wp-admin/install.php 1 540 1 1
+//wp-json/wp/v2/posts/ 1 2 0 0
+//wp-admin/admin-post.php 1 0 0 0
+END_SIDER

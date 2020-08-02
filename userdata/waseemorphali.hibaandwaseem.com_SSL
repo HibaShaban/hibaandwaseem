@@ -1,0 +1,79 @@
+--- 
+directoryhomehibawaseempublichtmlwaseemorphalicomcgibin: 
+  ssloptions: +StdEnvVars
+documentroot: /home4/hibawaseem/public_html/waseemorphali.com
+group: hibawaseem
+hascgi: 1
+homedir: /home4/hibawaseem
+ifmoduleheadersmodule: 
+  requestheader: 
+    - 
+      requestheader: set X-HTTPS 1
+ip: 108.167.181.242
+ipv6: ~
+is_addon: 1
+owner: root
+phpopenbasedirprotect: 1
+port: 443
+proxypass: 
+  - 
+    proxypass: "\"/___proxy_subdomain_cpanel\" \"http://127.0.0.1:2082\" max=1 retry=0"
+  - 
+    proxypass: "\"/___proxy_subdomain_webdisk\" \"http://127.0.0.1:2077\" max=1 retry=0"
+  - 
+    proxypass: "\"/___proxy_subdomain_webmail\" \"http://127.0.0.1:2095\" max=1 retry=0"
+rewritecond: 
+  - 
+    rewritecond: "%{HTTP_HOST} =autodiscover.waseemorphali.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =autodiscover.waseemorphali.com:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =cpanel.waseemorphali.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =cpanel.waseemorphali.com:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =webdisk.waseemorphali.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =webdisk.waseemorphali.com:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =webmail.waseemorphali.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =webmail.waseemorphali.com:443"
+rewriteengine: 'On'
+rewriterule: 
+  - 
+    pattern: "^"
+    qualifier: "[P]"
+    substitution: http://127.0.0.1/cgi-sys/autodiscover.cgi
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_cpanel/$1
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_webdisk/$1
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_webmail/$1
+scriptalias: 
+  - 
+    path: /home4/hibawaseem/public_html/waseemorphali.com/cgi-bin/
+    url: /cgi-bin/
+secruleengineoff: ~
+serveradmin: webmaster@waseemorphali.hibaandwaseem.com
+serveralias: www.waseemorphali.hibaandwaseem.com mail.waseemorphali.com www.waseemorphali.com waseemorphali.com
+servername: waseemorphali.hibaandwaseem.com
+setenvif: 
+  - 
+    attribute: User-Agent
+    env_variables: nokeepalive ssl-unclean-shutdown
+    regex: "\".*MSIE.*\""
+ssl: 1
+sslcacertificatefile: /var/cpanel/ssl/apache_tls/waseemorphali.hibaandwaseem.com/combined
+sslcertificatefile: /var/cpanel/ssl/apache_tls/waseemorphali.hibaandwaseem.com/combined
+sslengine: 'on'
+usecanonicalname: 'Off'
+user: hibawaseem
+userdirprotect: 0

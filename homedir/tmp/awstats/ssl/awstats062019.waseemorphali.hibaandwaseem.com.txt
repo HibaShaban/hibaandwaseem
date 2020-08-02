@@ -1,0 +1,424 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201906 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/ssl/awstats.waseemorphali.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2035                
+POS_TIME 2694                
+POS_VISITOR 10202               
+POS_DAY 10823               
+POS_DOMAIN 3306                
+POS_LOGIN 3562                
+POS_ROBOT 3717                
+POS_WORMS 4025                
+POS_EMAILSENDER 4156                
+POS_EMAILRECEIVER 4299                
+POS_SESSION 11343               
+POS_SIDER 11510               
+POS_FILETYPES 4434                
+POS_DOWNLOADS 4533                
+POS_OS 4581                
+POS_BROWSER 4694                
+POS_SCREENSIZE 4906                
+POS_UNKNOWNREFERER 4980                
+POS_UNKNOWNREFERERBROWSER 5250                
+POS_ORIGIN 5515                
+POS_SEREFERRALS 5649                
+POS_PAGEREFS 5793                
+POS_SEARCHWORDS 5941                
+POS_KEYWORDS 6093                
+POS_MISC 2358                
+POS_ERRORS 6152                
+POS_CLUSTER 3418                
+POS_SIDER_404 6307                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190701205621 1 0 10433549979385
+FirstTime 0
+LastTime 20190630194814
+LastUpdate 20190702074826 1 0 0 0 0
+TotalVisits 49                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 0 8 10 9256
+1 10 10 101642 6 6 0
+2 4 4 17341 2 2 0
+3 10 10 35639 8 8 135440
+4 2 2 0 48 48 246481
+5 6 6 51778 4 4 68482
+6 4 4 0 5 7 74746
+7 6 6 0 91 91 533757
+8 6 6 0 14 16 10776
+9 16 16 353016 106 228 1467287
+10 2 2 7315 9 9 3099
+11 0 0 0 0 0 0
+12 2 2 0 6 6 104
+13 2 2 0 6 6 19818
+14 2 2 0 74 74 448618
+15 2 2 33480 8 12 9130
+16 0 0 0 2 2 1520
+17 4 4 66960 4 4 0
+18 2 2 0 8 8 1520
+19 12 12 76109 60 62 225156
+20 2 2 0 4 4 309
+21 2 2 0 4 4 0
+22 4 4 0 7 9 16721
+23 4 4 33480 4 4 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 100 100 602045
+de 8 8 107755
+cn 2 2 66960
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 10 334800 20190621065806 0
+Googlebot/ 8 536 20190627082013 8
+no_user_agent 2 18298 20190608131817 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 3340 20190623140151 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 38 769445 0 0
+php 72 7315 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win7 20 20
+Unknown 84 84
+macosx11 2 2
+linux 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome36.0.1985.143 6 6
+firefox47.0 2 2
+chrome26.0.1410.63 2 2
+chrome40.0.2214.85 6 6
+chrome41.0.2228.0 2 2
+firefox64.0 6 6
+Unknown 84 84
+chrome58.0.3029.110 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/2.0 20190629030416
+WordPress/5.0.4;_http://waseemorphali.com 20190620222834
+WordPress/5.0.4;_https://waseemorphali.com 20190630194814
+Go-http-client/1.1 20190618091258
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/5.0.4;_http://waseemorphali.com 20190620222834
+Go-http-client/2.0 20190629030416
+WordPress/5.0.4;_https://waseemorphali.com 20190630194814
+Go-http-client/1.1 20190618091258
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 39 39
+From1 0 0
+From2 0 0
+From3 0 0
+From4 71 71
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 65 51626
+406 4 904
+302 10 0
+301 144 0
+404 344 2861536
+409 4 332
+400 32 848
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 127
+/OMC_template.gz 2 -
+/wisteria199.zip 1 -
+/InCreate-FullPackage.gz 4 -
+/wp-content.zip 1 -
+/wp-content/plugins/wp-quick-booking-manager/assets/css/add_booking.css 2 -
+/main.sql 2 -
+/woodlakeofficepark.com.gz 2 -
+/license.php.suspected 2 -
+/quick_install_archive.tar.gz 1 -
+/errors/503.php 6 -
+/wp-content/plugins/social-warfare/assets/js/script.js 2 -
+/backup.sql 2 -
+/wp-xml.php.suspected 2 -
+/installer-data.sql.gz 2 -
+/veggiedog.gz 2 -
+/wp-xml.php 2 -
+/wp-content/plugins/wp-live-chat-support/css/wplcstyle.css 2 -
+/wordpress.gz 2 -
+/installer-backup.php 4 -
+/public_html.tar.gz 1 -
+/wp-content/plugins/wp-gdpr-compliance/assets/js/admin.js 2 -
+/license.php 2 -
+/shop/downloader/ 12 -
+/quick_install_archive.gz 2 -
+/.well-known.zip 1 -
+/rt18_archive.tar.gz 1 -
+/wp-content/plugins/ultimate-faqs/css/ewd-ufaq-styles.css 2 -
+/master.tar.gz 1 -
+/wp-upload-class.php.suspected 2 -
+/wisteria199.gz 2 -
+/master.gz 2 -
+/wp-content/plugins/woocommerce-abandoned-cart/assets/js/abandoncart_plugin_button.js 2 -
+/shop/admin/ 12 -
+/site.sql 2 -
+/content-post.php.suspected 2 -
+/InCreate-FullPackage.tar.gz 2 -
+/installer.zip 1 -
+/wp-content/plugins/wp-piwik/js/wp-piwik.js 2 -
+/wp-content.gz 2 -
+/InCreate-FullPackage.zip 2 -
+/newsleter.php 2 -
+/downloader/ 6 -
+/wp-content/plugins/woocommerce-checkout-manager/includes/templates/js/script_wccs.js 2 -
+/wp-content/plugins/userpro/scripts/scripts.min.js 2 -
+/backup.zip 1 -
+/store/downloader/ 12 -
+/waseemorphali.sql 2 -
+/.well-known.gz 2 -
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 2 -
+/wp-content.tar.gz 1 -
+/installer.tar.gz 2 -
+/rt18_archive.zip 1 -
+/magento/downloader/ 12 -
+/.well-known/assetlinks.json 8 -
+/backup.gz 2 -
+/wordpress.tar.gz 1 -
+/wp.tar.gz 1 -
+/backup.tar.gz 1 -
+/installer-log.txt 2 -
+/wp.zip 1 -
+/veggiedog.tar.gz 1 -
+/file.sql 2 -
+/waseemorphali.com.sql 2 -
+/OMC_template.tar.gz 1 -
+/database.sql 2 -
+/archive.zip 1 -
+/cgi-bin.zip 1 -
+/dup-installer/main.installer.php 2 -
+/mysql.sql 2 -
+/woodlakeofficepark.com.zip 1 -
+/wp-content/plugins/yuzo-related-post/assets/js/admin.js 2 -
+/public_html.gz 2 -
+/files.sql 4 -
+/quick_install_archive.zip 1 -
+/archive.gz 2 -
+/cgi-bin.gz 2 -
+/wp-admin.gz 2 -
+/veggiedog.zip 1 -
+/OMC_template.zip 1 -
+/wp-content/plugins/totaldonations/css/mg_progress-bar.css 4 -
+/fullbackup.sql 2 -
+/wp-upload-class.php 2 -
+/magento/admin/ 12 -
+/fullwebsite.sql 2 -
+/master.zip 1 -
+/woodlakeofficepark.com.tar.gz 1 -
+/wordpress.zip 1 -
+/installer.php 4 -
+/shop/errors/503.php 14 -
+/wp-content/plugins/blog-designer/js/designer.js 4 -
+/store/errors/503.php 12 -
+/backups.sql 2 -
+/header-cache.php 2 -
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/js/yellow-pencil.js 2 -
+/wp.gz 2 -
+/store/admin/ 12 -
+/website.sql 2 -
+/sql.sql 2 -
+/wp-content/plugins/thim-framework/css/font-awesome.min.css 2 -
+/content-post.php 2 -
+/magento/errors/503.php 12 -
+/public_html.zip 1 -
+/rt18_archive.gz 2 -
+/cache_.php.suspected 2 -
+/searchreplacedb2.php 4 -
+/new_license.php 2 -
+/header-cache.php.suspected 2 -
+/installer.gz 2 -
+/wp-content/plugins/woo-confirmation-email/assets/js/woo-confirmation-email-admin.js 2 -
+/cache_.php 2 -
+/.well-known.tar.gz 1 -
+/db.sql 4 -
+/newsleter.php.suspected 2 -
+/wp-admin.zip 1 -
+/wisteria199.tar.gz 1 -
+/dump.sql 4 -
+/archive.tar.gz 2 -
+/cgi-bin.tar.gz 1 -
+/database_backup.sql 2 -
+/wp-ajax-hook.php 2 -
+/wp-admin.tar.gz 1 -
+/wp-content/plugins/easy-wp-smtp/js/script.js 2 -
+/new_license.php.suspected 2 -
+/installer-data.sql.tar.gz 1 -
+/wp-content/plugins/fb-messenger/js/index.js 2 -
+/installer-data.sql.zip 1 -
+/wp-ajax-hook.php.suspected 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+108.167.181.242 70 70 0 20190630194814
+108.163.251.66 12 12 353016 20190618091616
+138.246.253.5 6 6 100440 20190627051337
+34.213.80.124 2 2 17341 20190609014439
+52.13.197.26 2 2 18298 20190620034731
+60.191.38.77 2 2 66960 20190604014850
+66.42.101.184 2 2 66960 20190629195956
+34.213.93.208 2 2 17341 20190623012320
+8.31.233.254 2 2 9149 20190610191709
+34.219.5.107 2 2 17341 20190605024024
+35.165.196.210 2 2 17341 20190629030416
+138.201.58.194 2 2 7315 20190615103600
+34.212.145.205 2 2 18298 20190627052031
+54.152.214.47 2 2 66960 20190621170946
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20190601 2 2 0 1
+20190602 2 2 0 1
+20190604 6 6 66960 3
+20190605 6 6 17341 3
+20190607 2 2 0 1
+20190608 2 2 0 1
+20190609 2 2 17341 1
+20190610 4 4 9149 2
+20190611 2 2 33480 1
+20190613 2 2 0 1
+20190614 4 4 0 2
+20190615 6 6 7315 2
+20190617 2 2 0 1
+20190618 14 14 353016 2
+20190619 4 4 33480 2
+20190620 4 4 18298 2
+20190621 8 8 66960 4
+20190622 4 4 0 2
+20190623 6 6 17341 3
+20190625 2 2 0 1
+20190627 8 8 51778 4
+20190628 4 4 0 2
+20190629 12 12 84301 6
+20190630 2 2 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 47
+2mn-5mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/wp-cron.php 70 0 34 34
+/ 38 769445 14 14
+/wp-login.php 2 7315 1 1
+END_SIDER

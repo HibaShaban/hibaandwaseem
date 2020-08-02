@@ -1,0 +1,2 @@
+[19-Nov-2018 12:14:08 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home4/hibawaseem/public_html/wp-includes/template-loader.php on line 28
+[23-Apr-2020 06:52:34 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/hibawaseem/public_html/wp-includes/locale.php on line 10

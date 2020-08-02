@@ -1,0 +1,15 @@
+[16-Apr-2019 11:50:24 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/404.php on line 13
+[06-May-2019 08:54:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/404.php on line 13
+[18-May-2019 23:55:23 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 11:06:23 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[14-Jun-2019 22:39:38 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 09:46:32 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Jul-2019 18:56:30 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 15:51:02 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 02:16:44 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2019 07:46:05 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-Oct-2019 23:47:09 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2019 23:27:30 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Dec-2019 21:51:11 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[24-May-2020 13:48:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Jun-2020 22:11:03 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home4/hibawaseem/public_html/waseemorphali.com/wp-content/themes/twentyseventeen/functions.php on line 16

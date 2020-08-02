@@ -1,0 +1,1286 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.waseemorphali.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2714                
+POS_VISITOR 24866               
+POS_DAY 33029               
+POS_DOMAIN 3605                
+POS_LOGIN 4256                
+POS_ROBOT 4411                
+POS_WORMS 4920                
+POS_EMAILSENDER 5051                
+POS_EMAILRECEIVER 5194                
+POS_SESSION 33895               
+POS_SIDER 34096               
+POS_FILETYPES 5329                
+POS_DOWNLOADS 5597                
+POS_OS 5754                
+POS_BROWSER 6060                
+POS_SCREENSIZE 7994                
+POS_UNKNOWNREFERER 8068                
+POS_UNKNOWNREFERERBROWSER 8563                
+POS_ORIGIN 8815                
+POS_SEREFERRALS 8960                
+POS_PAGEREFS 9148                
+POS_SEARCHWORDS 9375                
+POS_KEYWORDS 9527                
+POS_MISC 2377                
+POS_ERRORS 9586                
+POS_CLUSTER 4112                
+POS_SIDER_404 9775                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801001743 209 48213 11960840732095
+FirstTime 20200701021415
+LastTime 20200731232120
+LastUpdate 20200801072737 209 0 208 0 0
+TotalVisits 510                 
+TotalUnique 193                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 213                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 19 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 60 136 1616912 114 132 755525
+1 32 32 204809 243 246 1652415
+2 28 28 253030 69 78 399666
+3 82 82 323226 239 275 1388076
+4 77 217 2688153 120 170 1255755
+5 160 276 3257705 140 164 706579
+6 26 26 214536 68 115 1364202
+7 43 43 620967 144 148 593414
+8 61 139 1791721 163 168 323225
+9 37 167 2141106 80 202 1544152
+10 86 86 481237 136 192 2721987
+11 232 232 700781 78 132 1231959
+12 51 299 22390809 136 172 918282
+13 84 84 782045 160 272 2048835
+14 44 44 214914 78 230 3457057
+15 24 24 111253 86 190 2998647
+16 64 192 2368334 75 140 858038
+17 41 97 1326807 81 183 1523357
+18 67 171 1916224 146 266 2863894
+19 416 935 20787519 344 581 12048099
+20 81 81 338403 239 333 1195336
+21 24 24 231057 94 116 947232
+22 16 16 151911 115 135 1663601
+23 21 21 160514 66 94 1448394
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+us 1285 2370 34158689
+gb 316 450 4023370
+cn 36 100 1394176
+tw 31 31 6386
+ru 28 28 295044
+ua 18 18 190365
+il 18 266 22243113
+vn 17 17 145892
+fr 12 12 165980
+de 9 9 99227
+th 9 9 249284
+cz 8 72 1055028
+se 8 8 77736
+nl 8 8 141792
+eu 6 6 52322
+it 6 6 416
+ca 5 5 89974
+be 4 4 82132
+hu 4 4 38868
+pl 4 4 832
+jp 4 4 30317
+la 3 3 105810
+br 3 3 105810
+es 2 2 382
+ch 2 2 19434
+gr 1 1 0
+nc 2 2 70540
+mx 2 2 70540
+no 2 2 19434
+id 2 2 70540
+ro 2 2 70540
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bingbot/ 719 19253338 20200731060043 72
+Googlebot/ 467 2850919 20200731055729 79
+spider 257 7952969 20200731191736 0
+bingpreview 108 3233492 20200729184657 0
+bot[\s_+:,\.\;\/\\-] 106 1512810 20200731134935 0
+aiHitBot/ 93 629016 20200716200353 4
+unknown 20 1340 20200729112457 20
+no_user_agent 13 282160 20200731042947 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 109408 20200719135115 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+png 226 10889530 0 0
+xml 46 42260 0 0
+jpeg 36 6043445 0 0
+jpg 118 12316316 0 0
+css 475 6293860 0 0
+php 566 133449 0 0
+woff2 11 848760 0 0
+js 740 12321263 0 0
+html 1095 16122141 0 0
+Unknown 139 62949 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/plugins/elementor/readme.txt 26 0 3049618
+//wp-content/plugins/elementor/readme.txt 26 0 3049618
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+winlong 18 10
+macosx11 11 11
+linux 248 30
+winvista 1 1
+win7 1113 494
+winxp 55 45
+macosx7 6 0
+macosx12 2 2
+macosx9 34 8
+win8.1 24 6
+win8 24 2
+linuxandroid 2 2
+macosx6 6 2
+macosx 62 62
+macosx8 24 2
+win10 1179 607
+macosx10 2 2
+Unknown 641 571
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 93
+firefox62.0 4 4
+chrome26.0.1410.65 2 2
+safari5.1.9 4 2
+chrome31.0.1650.57 20 4
+msie11.0 16 2
+chrome75.0.3770.100 4 4
+safari7.0 2 0
+chrome41.0.2225.0 1 1
+firefox25.0 11 3
+opera12.16 8 0
+firefox78.0 74 4
+edge16 2 2
+firefox26.0 43 9
+chrome71.0.3578.98 8 8
+safari7.0.1 4 0
+chrome51.0.2704.103 2 2
+chrome83.0.4103.61 6 6
+firefox28.0 10 6
+firefox76.0 6 6
+firefox29.0 6 0
+chrome80.0.3987.116 2 2
+firefox57.0 6 6
+chrome74.0.3729.157 1 1
+chrome40.0.2214.85 3 3
+chrome41.0.2227.0 6 0
+chrome74.0.3729.169 9 9
+firefox24.0 8 0
+firefox36.0 10 0
+msie9.0 892 367
+firefox67.0 3 3
+chrome76.0.3809.132 11 11
+chrome78.0.3904.108 33 33
+chrome83.0.4103.116 286 286
+firefox31.0 4 0
+chrome70.0.3538.77 7 7
+safari12.1.2 2 2
+chrome59.0.3071.109 48 48
+chrome64.0.3282.140 70 4
+chrome58.0.3029.110 465 151
+chrome83.0.4103.97 76 12
+chrome52.0.2743.116 11 11
+chrome74.0.3729.131 10 10
+chrome32.0.1700.72 4 2
+chrome78.0.3904.97 2 2
+chrome77.0.3865.90 4 4
+chrome79.0.3945.130 14 14
+mozilla 177 107
+firefox61.0 4 4
+chrome32.0.1700.41 2 0
+chrome40.0.2214.111 2 0
+firefox72.0 2 2
+chrome63.0.3239.84 7 3
+firefox45.0 2 2
+msie11 4 0
+chrome58.0.1145.75 2 2
+chrome63.0.3239.132 12 12
+chrome41.0.2228.0 2 2
+msie8.0 2 2
+chrome5.0.375.99 42 42
+chrome79.0 9 9
+firefox59.0 2 2
+chrome46.0.2490.80 2 2
+firefox68.0 2 2
+chrome80.0.3987.122 2 2
+safari6.0.5 10 0
+chrome73.0.3683.75 68 4
+chrome70.0.3538.102 57 3
+chrome45.0.2454.94 2 2
+msie10.0 12 0
+firefox56.0 2 2
+firefox60.0 28 28
+chrome34.0.1847.131 2 2
+safari6.1 2 0
+firefox54.0 4 4
+chrome32.0.1700.68 2 0
+firefox33.0 5 3
+firefox64.0 4 4
+chrome72.0.3626.109 9 9
+firefox27.0 10 0
+chrome80.0.3987.132 66 2
+Unknown 462 462
+chrome41.0.2224.3 1 1
+chrome34.0.1847.116 6 6
+chrome78.0.3904.87 52 52
+safari6.1.1 4 0
+chrome80.0.3987.149 6 6
+firefox27.3 6 0
+netscape5.0 2 2
+chrome81.0.4044.138 7 7
+chrome35.0.1916.47 4 4
+chrome71.0.3563.0 68 4
+chrome26.0.1410.63 2 2
+chrome31.0.1650.63 52 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Python/3.6_aiohttp/3.6.2 20200720083323
+Mozilla/5.0_zgrab/0.x 20200714075753
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200707163336
+Cpanel-HTTP-Client/1.0 20200711034437
+WordPress/5.0.10;_http://waseemorphali.com 20200731232120
+Mozilla/6.0_(compatible) 20200726121227
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200711051314
+Go-http-client/1.1 20200729093358
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20200729093358
+Cpanel-HTTP-Client/1.0 20200711034437
+Python/3.6_aiohttp/3.6.2 20200720083323
+WordPress/5.0.10;_http://waseemorphali.com 20200731232120
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 830 994
+From1 2 2
+From2 369 888
+From3 48 48
+From4 608 1520
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 367 886
+www_google_co_uk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://site.ru 42 42
+https://brandnewblogs.com 4 4
+http://www.facebook.net 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+406 987 220124
+302 58 0
+404 1107 9804892
+500 4 11744
+403 158 20770
+400 6 6
+301 295 484
+405 38 1596
+409 273 22659
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 423
+/wp-admin/includes/rnnvhs.php 1 -
+/create-cms-user.php 2 -
+/wp-content/plugins/background-image-cropper/new_license.php 4 http://site.ru
+/well-known.zip 1 -
+http://waseemorphali.com/panel/ 1 -
+/Mksfsxcb.php 2 -
+/wi.php 2 -
+/Mgxun.php 2 -
+/staging/wp-includes/wlwmanifest.xml 2 -
+/newsleter.php 2 http://site.ru
+/education/www.kfupm.edu.sa/ 14 http://www.google.com/url
+/404.php 4 http://site.ru
+/ob.php 2 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 2 -
+/index5.php 2 -
+/Martina.php 1 -
+/qq.php 1 -
+/wp-content/plugins/wp-uninstall.php 2 -
+/wp-admin/includes/wp-cods.php 1 -
+/wp-sgin.php 2 -
+/wp-content/plugins/way2register.php 1 -
+/Xuinvc.php 2 -
+/cool.php 2 -
+/rnnvhs.php 1 -
+/wp-content/themes/twentynineteen/styles.php.suspected 2 http://site.ru
+/wp-content/plugins/html404/xccc.php 6 http://site.ru
+/wp-content/themes/boxstyle/thumb.php 4 -
+/wp-content/uploads/2018/11/new_license.php.suspected 4 http://site.ru
+/beence.php 2 -
+/wp-content/plugins/libravatar-replace/libravatar-replace.php 2 waseemorphali.com
+/ads.txt 10 -
+/xmlrpz.php 2 -
+/bdhbjs.php 2 -
+/OLD/wp-admin/ 3 http://waseemorphali.com/
+/PvqDq929BSx_A_D_M1n_a.php 3 -
+/wp-pas.php 2 -
+/wp-includes/pomo/w7388n.php 1 -
+/OMC_template.gz 1 -
+/xmlrpcs.php 2 -
+/wp-content/themes/porto/footer.php 1 -
+/simp5.php 2 -
+/2018/wp-includes/wlwmanifest.xml 2 -
+/3index.php 2 -
+/wp-loadsnew.php 1 -
+/adm.php 3 -
+/content-post.php.suspected 2 http://site.ru
+/cache/wp_asx.php 2 http://site.ru
+/wp-content/themes/aemi1/404.php 4 http://site.ru
+/pinfon.php 1 -
+/wp-admin/includes/helpers.php 1 waseemorphali.com
+/wp-log-7.php 1 -
+/media-admin.php 4 http://site.ru
+/wp-caches.php 2 -
+/wp-content/plugins/szalog.php 1 -
+/backups.gz 1 -
+/wp-mial.php 2 -
+http://waseemorphali.com/adm.php 1 -
+/wp-includes/images/media/rss.php 1 -
+/Keiths.php 2 -
+/cache/doc.php.suspected 2 http://site.ru
+/wp-content/themes/hello.php 1 -
+http://waseemorphali.com/admin/adm.php 1 -
+/cache/doc.php 2 http://site.ru
+/wp-includes/theme-compat/comay.php 1 -
+/7index.php 2 -
+/vendor/phpunit/phpunit/LICENSE 2 -
+/site.zip 3 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 2 -
+/Tpdsfsnf.php 2 -
+/wp-content/plugins/cindex.php 2 -
+/app/etc/local.xml 2 -
+/_layouts/15/picker.aspx 2 -
+/Maserin.php 2 -
+/Hxnbfa.php 2 -
+/rsau.php 1 -
+/hwghvjrn.php 2 -
+/infos.php 1 -
+/ups.php.suspected 2 http://site.ru
+/wp-content/languages/ 2 -
+/wp-admin/theme-uploader.php 1 -
+/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 http://waseemorphali.com/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
+/wp-content/plugins/security-malware-firewall/js/spbc-admin.min.js 2 -
+/ion.php 2 -
+/wp-content/uploads/2019/03/wp-console.php 2 http://site.ru
+/Jshvasg.php 2 -
+/pqcsfx3h.php 2 -
+http://waseemorphali.com/login/admin.php 1 -
+/backup/wp-admin/ 3 http://waseemorphali.com/
+/docindex.php 2 http://site.ru
+/Wcwfmqcs.php 2 -
+/sitemap.xml 2 -
+/wp-admin/maint/mon.php 1 -
+/400.shtml 1 http://www.google.com/url
+/Archive.zip 2 -
+/wordpress/wp-admin/ 6 http://waseemorphali.com/
+/panel/ 3 -
+//telerik.web.ui.dialoghandler.aspx 1 -
+/LICENSE.txt 2 -
+/Evnsjg.php 2 -
+/.well-known.tar.gz 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/implementation-of-cyclic-redundancy-check-on-fpga%5C/%5C%22 1 http://www.google.com/url
+/wp-includes/css/newgolden.php 1 -
+/php404.php 2 -
+/wp-content/plugins/angwp/assets/js/embed/iframeResizer.contentWindow.min.js 2 -
+/wp-includes/wp-includes.php 2 http://site.ru
+/Gfedew.php 2 -
+/wp-admin/user/log.php 1 -
+/comments.php 1 -
+/tazz.php 2 -
+/.well-known.rar 1 -
+/wp-content/plugins/custom-css-js/assets/codemirror/suspect.sys.php 1 -
+/files 3 -
+/panel 3 -
+/wp-content/plugins/upgrade-network.php 1 -
+/assets/images/blackhat.php 1 -
+/common/admin/PhotoGallery2/telerik.web.ui.dialoghandler.aspx 2 -
+/an$$99.php 2 -
+/wp-content/themes/porto/framework/spyropress-context.php 1 -
+/contact/ 2 -
+/ReportServer/pages/ReportViewer.aspx 2 -
+/wp-includes/js/tinymce/global.php 1 -
+/wp-content/themes/404.php 2 http://site.ru
+/xml.php 4 http://site.ru
+/wp-admin/images/1index.php 1 -
+/post.php 1 -
+/wp-content/themes/twentyseventeen/ups.php 2 http://site.ru
+/wp-includes/class.wp-times.php 1 -
+/wp-includes/css/cokraimu.php 4 http://site.ru
+/bps.php 1 -
+/8index.php 2 -
+/options.php 1 -
+/wp-lgoin.php 4 http://site.ru
+/wp/wp-admin/ 2 http://waseemorphali.com/
+/DesktopModules/Admin/RadEditorProvider/telerik.web.ui.dialoghandler.aspx 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/implementation-of-tree-pattern-matching%5C/%5C%22 1 http://www.google.com/url
+/Pxcvsa.php 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/visually-servoed-rc-toy-car%5C/%5C%22 1 http://www.google.com/url
+/.well-known.zip 2 -
+/wp-content/plugins/contus-hd-flv-player/uploadVideo.php 2 http://www.google.com/
+/wp-content/app-locatlon.php 2 http://site.ru
+/wp-admin/includes/fdsj399jdsf.php 1 -
+/old/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/wp-mobile-detector/cache/db.php 2 -
+/wp-content/plugins/justsecure/justsecure.php 2 -
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 2 -
+/Marvins.php 2 -
+/dec.php 2 waseemorphali.com
+/wp-content/uploads/2020/07/doc.php 4 http://site.ru
+/service_account.json 2 -
+/dump.gzip 1 -
+/wp-xmlrpc.php 2 -
+/Adonis.php 2 -
+/backup.zip 1 -
+/wp-admin/css/aindex.php 1 -
+/wp-content/themes/busify/db.php 2 -
+/DesktopModules/RadEditorProvider/DialogHandler.aspx 2 -
+/wp-content/plugins/wpfoot.php 1 -
+/wp-admin/network/links-list-table.php 1 -
+/wp-includes/js/include.php 4 http://site.ru
+/confjg.php 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/experience%5C/%5C%22 1 http://www.google.com/url
+/wp-1ogin_bak.php 2 waseemorphali.com
+/controller.php 4 http://site.ru
+/money.php 4 -
+/panel/login.php 3 -
+/admin/adm.php 3 -
+/tmpe.php 1 -
+/wp-admin/maint/log.php 1 -
+/wp-content/uploads/2020/07/wp-plugins.php 4 http://site.ru
+/wp-tmp.php 1 -
+/backup.gz 1 -
+/staging/wp-admin/ 1 http://waseemorphali.com/
+/axmlprc.php 1 -
+/wp_honor.php 1 -
+/tong.php 1 -
+/login/login.php 3 -
+/wp-content/wp-content.php 2 http://site.ru
+/cache/ups.php.suspected 2 http://site.ru
+/wp-content/plugins/invit0r/lib/php-ofc-library/ofc_upload_image.php 2 http://waseemorphali.com/wp-content/plugins/invit0r/lib/php-ofc-library/ofc_upload_image.php
+/wp-content/plugins/easyrotator-for-wordpress/up.php 2 -
+/en-GB.php 2 -
+/wp-content/themes/error-log.php 1 -
+/consystem.php 2 -
+/uploader.php 4 http://site.ru
+/wp-content/uploads/2020/06/ups.php 2 http://site.ru
+/wp-includes/Requests/Cookie/helpers.php 1 waseemorphali.com
+/adm 3 -
+/wp_asx.php.suspected 4 http://site.ru
+/desktopmodules/dnnwerk.radeditorprovider/DialogHandler.aspx 2 -
+///vendor/phpunit/phpunit/phpunit.xsd 1 -
+/moa.php 2 -
+/azra.php 2 -
+http://waseemorphali.com/PvqDq929BSx_A_D_M1n_a.php 1 -
+http://waseemorphali.com/uadmin/adm.php 1 -
+/Dbs.php 2 -
+/telerik.web.ui.dialoghandler.aspx 1 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/SocketIasrgasfontrol.php 1 -
+/backups.tar.gz 1 -
+/used.php 2 -
+/ajax-index.php 3 -
+/bcvnmx.php 2 -
+/wp-content/plugins/radykal-fancy-gallery/admin/generate-code.php 4 http://www.google.com/
+/v2/wp-includes/wlwmanifest.xml 2 -
+/hetlerx.php 1 -
+/o.php 4 http://site.ru
+/wp-content/plugins/fAaWBH.php 1 -
+/wp-checking.php 1 -
+/wp-cokd.php 1 -
+/news.php 1 -
+/wp-content/themes/peekaboo/functions.php 1 -
+/sqlibak.php 1 -
+/beta/wp-includes/wlwmanifest.xml 2 -
+/502.shtml 1 -
+/home.php 3 -
+/backup.tar.gz 1 -
+/wp-includes/Text/Diff/Engine/embed.php 2 http://site.ru
+/DesktopModules/RadEditorProvider/telerik.web.ui.dialoghandler.aspx 2 -
+/wp-content/themes/boxstyle/AjaxLoader.gif 2 -
+/wp-includes/images/hon2our.php 1 -
+/wp-content/uploads/2019/index.php 1 -
+http://waseemorphali.com/home.php 1 -
+/xfx.php 2 -
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 2 -
+/Ppkuhp.php 2 -
+/wp-content/plugins/rnnvhs.php 1 -
+/uadmin/adm.php 3 -
+/wp-content/uploads/2020/03/ups.php 2 http://site.ru
+/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-mu-backend.js 4 -
+http://waseemorphali.com/login.php 1 -
+/cgi-bin.zip 2 -
+/wp-admin/css/colors/blue/engine_functions.php 1 -
+/_input_3_wolf.php5 2 -
+/wp-config-samsples.php 4 http://site.ru
+/OMC_template.zip 1 -
+/maps.php 1 -
+/education/www.njit.edu/ 12 -
+/Tmcnva.php 2 -
+/.git/HEAD 2 -
+http://waseemorphali.com/panel/login.php 1 -
+/wp-admin/user/updater.php 1 -
+/wp-content/plugins/BirdsRios.php 1 -
+/Uncdsx.php 2 -
+/admin/Cms_Wysiwyg/directive/index/ 2 -
+/x1.php 2 -
+/a 4 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/wi-fi-enabled-ac-thermostat%5C/%5C%22 1 http://www.google.com/url
+/yjh.php 1 -
+/wp-includes/include.php 8 http://site.ru
+/robots.txt 1 -
+/error-logs.php 1 -
+/panel/admin.php 3 -
+/wp-admin/includes/lock46.php 1 -
+/writebab.php 1 -
+/new/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/js/user.php 1 -
+/4index.php 2 -
+/87/ 4 http://site.ru
+/wp-content/themes/boxstyle/timthumb.php 4 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/images/ups.php 2 http://site.ru
+/wp-content/plugins/background-image-cropper/new_license.php.suspected 2 http://site.ru
+/wp-content/a.php 6 http://site.ru
+/asfewfefs.php 1 -
+/wp-admin/images/8index.php 1 -
+/login/admin.php 3 -
+/adminer/adminer.php 8 -
+/mide.php 2 -
+/wp-content/plugins/akismet/classes.php 2 -
+/dev/wp-includes/wlwmanifest.xml 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/education%5C/%5C%22 1 http://www.google.com/url
+/d.php 2 -
+/wp-includes/mvp.php 2 -
+/imdex.php 1 -
+/wp-includes/css/upload.php 1 -
+/1.txt 2 -
+/wp-content/plugins/BirdsRio.php 1 -
+/test.php 1 -
+/mdocs-posts/ 2 -
+/nclea.php 2 -
+/new_license.php 4 http://site.ru
+/web/wp-includes/wlwmanifest.xml 2 -
+/demo/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/Malions.php 1 -
+/wp-includes/pomo/7313581d9a.php 1 -
+/wp-content/plugins/mailcwp/mailcwp-upload.php 2 http://www.google.com/
+http://waseemorphali.com/login/login.php 1 -
+/wp-content/plugins/caches.php 1 -
+/wp-admin/network/opengraph.php 1 -
+/payload3.php 4 http://site.ru
+/login.php 3 -
+/public_html.zip 1 -
+/humans.txt 8 -
+/wp-includes/class-snoopi.php 2 http://site.ru
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 2 waseemorphali.com
+/logs 3 -
+/wp-content/plugins/security-malware-firewall/js/spbc-admin.js 2 -
+/backup.rar 1 -
+/wp-content/plugins/thumbnail.php 1 -
+/87/5.php 4 http://site.ru
+//DialogHandler.aspx 1 -
+/assets/images/new_license.php 2 -
+/wp-content/wp-img.php 4 http://site.ru
+/adm/adm.php 3 -
+/mini.php 4 http://site.ru
+/wp-content/uploads/wp-dba.php 2 waseemorphali.com
+/prv8.php 2 -
+/th1s_1s_a_4o4.html 62 -
+/old/wp-admin/ 4 http://waseemorphali.com/
+/gtrn.php 2 -
+/panel.php 3 -
+/sockarp.php 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/all-in-one-seo/all-in-one-seo.php 1 -
+/wp-admin.zip 2 -
+http://waseemorphali.com/logs 1 -
+/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php 2 http://waseemorphali.com/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php
+/assets/images/ups.php.suspected 4 http://site.ru
+/Keith.php 1 -
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 1 -
+/modules/shop/manage/telerik.web.ui.dialoghandler.aspx 2 -
+/backups.zip 1 -
+/new_side.php.suspected 4 http://site.ru
+/bgeiis.php 1 -
+/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php 2 waseemorphali.com
+/images/google-assist.php 1 -
+/Wdgvx.php 2 -
+/reade.php 1 -
+/Mmjye.php 2 -
+/ 183 -
+/wp-content/uploads/2019/03/content-post.php 2 http://site.ru
+/dev/wp-admin/ 1 http://waseemorphali.com/
+/wp-content/plugins/cherry-plugin/admin/import-export/xo.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/chores-tracker-using-pic16f88-mcu%5C/%5C%22 1 http://www.google.com/url
+/mobile_detect.php 1 -
+/home/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/stats/as.php 2 -
+/installer.php 6 -
+/wordpress.zip 1 -
+/xm1rpe.php 2 -
+/wp-admin/wp-caches.php 1 http://site.ru
+/wp-admin.php 2 http://site.ru
+/main/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/SocketIontrol.php 1 -
+/accesson1.php 1 -
+/wp-includes/wp-simple.php 2 -
+/// 1 -
+/admin/.env 8 -
+/indax.php 1 -
+/backup.gzip 1 -
+/Ucsdva.php 2 -
+/wp-includes/theme-compat/files.php 1 -
+/admin.php 4 -
+/wp-content/plugins/background-image-cropper/ups.php.suspected 4 http://site.ru
+/wp-includes/upgrade/theme-compat/popup-pomo.php 4 http://site.ru
+/mon.php 2 -
+/wpcache.php 1 -
+/wp-includes/css/goh.php 1 -
+/components/com_foxcontact/_func.php 2 -
+/sfn.php 1 -
+/wp-admin/user/fronqx.php 1 -
+/backup/wp-includes/wlwmanifest.xml 2 -
+/wp-admin/network/rnnvhs.php 1 -
+/wp-content/upgrade/wp/wp.php 2 waseemorphali.com
+/wp-content/plugins/background-image-cropper/beence.php 2 -
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 2 http://waseemorphali.com/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/waseemorphali.com%5C/%5C%22 4 http://www.google.com/url
+http://waseemorphali.com/panel/admin.php 1 -
+/trackback.php 1 -
+http://waseemorphali.com/files 1 -
+http://waseemorphali.com/panel 1 -
+/configindex.php 2 -
+/res.php.suspected 4 http://site.ru
+/DialogHandler.aspx 1 -
+/wp-includes/SimplePie/Parse/Parse.php 1 -
+http://waseemorphali.com/adm/adm.php 1 -
+/wp-admin/maint/helpers.php 1 waseemorphali.com
+/55index.php 2 http://site.ru
+/wp-content/plugins/func.php 1 -
+/XAttacker.php 2 -
+/siteindex.php 4 -
+/Kdgqnqvj.php 2 -
+/wp-content/themes/oceanwp/assets/js/third/%url% 1 http://www.google.com/url
+/.well-known.gzip 1 -
+/wp-content/plugins/Wp-LayerSlider/layerslider.php 1 -
+/wp-content/uploads/2020/07/content-post.php 2 http://site.ru
+/unz.php 2 -
+http://waseemorphali.com/panel.php 1 -
+/.well-known.gz 1 -
+/wp-content/plugins/background-image-cropper/ups.php 4 http://site.ru
+/11.php 1 -
+/Mdfege.php 2 -
+/Oxcdnv.php 2 -
+/wp-config 2 -
+/Jvnmcxb.php 2 -
+/OMC_template.tar.gz 1 -
+/wp-content/themes/twentynineteen/styles.php 2 http://site.ru
+/ups.php 4 http://site.ru
+/Mqwer.php 2 -
+/sym.php 2 -
+/aindex.php 2 -
+/isu.php 4 http://site.ru
+/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/wp-admin/includes/menustype.php 1 -
+http://waseemorphali.com/adm 1 -
+/wp-includes/css/info.php 1 -
+/Providers/HtmlEditorProviders/Telerik/telerik.web.ui.dialoghandler.aspx 2 -
+/wp-content/themes/jki/wp_asx.php.suspected 2 http://site.ru
+/installer-backup.php 6 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/waseemorphali.com.zip 3 -
+/1index.php 2 -
+/search.php 1 -
+/admin/admin.php 4 -
+/wp-content/themes/fincorp/about3.php 4 http://site.ru
+/Boyces.php 2 -
+/shop 2 -
+/wp-includes/wp-caches.php 4 http://site.ru
+/ludk.php 1 -
+/vuln.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 213
+108.167.181.242 500 500 5584 20200731232120
+184.154.139.48 113 289 6811110 20200728192356
+184.154.139.25 85 191 4164462 20200730192218
+51.158.153.221 71 71 318802 20200713003402
+51.158.153.223 60 60 239259 20200711050030
+51.158.153.222 58 58 133766 20200713003403
+184.154.139.46 57 135 2840374 20200731191731
+51.158.153.224 53 53 124919 20200714131811
+184.154.76.23 49 117 2867114 20200724192123
+51.158.153.225 48 48 120762 20200714160922
+184.154.139.47 41 102 2509124 20200726191707
+23.82.28.78 29 69 765714 20200705183648
+107.172.255.250 29 75 1070522 20200723054701
+69.4.234.44 29 105 1443888 20200730085027
+23.95.219.206 29 105 1443890 20200719042430
+107.175.158.58 29 105 1443886 20200722005054
+184.154.139.24 22 52 1483837 20200729192725
+144.217.73.217 19 19 523798 20200707162554
+69.160.160.52 18 82 930964 20200710165601
+82.80.249.192 16 108 8058659 20200726121028
+218.94.117.234 12 76 1048298 20200723092920
+61.160.236.22 12 12 286340 20200729070938
+111.251.200.154 11 11 2266 20200730203649
+220.142.173.205 11 11 2266 20200729033744
+178.234.252.94 11 11 2266 20200730204006
+3.120.124.42 2 2 19374 20200714204302
+159.203.81.93 1 1 17908 20200729033619
+178.128.226.90 1 1 0 20200701202925
+52.138.0.111 9 9 213333 20200728151200
+77.74.177.114 2 2 19434 20200707012231
+220.137.37.11 9 9 1854 20200730204202
+31.211.86.13 2 2 70386 20200717213758
+82.165.118.249 2 2 19434 20200728003856
+42.112.36.38 4 4 0 20200731044514
+40.94.228.93 0 12 87844 
+62.109.30.26 2 2 0 20200731135916
+178.137.82.147 3 3 71111 20200708225122
+36.77.40.57 2 2 70540 20200720014839
+134.209.194.240 2 2 70540 20200701214648
+82.80.249.211 2 2 19434 20200726120902
+188.163.89.115 2 2 19434 20200717164329
+91.121.79.16 2 2 36936 20200717125113
+27.22.10.159 6 6 1236 20200729034045
+13.64.93.136 3 7 112054 20200717082938
+34.70.109.186 2 2 19434 20200716110547
+89.187.168.162 2 2 70540 20200702100653
+82.80.249.204 0 2 127236 
+186.215.195.249 2 2 70540 20200728132626
+13.84.146.71 3 3 71111 20200726205645
+52.188.70.197 2 2 70540 20200719232121
+107.170.96.6 2 2 19434 20200729033612
+69.50.235.7 2 2 19434 20200711185157
+34.209.232.166 4 4 348 20200711051313
+14.187.113.97 4 4 20220 20200713044344
+202.143.111.220 4 4 30317 20200716004806
+92.253.200.151 2 2 19434 20200706084952
+82.80.249.155 0 10 594178 
+3.235.109.141 6 6 47146 20200702202427
+199.244.88.132 4 4 38868 20200727063858
+195.54.167.190 3 3 71111 20200716131157
+40.94.36.47 0 9 152946 
+103.27.236.185 4 4 19434 20200709232747
+64.246.161.30 2 2 19434 20200714211854
+40.94.36.41 0 9 70891 
+138.91.121.200 3 3 71111 20200712025254
+3.214.184.141 2 2 19434 20200726144235
+35.225.8.194 2 2 19434 20200705105248
+187.189.85.162 2 2 70540 20200722180550
+13.90.36.10 3 3 71111 20200730032614
+92.249.158.140 2 2 19434 20200703201148
+82.80.230.228 0 92 10282340 
+192.36.52.37 4 4 38868 20200721060257
+192.36.71.133 2 2 19434 20200729093358
+178.62.82.141 6 6 52322 20200711053612
+34.212.160.115 2 2 70540 20200716172023
+115.84.99.60 2 2 70540 20200725130357
+34.213.178.17 1 1 35270 20200717082605
+18.217.223.118 2 2 41260 20200728052558
+152.89.128.119 2 2 19434 20200705010020
+82.80.249.133 0 2 48416 
+18.223.114.140 2 2 19434 20200705144103
+202.137.141.41 1 1 35270 20200706064913
+13.82.209.176 3 3 71111 20200711073633
+164.90.208.214 2 2 70540 20200729062751
+3.14.148.12 2 2 19434 20200722133534
+18.191.173.78 2 2 19434 20200719141749
+40.94.228.90 2 14 234646 20200715091726
+89.46.105.246 6 6 416 20200731133344
+82.80.249.152 0 6 209400 
+35.225.242.193 2 2 19434 20200714052017
+3.129.44.245 2 2 19434 20200715141120
+18.189.11.42 2 2 19434 20200729142156
+78.46.120.51 4 4 8682 20200725112415
+3.14.255.131 6 6 522 20200711051313
+113.161.37.126 2 2 70540 20200725125151
+185.5.236.191 2 2 382 20200731103420
+54.37.121.239 4 4 764 20200731033601
+52.28.236.88 6 6 522 20200711051314
+94.103.95.137 2 2 70540 20200713034957
+62.210.83.78 6 6 58302 20200727194339
+52.142.12.83 3 3 71111 20200715073451
+54.188.33.14 1 1 35270 20200717082711
+40.94.228.20 0 14 97784 
+193.106.30.99 9 9 9846 20200731220642
+193.53.87.246 4 4 82132 20200729134623
+91.208.99.2 4 4 31836 20200729103147
+185.195.237.203 2 2 7174 20200704090327
+40.94.36.32 0 9 239283 
+34.244.84.228 2 2 19434 20200714123708
+72.221.232.137 2 2 70540 20200731074232
+3.12.198.104 2 2 19434 20200706133700
+101.109.82.55 1 1 3337 20200720014918
+34.244.103.91 4 4 29964 20200702202810
+51.161.52.46 2 2 19434 20200714190552
+51.91.218.19 2 66 810734 20200707163331
+157.55.182.119 3 3 71111 20200727221256
+115.146.122.250 2 2 428 20200730132913
+35.185.204.233 2 2 19434 20200720083323
+198.46.81.20 2 2 428 20200731141613
+82.80.244.51 0 2 83682 
+192.95.30.228 2 2 70540 20200729112501
+13.58.48.20 2 2 19434 20200728133923
+34.244.31.11 2 2 996 20200715115959
+34.222.133.168 2 2 70540 20200716172022
+52.12.173.127 1 1 35270 20200716172106
+193.239.44.212 4 4 832 20200731063304
+3.235.77.76 2 2 19434 20200723133449
+186.215.197.15 1 1 35270 20200717050343
+94.23.216.167 2 2 70386 20200730084259
+46.30.40.97 2 2 0 20200731140629
+108.162.28.6 2 2 70540 20200719212650
+3.236.122.144 4 4 38868 20200716134455
+93.159.230.28 2 2 19434 20200721012723
+13.90.205.57 2 2 70540 20200715075320
+82.80.249.227 0 6 469780 
+86.165.46.37 4 74 1919032 20200728052557
+82.80.249.143 0 16 1331746 
+31.42.189.222 2 2 19434 20200718021547
+51.79.111.220 3 3 71111 20200715202944
+149.202.196.101 2 2 356 20200730120931
+113.161.54.47 1 1 35270 20200728135734
+83.143.86.62 2 2 19434 20200714075753
+128.199.152.0 2 2 70540 20200731095639
+72.221.232.144 2 2 70540 20200708185925
+54.202.155.126 2 2 19434 20200709082207
+46.101.189.207 2 2 70540 20200720073254
+54.38.81.231 4 68 970562 20200727042216
+3.15.32.172 2 2 19434 20200703133956
+138.197.5.152 1 1 3337 20200727172236
+37.120.203.75 2 2 70540 20200730161237
+3.236.113.167 2 2 19434 20200709130725
+94.158.36.183 2 2 70540 20200712232628
+82.80.249.164 0 10 283898 
+77.234.43.186 4 68 965054 20200710095548
+52.237.163.31 3 3 71111 20200725003148
+135.181.24.54 2 2 19434 20200715135735
+40.94.36.82 3 13 245780 20200716172606
+51.83.216.204 2 2 70540 20200709042644
+13.58.159.114 2 2 19434 20200702131943
+64.78.149.164 10 10 870 20200711051313
+183.89.229.114 2 2 70540 20200728135318
+45.90.58.33 2 2 70540 20200701130630
+82.80.249.157 0 6 672626 
+183.89.215.209 1 1 35270 20200722174510
+18.196.96.172 4 4 348 20200711051313
+34.222.229.130 6 6 522 20200711051313
+163.172.190.168 2 2 19434 20200729091807
+72.166.243.197 2 2 70540 20200722173725
+141.164.42.135 2 2 19434 20200719054446
+52.15.254.228 4 4 348 20200711051313
+34.239.168.71 2 2 19434 20200708141805
+142.93.157.53 1 1 0 20200701202926
+222.187.86.54 3 3 29151 20200713031825
+3.236.52.117 2 2 19434 20200713134526
+217.138.217.57 5 5 73201 20200728022105
+162.246.22.20 2 2 19434 20200731035618
+144.168.162.250 2 2 70540 20200716201231
+40.94.36.44 0 11 83041 
+40.94.228.8 0 10 185262 
+192.71.42.108 2 2 19434 20200714002107
+185.10.99.21 4 4 712 20200731140039
+52.37.39.45 2 2 19434 20200702081906
+34.212.171.119 2 2 19434 20200725171833
+40.87.31.172 2 2 70540 20200720035751
+80.82.66.250 2 2 70540 20200720014832
+40.94.228.56 2 10 370026 20200715091730
+192.82.58.54 1 1 3337 20200704200518
+18.218.220.119 2 2 19434 20200710141543
+202.129.16.149 3 3 71111 20200706103955
+134.122.81.136 4 4 72630 20200708191200
+183.89.212.145 2 2 69026 20200706064548
+198.71.227.10 5 5 83250 20200703043516
+3.227.211.121 2 2 19434 20200717141421
+82.80.249.194 0 4 61718 
+3.235.78.101 2 2 19434 20200707131433
+77.234.68.68 2 2 19434 20200718091942
+40.94.228.85 0 10 25606 
+35.175.172.70 2 2 19434 20200714133735
+13.58.77.128 2 2 19434 20200701140642
+92.124.217.94 1 1 35270 20200731074331
+220.156.166.24 2 2 70540 20200722174810
+14.152.90.33 3 3 29151 20200729041701
+185.206.225.141 2 2 70540 20200724025823
+40.94.36.26 0 6 15193 
+23.234.27.105 2 2 2090 20200720015041
+18.191.206.200 2 2 19434 20200730135105
+3.21.240.98 2 2 19434 20200724133451
+18.222.98.35 2 2 19434 20200721134453
+34.214.160.109 2 2 70540 20200717082559
+34.247.40.149 2 2 996 20200727121324
+3.236.17.112 2 2 19434 20200720142139
+3.237.17.238 2 2 19434 20200712142512
+174.76.35.28 1 1 35270 20200731074611
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200701 26 38 792762 14
+20200702 43 61 914491 15
+20200703 36 116 1647991 12
+20200704 16 28 611702 7
+20200705 69 121 1310895 14
+20200706 36 58 974383 15
+20200707 51 133 2209299 15
+20200708 48 70 1113003 13
+20200709 99 117 1306570 19
+20200710 256 396 2981033 23
+20200711 153 163 563004 26
+20200712 32 44 714891 10
+20200713 52 64 712910 19
+20200714 49 67 843641 21
+20200715 57 170 3291907 15
+20200716 49 117 1846891 20
+20200717 35 57 1030250 19
+20200718 27 39 651037 12
+20200719 57 147 2368177 15
+20200720 39 59 1155256 18
+20200721 31 39 461723 13
+20200722 69 163 2196303 14
+20200723 53 125 1811841 9
+20200724 24 40 699594 9
+20200725 46 64 938968 18
+20200726 40 302 22804669 10
+20200727 41 123 1723809 18
+20200728 62 152 3193456 23
+20200729 73 85 1049602 22
+20200730 108 206 2391354 22
+20200731 80 88 762561 30
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 7
+15mn-30mn 19
+30s-2mn 16
+30mn-1h 36
+1h+ 35
+0s-30s 397
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 207
+/wp-cron.php 430 0 255 257
+/ 392 8590171 190 127
+/implementation-of-cyclic-redundancy-check-on-fpga/ 61 1186953 0 7
+/xmlrpc.php 58 13008 5 5
+/Chores-Tracker-using-pic16f88-mcu/ 52 816458 0 5
+/experience/ 48 1320304 0 1
+/wp-includes/wlwmanifest.xml 46 42260 1 4
+/wi-fi-enabled-ac-thermostat/ 42 668976 0 0
+/feed/ 36 29104 2 7
+/wp-login.php 35 112629 3 22
+/visually-servoed-rc-toy-car/ 34 576758 0 1
+/implementation-of-tree-pattern-matching/ 34 529526 0 0
+/wp-json/oembed/1.0/embed 29 53885 0 0
+/comments/feed/ 28 15848 0 1
+/education/ 28 428672 0 2
+/wp-json/ 15 766374 1 1
+/wp-json/wp/v2/users/ 15 8565 0 15
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 11 848760 1 6
+/.well-known/acme-challenge/QHyzs7USFRDvg9WuvkrpPT7rotV9eYt-pmFjwx93blE 8 696 0 4
+/.well-known/acme-challenge/fuxQ0zQ_pmHX5RyOeeYu7Dvu2hAKR8xshMldYx8mw9s 8 696 0 3
+/.well-known/acme-challenge/27dzLsw8ZjhhmDmREngk1hEeEjtMUhK-3zMnqGJX79E 8 696 3 0
+/.well-known/acme-challenge/0CHHZFBjtyRzELuOBk_MKm50N4l1lmI3YNz2WAkOEaw 8 696 1 0
+/.well-known/acme-challenge/7c5I7BqniwXpxQVzt2_ffulHSvMXM9B9UseHNEd3330 8 696 0 0
+/.well-known/acme-challenge/o-6CGyoykZGrvXmzhjkQlmSShg752WLNpc2sdjllJG4 8 696 0 0
+/.well-known/acme-challenge/M_P3UW1r0BskeMWAMYrfwqsHorH4YeZFCdfnyQnsyM0 8 696 0 0
+/wp-includes/widgets/ 2 8850 0 1
+/.well-known/acme-challenge/AZ5C7WBKODL5_82RUVQSG9KZ7HJBVNGE 2 128 0 0
+/wp-admin/js/ 1 16832 1 1
+/wp-includes/css/dist/edit-post/ 2 2790 0 0
+/wp-includes/css/dist/format-library/ 2 2810 0 0
+/wp-content/uploads/2019/10/ 2 1332 0 0
+/wp-includes/js/mediaelement/renderers/ 2 2096 0 0
+/wp-includes/SimplePie/XML/Declaration/ 2 1736 0 0
+/wp-content/uploads/2020/03/ 2 1332 0 0
+/wp-includes/theme-compat/ 2 4552 0 1
+/.well-known/acme-challenge/105ZHFI7LKQZE5S5UL122C3WF9XXFV3V 2 128 0 0
+/wp-admin/images/ 2 25728 1 1
+/wp-includes/js/tinymce/themes/inlite/ 2 2096 0 0
+/wp-includes/js/jquery/ 2 7994 0 0
+/wp-includes/js/dist/ 2 28590 0 0
+/wp-includes/js/tinymce/skins/lightgray/ 2 3188 0 0
+/wp-includes/js/dist/vendor/ 2 8092 0 0
+/.well-known/acme-challenge/19C3I35CCCSREI9KJ0PAN0QNWOIVKPKT 2 128 0 0
+/wp-includes/js/codemirror/ 2 3846 0 0
+/wp-content/themes/ 2 0 1 1
+/wp-includes/formatting.php 6 0 2 2
+/wp-admin/css/colors/ocean/ 1 1567 0 1
+/wp-includes/Requests/Response/ 2 1696 0 0
+/wp-includes/SimplePie/Parse/ 2 1684 0 0
+/wp-includes/blocks/ 2 3458 0 0
+/wp-includes/js/tinymce/plugins/media/ 2 2102 0 0
+/wp-includes/Requests/Utility/ 2 2110 0 0
+/wp-includes/Requests/ 2 8378 1 0
+/wp-includes/images/ 2 11490 0 0
+/wp-includes/js/crop/ 2 2734 0 0
+/wp-includes/js/tinymce/plugins/lists/ 2 2102 0 0
+/wp-content/uploads/elementor/thumbs/ 2 2870 0 1
+/wp-includes/js/tinymce/plugins/wptextpattern/ 2 2134 0 0
+/wp-includes/js/tinymce/plugins/charmap/ 2 2110 0 0
+/wp-includes/SimplePie/Cache/ 2 3098 0 0
+/wp-includes/IXR/ 2 5076 1 0
+/author/waseem/ 4 14348 1 1
+/wp-admin/css/colors/light/ 1 1567 0 1
+/wp-includes/images/crystal/ 2 4900 0 0
+/wp-content/uploads/2019/09/ 2 1332 0 0
+/wp-includes/css/dist/editor/ 2 4296 0 0
+/wp-includes/css/dist/block-library/ 2 5710 0 0
+/wp-includes/SimplePie/Content/ 2 1686 0 0
+/wp-includes/Requests/Hooker.php 1 0 1 1
+/wp-includes/js/tinymce/plugins/wpautoresize/ 2 2130 0 0
+/wp-includes/ms-load.php 1 0 1 0
+/wp-includes/js/tinymce/plugins/ 2 9132 0 0
+/wp-load.php 2 0 1 0
+/wp-includes/Text/Diff/Engine/ 2 2756 0 0
+/wp-includes/css/dist/components/ 2 2794 0 0
+//wp-json/wp/v2/users/ 1 254 0 1
+/wp-content/uploads/ 2 2668 1 0
+/wp-includes/js/tinymce/plugins/paste/ 2 2102 0 0
+/wp-content/uploads/2020/01/ 2 1332 0 0
+/wp-content/uploads/2019/01/ 2 4754 0 0
+/wp-content/uploads/2019/06/ 2 1332 0 0
+/wp-includes/js/tinymce/themes/ 2 2042 0 0
+/wp-includes/rest-api/search/ 2 2152 0 1
+/wp-content/uploads/2020/04/ 2 1332 0 0
+/wp-includes/js/ 6 123198 1 1
+/wp-includes/customize/class-wp-widget-form-customize-control.php 4 856 2 2
+/wp-includes/js/tinymce/utils/ 2 2786 0 0
+/wp-includes/js/tinymce/plugins/image/ 2 2102 0 0
+/wp-content/uploads/2020/02/ 2 1332 1 0
+/wp-includes/js/tinymce/plugins/fullscreen/ 2 2122 0 0
+/wp-content/uploads/2019/05/ 2 1332 0 0
+/wp-includes/js/tinymce/langs/ 2 1702 0 0
+/wp-content/uploads/2020/07/ 2 1332 0 1
+/wp-includes/js/tinymce/plugins/compat3x/css/ 2 1788 0 0
+/wp-includes/js/tinymce/plugins/link/ 2 2098 0 0
+/wp-admin/css/colors/ 1 2410 1 0
+/.well-known/acme-challenge/IUGF7SIG4ZHISHPNO9JQRRGWT0XIXDLP 2 128 0 0
+/wp-includes/js/tinymce/plugins/directionality/ 2 2138 0 0
+/wp-includes/js/tinymce/themes/modern/ 2 2096 0 0
+/wp-includes/SimplePie/HTTP/ 2 1684 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/ 2 2118 0 0
+/wp-content/uploads/elementor/css/ 2 4240 0 1
+/wp-includes/js/mediaelement/ 2 8554 0 0
+/wp-includes/js/tinymce/ 2 4868 0 0
+/wp-includes/class-wp-xmlrpc-server.php 6 1068 2 2
+/wp-includes/SimplePie/Net/ 2 1676 0 0
+/wp-content/uploads/2020/ 2 3704 0 0
+/wp-includes/js/tinymce/plugins/compat3x/ 2 2458 0 0
+/wp-admin/css/colors/midnight/ 1 1573 0 0
+/wp-content/uploads/2019/02/ 2 1332 0 0
+/wp-admin/maint/ 1 805 1 1
+/wp-content/uploads/2019/04/ 2 1332 0 0
+/wp-admin/css/colors/sunrise/ 1 1571 0 1
+/wp-includes/SimplePie/ 2 11220 0 0
+/wp-includes/css/dist/list-reusable-blocks/ 2 2834 0 0
+/wp-includes/Requests/Auth/ 2 1676 0 0
+/wp-config.php 2 0 0 1
+/wp-includes/ 2 72536 1 0
+/wp-includes/SimplePie/XML/ 2 1684 0 0
+/wp-admin/js/widgets/ 1 3313 1 1
+/wp-admin/css/colors/coffee/ 1 1569 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/ 2 4350 0 0
+/wp-content/uploads/2018/11/ 2 5164 1 0
+/.well-known/acme-challenge/C328COMOKTE0J4ND43L8TUDDOJAUSSTK 2 128 0 0
+/wp-includes/ID3/ 2 8464 1 0
+/wp-content/uploads/2018/ 2 2336 1 0
+/wp-content/uploads/2020/06/ 2 1332 0 1
+/wp-includes/fonts/ 2 2722 0 0
+/wp-content/uploads/2019/08/ 2 1332 0 0
+/wp-content/uploads/2018/03/ 2 1332 1 0
+/wp-includes/Requests/Exception/ 2 2758 0 0
+/wp-includes/Requests/Proxy/ 2 1678 0 0
+/wp-includes/js/tinymce/plugins/hr/ 2 2090 0 0
+/wp-includes/js/tinymce/plugins/wpdialogs/ 2 2118 0 0
+/wp-admin/css/colors/blue/ 1 1565 1 0
+/wp-includes/js/tinymce/skins/wordpress/ 2 2104 0 1
+/wp-content/uploads/2019/12/ 2 42160 0 0
+/wp-content/uploads/2020/05/ 2 1332 0 0
+/wp-includes/Requests/Cookie/ 2 1680 0 0
+/wp-includes/css/dist/ 2 3808 0 0
+/wp-includes/js/thickbox/ 2 2762 0 0
+/wp-includes/js/tinymce/plugins/textcolor/ 2 2118 0 0
+/wp-includes/js/tinymce/skins/wordpress/images/ 2 6148 0 0
+/wp-includes/js/jquery/ui/ 2 14974 0 0
+/wp-includes/Text/ 2 1966 0 0
+/.well-known/acme-challenge/UQM1_HI2LCB3XKXDWQ4QYXO62TAC-GLY 2 128 0 0
+/wp-includes/customize/ 2 16116 0 0
+/wp-includes/js/tinymce/plugins/wordpress/ 2 2118 0 0
+/.well-known/acme-challenge/KOYU_3RobrSD1cGIl2eB3goIEaUgbBdsMFKpY_NkJOg 8 696 1 0
+/wp-includes/js/tinymce/plugins/wpemoji/ 2 2110 0 0
+/wp-includes/images/media/ 2 4534 0 0
+/wp-content/upgrade/ 2 1274 1 1
+/wp-includes/feed-atom-comments.php 6 1146 2 2
+/wp-includes/rest-api/ 2 3516 0 1
+/wp-content/uploads/2019/03/ 2 155230 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/ 2 2126 0 0
+/wp-content/index.php 1 0 1 1
+/.well-known/acme-challenge/B0OUXNDBD2-OQAXED-L00QP93TZU9JB5 2 128 0 0
+/wp-includes/SimplePie/Decode/HTML/ 2 1730 0 0
+/wp-includes/Requests/Exception/HTTP/ 2 12940 0 0
+/wp-content/plugins/ 2 0 1 1
+/wp-includes/customize/class-wp-customize-theme-control.php 6 1248 2 2
+/wp-includes/Text/Diff/ 2 2362 0 0
+http://waseemorphali.com/wp-login.php 1 3337 1 1
+/wp-includes/js/jcrop/ 2 2394 0 0
+/chores-tracker-using-pic16f88-mcu/ 8 136562 2 1
+/wp-includes/js/tinymce/skins/ 2 2050 0 0
+/wp-includes/locale.php 1 157 0 0
+/wp-includes/images/wlw/ 2 2398 0 0
+/wp-includes/certificates/ 2 1662 0 0
+/wp-admin/css/ 1 19333 1 0
+/wp-admin/css/colors/ectoplasm/ 1 1575 0 0
+/.well-known/acme-challenge/YX9J17PJYJMRHO2540IUXEJ4MAK540FC 2 128 0 0
+/wp-includes/rest-api/endpoints/ 2 7990 0 0
+/wp-content/uploads/2018/12/ 2 34310 0 0
+/wp-content/uploads/2019/07/ 2 1332 0 0
+/wp-admin/includes/ 1 18744 1 1
+/wp-content/uploads/2019/11/ 2 1332 0 0
+/wp-includes/js/tinymce/skins/lightgray/img/ 2 2848 0 0
+/wp-includes/js/plupload/ 2 4556 0 0
+/wp-includes/images/smilies/ 2 10794 0 0
+/wp-includes/rest-api/fields/ 2 3376 0 0
+/wp-includes/js/tinymce/plugins/wplink/ 2 2106 0 0
+/wp-includes/js/tinymce/plugins/colorpicker/ 2 2126 0 0
+/wp-includes/Text/Diff/Renderer/ 2 1700 0 0
+/search/To+search+type+and+hit+enter/feed/rss2/ 2 2338 0 0
+/wp-includes/js/tinymce/plugins/tabfocus/ 2 2114 0 0
+/wp-includes/pomo/ 2 3412 0 0
+/wp-includes/css/ 6 47754 1 1
+/.well-known/acme-challenge/5DlYeJAv5i7W2O9LcjhTJMjkVK_GOpHBhOTG9o9djj8 8 696 3 0
+/wp-includes/deprecated.php 6 0 2 2
+/wp-includes/SimplePie/Content/Type/ 2 1734 0 0
+/wp-includes/Requests/Exception/Transport/ 2 1754 0 0
+/wp-includes/js/imgareaselect/ 2 3210 0 0
+/wp-includes/Requests/Transport/ 2 2056 1 0
+/wp-content/uploads/elementor/ 2 2024 0 1
+/wp-includes/js/swfupload/ 2 2748 0 0
+/wp-includes/css/dist/nux/ 2 2766 0 0
+/.well-known/acme-challenge/hGjT44AFgHl8XF5zkN3AJaHMIW-HlCJTWrokoUudFTs 8 696 0 0
+/wp-content/uploads/2019/ 2 5414 0 0
+/.well-known/acme-challenge/XWE3UG2JMIUBV__R0D8CV93FRXG76THA 2 128 0 0
+/.well-known/acme-challenge/IZ_HO9YENWF-8-0PMW88K90T32KOSPGT 2 128 1 0
+/.well-known/acme-challenge/B7_ZXNTMSM64W2UFT7W6C3UGM8G_EYCN 2 128 0 0
+/.well-known/acme-challenge/D_j-THpE5-CIg5NAddV6xb6G4akPoGLL8B-65LVIyjo 8 696 0 0
+/wp-includes/SimplePie/Decode/ 2 1682 0 0
+/wp-includes/random_compat/ 2 5508 0 0
+/wp-includes/js/tinymce/plugins/wpview/ 2 2106 0 0
+END_SIDER

@@ -1,0 +1,29 @@
+Return-Path: <hibawaseem@gator4199.hostgator.com>
+Delivered-To: hibawaseem@gator4199.hostgator.com
+Received: from gator4199.hostgator.com
+	by gator4199.hostgator.com with LMTP
+	id YJ4kCu56Sl0sNA0AjiQqlQ
+	(envelope-from <hibawaseem@gator4199.hostgator.com>)
+	for <hibawaseem@gator4199.hostgator.com>; Wed, 07 Aug 2019 02:17:02 -0500
+Return-path: <hibawaseem@gator4199.hostgator.com>
+Envelope-to: hibawaseem@gator4199.hostgator.com
+Delivery-date: Wed, 07 Aug 2019 02:17:02 -0500
+Received: from hibawaseem by gator4199.hostgator.com with local (Exim 4.92)
+	(envelope-from <hibawaseem@gator4199.hostgator.com>)
+	id 1hvGBy-003el3-48
+	for hibawaseem@gator4199.hostgator.com; Wed, 07 Aug 2019 02:17:02 -0500
+From: hibawaseem@gator4199.hostgator.com (Cron Daemon)
+To: hibawaseem@gator4199.hostgator.com
+Subject: Cron <hibawaseem@gator4199> /usr/local/bin/perl /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home4/hibawaseem>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=hibawaseem>
+X-Cron-Env: <USER=hibawaseem>
+Message-Id: <E1hvGBy-003el3-48@gator4199.hostgator.com>
+Date: Wed, 07 Aug 2019 02:17:02 -0500
+
+Bareword found where operator expected at /usr/local/cpanel/Cpanel/URI/Escape/Fast.pm line 22, near "s/([^A-Za-z0-9\-_\.~])/$escapes{$1}/gr"

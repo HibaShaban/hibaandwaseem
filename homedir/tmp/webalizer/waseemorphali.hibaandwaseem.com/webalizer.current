@@ -1,0 +1,198 @@
+# Webalizer V2.23-08 Incremental Data - 08/01/2020 06:33:51
+2020 8 1 6 33 51
+41 15 8 3 3 12 252250 10 4 0
+8 4 12 1 1
+41 15 252250 8 10 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 1 15216 2
+6 3 78374 2
+12 7 116322 6
+8 0 23092 0
+5 2 11412 0
+1 0 226 0
+4 2 7608 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+20
+0
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/education/
+0 2 24024224 14770 0 0
+/
+0 6 7954028942052502894 160514 3 0
+/wp-cron.php
+0 7 24022576 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+94-23-216-167.serverhub.ru
+0 2 0 268 0 0
+-
+154.16.58.220
+0 4 4 34204 1 1596248258
+/education/
+static.88.198.243.213.clients.your-server.de
+0 3 2 70766 1 1596246809
+/
+108-167-181-242.unifiedlayer.com
+0 7 7 0 0 0
+-
+msnbot-40-77-167-92.search.msn.com
+0 2 0 7608 1 1596243225
+-
+209.17.96.146.rdns.cloudsystemnetworks.com
+0 2 2 70540 1 1596249068
+/
+185.234.216.28
+0 2 0 166 0 0
+-
+193.106.30.99
+0 19 0 68698 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+94-23-216-167.serverhub.ru
+0 2 0 268 0 0
+-
+154.16.58.220
+0 4 4 34204 1 1596248258
+/education/
+static.88.198.243.213.clients.your-server.de
+0 3 2 70766 1 1596246809
+/
+108-167-181-242.unifiedlayer.com
+0 7 7 0 0 0
+-
+msnbot-40-77-167-92.search.msn.com
+0 2 0 7608 1 1596243225
+-
+209.17.96.146.rdns.cloudsystemnetworks.com
+0 2 2 70540 1 1596249068
+/
+185.234.216.28
+0 2 0 166 0 0
+-
+193.106.30.99
+0 19 0 68698 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 30
+http://waseemorphali.com/wp-cron.php
+0 7
+http://waseemorphali.com
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+0 6
+WordPress/5.0.10; http://waseemorphali.com
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

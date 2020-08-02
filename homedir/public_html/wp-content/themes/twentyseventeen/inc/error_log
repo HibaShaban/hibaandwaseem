@@ -1,0 +1,8 @@
+[06-Dec-2018 06:48:22 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 199
+[06-Dec-2018 06:52:15 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 199
+[06-Dec-2018 20:27:56 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[06-Dec-2018 23:24:34 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 07:56:18 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 08:13:34 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[11-Jun-2019 18:23:34 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[11-Jun-2019 18:36:20 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/hibawaseem/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

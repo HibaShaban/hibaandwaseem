@@ -1,0 +1,302 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home4/hibawaseem/tmp/awstats/awstats.waseemorphali.hibaandwaseem.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2714                
+POS_VISITOR 3441                
+POS_DAY 3894                
+POS_DOMAIN 4047                
+POS_LOGIN 4303                
+POS_ROBOT 4458                
+POS_WORMS 4667                
+POS_EMAILSENDER 4798                
+POS_EMAILRECEIVER 4941                
+POS_SESSION 5017                
+POS_SIDER 5179                
+POS_FILETYPES 6603                
+POS_DOWNLOADS 6856                
+POS_OS 6904                
+POS_BROWSER 7062                
+POS_SCREENSIZE 7274                
+POS_UNKNOWNREFERER 7348                
+POS_UNKNOWNREFERERBROWSER 7549                
+POS_ORIGIN 7745                
+POS_SEREFERRALS 7881                
+POS_PAGEREFS 8044                
+POS_SEARCHWORDS 8192                
+POS_KEYWORDS 8344                
+POS_MISC 2378                
+POS_ERRORS 8403                
+POS_CLUSTER 4159                
+POS_SIDER_404 8537                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201003438 970 305808 10153133289299
+FirstTime 20181130132445
+LastTime 20181130192551
+LastUpdate 20181201062217 970 0 969 0 0
+TotalVisits 10                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 1 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 8 8 309
+13 24 52 993789 9 10 309
+14 4 5 49255 1 1 0
+15 3 3 18474 2 5 36866
+16 1 2 40018 3 4 9362
+17 130 281 10757591 11 11 129072
+18 238 310 40613410 9 9 150
+19 111 250 29679778 18 18 927
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+73.84.246.107 470 832 81050779 20181130192551
+108.167.181.242 18 18 1 20181130192551
+99.177.91.194 15 41 910422 20181130132602
+128.235.159.0 3 5 83366 20181130134154
+83.43.116.216 1 1 9237 20181130151149
+40.76.21.228 1 1 9237 20181130154101
+107.72.164.88 1 2 40018 20181130144336
+104.192.74.22 1 1 9237 20181130160710
+148.62.14.156 1 1 9237 20181130140238
+192.95.4.125 0 1 30781 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20181130 511 903 82152315 10
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 510 901 82112297
+es 1 1 9237
+ca 0 1 30781
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+DomainSONOCrawler/ 4 27670 20181130150214 2
+unknown 2 18392 20181130160707 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+1h+ 3
+0s-30s 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/wp-admin/admin-ajax.php 250 822907 0 0
+/ 64 3386306 8 6
+/wp-admin/load-scripts.php 28 1973111 0 1
+/wp-admin/post.php 25 33252329 0 0
+/3d-graphics-project/ 20 1473740 0 0
+/wp-admin/ 14 1134804 0 0
+/wp-admin/edit.php 14 757069 0 0
+/wp-admin/load-styles.php 13 815234 0 1
+/wp-login.php 13 36257 0 0
+/wp-cron.php 12 0 2 2
+/contact/ 11 829526 0 0
+/wp-admin/customize.php 10 21412619 0 0
+/wp-admin/themes.php 5 193839 0 0
+/wp-admin/options-permalink.php 4 126957 0 0
+/wp-admin/plugins.php 4 311617 0 0
+/wp-admin/profile.php 3 108911 0 0
+/wp-admin/post-new.php 3 627824 0 0
+/wp-admin/async-upload.php 2 2587 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2 2 154320 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 2 118240 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 2 416404 0 0
+/wp-content/plugins/optinmonster/assets/fonts/archie.woff 2 5680 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 2 2112 0 0
+/wp-admin/upgrade.php 1 1 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 1 30064 0 0
+/wp-admin/theme-install.php 1 40329 0 0
+/wp-admin/update-core.php 1 27371 0 0
+/wp-admin/widgets.php 1 193051 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+html 109 6824376 0 0
+php 392 61118417 0 0
+gif 9 65210 0 0
+js 190 7322196 0 0
+css 110 1926607 0 0
+jpg 20 1099775 0 0
+woff2 6 379784 0 0
+woff 4 7792 0 0
+png 44 3230971 0 0
+svg 19 177187 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win10 2 1
+Unknown 18 18
+win7 2 2
+macosx12 1 1
+linuxandroid 5 3
+ios_iphone 6 4
+macosx 869 482
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+Unknown 18 18
+chrome11.0.696.71 2 2
+chrome70.0.3538.102 869 482
+chrome70.0.3538.110 1 0
+chrome58.0.3029.110 1 1
+firefox12.0 1 1
+chrome70.0.3538.80 5 3
+safari 6 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.9.8;_http://waseemorphali.com 20181130192551
+WordPress/4.9.4;_http://waseemorphali.com 20181130132447
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.9.4;_http://waseemorphali.com 20181130132447
+WordPress/4.9.8;_http://waseemorphali.com 20181130192551
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 39
+From1 0 0
+From2 1 1
+From3 0 0
+From4 472 863
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 30 94635
+301 21 1854
+500 2 5484
+404 4 28794
+409 2 166
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/sample-page/ 1 http://waseemorphali.com/wp-admin/edit.php
+/wp-admin/admin-ajax.php 3 http://waseemorphali.com/wp-admin/customize.php
+END_SIDER_404
